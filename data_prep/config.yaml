@@ -1,0 +1,92 @@
+data_directory: "{__dir__}/../data/data_prep"
+
+
+organisms:
+  5664: "leishmania major"
+  5691: "trypanosoma brucei"
+  5833: "plasmodium falciparum"
+
+
+source_files:
+  subdirectory: "source_files"
+
+  chemicals:
+    file: &chemicals_file chemicals.v5.0.tsv.gz
+    url: http://stitch.embl.de/download/chemicals.v5.0.tsv.gz
+
+  chemical_aliases:
+    file: &chemical_aliases_file chemical.aliases.v5.0.tsv.gz
+    url: http://stitch.embl.de/download/chemical.aliases.v5.0.tsv.gz
+
+  protein_chemical_actions:
+    file: &protein_chemical_actions_file "{org}.actions.v5.0.tsv.gz"
+    url: "http://stitch.embl.de/download/actions.v5.0/{org}.actions.v5.0.tsv.gz"
+
+  protein_chemical_links:
+    file: &protein_chemical_links_file "{org}.protein_chemical.links.transfer.v5.0.tsv.gz"
+    url: "http://stitch.embl.de/download/protein_chemical.links.transfer.v5.0/{org}.protein_chemical.links.transfer.v5.0.tsv.gz"
+
+  protein_links:
+    file: &protein_links_file "{org}.protein.physical.links.full.v11.0.txt.gz"
+    url: "https://stringdb-static.org/download/protein.physical.links.full.v11.0/{org}.protein.physical.links.full.v11.0.txt.gz"
+
+  protein_sequences:
+    file: &fasta_file "{org}.protein.sequences.v11.0.fa.gz"
+    url: "https://stringdb-static.org/download/protein.sequences.v11.0/{org}.protein.sequences.v11.0.fa.gz"
+
+
+drugs:
+  chemicals_source: *chemicals_file
+  chemical_aliases_source: *chemical_aliases_file
+
+  alias_regexp_and_filter:
+    alias: "^DB?\\d+$"
+    source: ".*?(KEGG|DrugBank).*?"
+
+  output_file: &drugs_file drugs.tsv
+
+
+networks:
+  protein_links:
+    source: *protein_links_file
+    node_columns: [protein1, protein2]
+    scores_to_use: [experiments, experiments_transferred]
+
+  protein_chemical_links:
+    source: *protein_chemical_links_file
+    node_columns: [chemical, protein]
+    scores_to_use: [experimental_direct, experimental_transferred]
+
+  protein_chemical_actions:
+    source: *protein_chemical_actions_file
+    node_columns: [item_id_a, item_id_b]
+    remove_modes: [catalysis]
+
+  drugs_file: *drugs_file
+
+  test_drugs:
+    CIDs00003599: miltefosine
+    CIDs00004735: pentamidine
+
+  remove_cidm: true
+  chemical_as_int: true
+
+  output_file: "{org}.protein_drug.network.json"
+
+
+unirep_features:
+  source: *fasta_file
+  batch_size: 10
+  output_file: "{org}.unirep_features.npz"
+
+
+rdkit_features:
+  input_file: *drugs_file
+  filter_file: ../filters/rdkit_features.txt      # can be null
+  output_file: rdkit_features.tsv.gz
+
+
+mordred_features:
+  input_file: *drugs_file
+  filter_file: ../filters/mordred_features.txt    # can be null
+  output_file: mordred_features.tsv.gz

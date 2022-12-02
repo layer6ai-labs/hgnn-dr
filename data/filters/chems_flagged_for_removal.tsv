@@ -1,0 +1,2608 @@
+chemical	aliases	names	flagged_for_removal
+888	DB01378 (DrugBank)	magnesium	1
+753	D00028 (KEGG) >> D05073 (KEGG) >> DB04077 (DrugBank)	glycerol	0
+312	D01139 (KEGG) >> D02057 (KEGG) >> D03635 (KEGG) >> D04834 (KEGG)	chloride	1
+23994	D05950 (KEGG) >> D06408 (KEGG) >> DB01593 (DrugBank)	Zn(II	1
+271	DB01373 (DrugBank)	calcium ions	1
+5288834	DB03564 (DrugBank) >> DB03684 (DrugBank)	X-4191	0
+311	D00037 (KEGG) >> DB04272 (DrugBank)	citric acid	1
+78165	DB03814 (DrugBank)	2-(N-morpholino)ethanesulfonic acid	0
+8200	DB02575 (DrugBank)	tetraethylene glycol	0
+1567	DB03131 (DrugBank) >> DB03345 (DrugBank)	2-mercaptoethanol	1
+6503	D00396 (KEGG) >> DB03754 (DrugBank)	Tris-HCl	1
+8172	DB02327 (DrugBank)	triethylene glycol	0
+283	DB01942 (DrugBank)	carboxy	1
+5238	D04874 (KEGG)	iodide	0
+679	D01043 (KEGG) >> DB01093 (DrugBank)	DMSO	1
+6083	DB00131 (DrugBank 845)	adenosine monophosphate	1
+68841	DB04522 (DrugBank)	phospho-serine	1
+11213558	DB07159 (DrugBank)	R406 free base	0
+3776	D00137 (KEGG) >> DB02325 (DrugBank) >> DB04402 (DrugBank)	isopropanol	1
+795	DB03366 (DrugBank)	imidazole	1
+943	D02313 (KEGG)	nitrate	0
+867	DB02175 (DrugBank) >> DB02201 (DrugBank)	malonate	1
+9977819	D08907 (KEGG)	dovitinib	0
+5329102	DB01268 (DrugBank 845) >> DB07417 (DrugBank 845)	sunitinib	0
+447446	DB08683 (DrugBank)	AC1L9KVE	0
+165339	DB01915 (DrugBank) >> DB03398 (DrugBank)	Cys sulfenic acid	1
+2513	DB02994 (DrugBank) >> DB04399 (DrugBank)	cacodylate	1
+5328940	D09728 (KEGG) >> DB06616 (DrugBank)	bosutinib	0
+5330812	DB07664 (DrugBank)	CDK1/2 inhibitor	0
+1549097	DB02153 (DrugBank)	L-CSA	1
+5329103	DB08009 (DrugBank)	SU11652	0
+9809714	D10481 (KEGG)	nintedanib	0
+5494449	D08344 (KEGG)	tozasertib	0
+42642645	D09618 (KEGG)	Foretinib	0
+170018	DB04530 (DrugBank)	L-CySSME	0
+8515	DB01782 (DrugBank)	JNK inhibitor II	0
+702	DB00898 (DrugBank 845)	ethanol	1
+5494425	DB04716 (DrugBank)	JAK inhibitor	0
+5957	D02300 (KEGG) >> D08647 (KEGG) >> DB00171 (DrugBank 845)	MgATP	0
+72886	DB03661 (DrugBank)	cysteic acid	1
+11005	DB08231 (DrugBank)	myristic acid	0
+3062316	D06414 (KEGG) >> DB01254 (DrugBank 845)	dasatinib	0
+5312137	DB08039 (DrugBank)	Su 6656	0
+23925	D00614 (KEGG) >> DB01592 (DrugBank 845)	Fe(III	1
+447077	DB02567 (DrugBank)	PD173955	0
+119400	D00103 (KEGG)	tartrate	0
+564	DB00513 (DrugBank 845) >> DB04134 (DrugBank 845)	EACA	1
+439554	DB04473 (DrugBank)	alpha-L-fucose	0
+176870	DB00530 (DrugBank 845)	erlotinib	0
+5289419	DB03428 (DrugBank)	SU9516	0
+6140	DB00120 (DrugBank 845)	phenylalanine	1
+11314340	DB08568 (DrugBank)	A-674563	0
+30819	DB01962 (DrugBank)	anti-phosphotyrosine	0
+11626560	D09731 (KEGG) >> DB08700 (DrugBank)	crizotinib	0
+9934347	DB07460 (DrugBank)	NVP-TAE226	0
+439691	DB04454 (DrugBank)	D-alpha-aminobutyric acid	1
+5287969	D02880 (KEGG) >> D09868 (KEGG) >> DB03496 (DrugBank 845)	flavopiridol	0
+22497	D02334 (KEGG) >> DB04053 (DrugBank)	phosphinate	1
+216239	D06272 (KEGG) >> DB00398 (DrugBank 845) >> DB07438 (DrugBank 845)	sorafenib	0
+12374	DB02210 (DrugBank)	1,6-hexanediol	0
+81462	DB02748 (DrugBank)	Bis-Tris	0
+448009	DB04237 (DrugBank)	tris(hydroxyethyl)aminomethane	0
+23939	D01416 (KEGG) >> DB00958 (DrugBank 845)	platinum	0
+65482	D05846 (KEGG)	sinefungin	0
+175	D00010 (KEGG) >> DB03166 (DrugBank) >> DB04184 (DrugBank)	acetate	1
+444718	DB02494 (DrugBank)	L-3-phenyllactic acid	0
+171548	D00029 (KEGG) >> D07586 (KEGG) >> DB00121 (DrugBank)	anti-biotin	1
+5280343	DB04216 (DrugBank 845)	quercetin	0
+546	D04254 (KEGG) >> DB02823 (DrugBank)	phosphonoacetic acid (PAA	1
+451597	DB04602 (DrugBank)	PANS 5'-monophosphate	0
+9543443	D05905 (KEGG) >> DB04222 (DrugBank)	D05905	0
+8378	D07994 (KEGG) >> DB00452 (DrugBank 845) >> DB00994 (DrugBank 845)	neomycin	1
+46207586	D10423 (KEGG)	Ilorasertib	0
+5988	D00025 (KEGG)	sucrose	1
+10113978	D05380 (KEGG) >> DB06589 (DrugBank)	pazopanib	0
+66898	DB03309 (DrugBank)	ChEs	0
+5287844	DB03444 (DrugBank)	6-bromoindirubin-3-oxime	0
+441401	DB00601 (DrugBank 845) >> DB08769 (DrugBank 845)	linezolid	1
+5326739	DB02052 (DrugBank)	indirubin-3'-oxime	0
+222	D02916 (KEGG)	ammonia	0
+11524144	DB08597 (DrugBank)	compound C	0
+24905142	DB08052 (DrugBank)	pp121	0
+31275	DB03316 (DrugBank)	dioxane	1
+11485656	D09635 (KEGG)	linifanib	0
+5950	DB00160 (DrugBank 845) >> DB01786 (DrugBank 845)	alanine	1
+36314	DB01229 (DrugBank 845)	paclitaxel	0
+439750	DB04464 (DrugBank)	N-formylmethionine	1
+62852	DB03122 (DrugBank)	n-octyl-beta-D-glucopyranoside	0
+148123	D02165 (KEGG) >> DB01248 (DrugBank 845)	docetaxel	1
+123631	DB00317 (DrugBank 845) >> DB07998 (DrugBank 845)	gefitinib	0
+444863	DB03283 (DrugBank)	beta-L-fucopyranoside	0
+643976	D01622 (KEGG) >> D05725 (KEGG)	flavin mononucleotide	0
+66370	D02325 (KEGG)	beta-D-glucopyranoside	0
+79718	DB03394 (DrugBank)	heptaethylene glycol	0
+6274	D00032 (KEGG) >> D02072 (KEGG) >> DB00117 (DrugBank)	histidine	1
+5005498	DB04014 (DrugBank)	alsterpaullone	0
+9915743	D08950 (KEGG)	neratinib	0
+6419766	DB08454 (DrugBank)	GSK3 inhibitor XIII	0
+750	DB00145 (DrugBank 845)	glycine	1
+9933475	D08883 (KEGG) >> DB04849 (DrugBank)	cediranib	0
+9926791	D09783 (KEGG) >> D09970 (KEGG)	tofacitinib	0
+4867	DB03538 (DrugBank)	nonaethyleneglycol	0
+5330286	D10372 (KEGG)	palbociclib	0
+60961	DB00640 (DrugBank 845)	adenosine	1
+145742	DB00172 (DrugBank 845) >> DB02853 (DrugBank 845)	3H-proline	1
+2396	DB03777 (DrugBank)	bisindolylmaleimide I	0
+123991	DB02688 (DrugBank)	dehydroalanine	1
+447961	DB02833 (DrugBank)	Cdk2/9 Inhibitor	0
+2332	DB03127 (DrugBank)	benzamidine	1
+445643	D00107 (KEGG) >> DB00864 (DrugBank 845)	tacrolimus	1
+643975	D00005 (KEGG) >> D02011 (KEGG) >> DB03147 (DrugBank)	flavin adenine dinucleotide	1
+10389238	DB08358 (DrugBank)	MK2 inhibitor III	0
+24889392	D09955 (KEGG) >> D09956 (KEGG)	quizartinib	0
+644241	D06413 (KEGG) >> D08953 (KEGG)	nilotinib	0
+6450551	D03218 (KEGG)	axitinib	0
+6228	DB01844 (DrugBank)	dimethylformamide	1
+6445562	D05399 (KEGG)	pelitinib	0
+3081361	DB05294 (DrugBank) >> DB08764 (DrugBank 845)	vandetanib	0
+124886	D00014 (KEGG) >> D08025 (KEGG) >> DB00143 (DrugBank)	reduced glutathione	1
+5892	D00002 (KEGG)	diphosphopyridine nucleotide	0
+5281672	DB02375 (DrugBank)	myricetin	0
+6449989	DB03720 (DrugBank)	dehydrobutyrine	1
+5289243	DB02566 (DrugBank)	DB02566	0
+5326843	DB07364 (DrugBank)	aloisine A	0
+1003	D05467 (KEGG) >> DB02831 (DrugBank)	phosphate	1
+5687	DB03365 (DrugBank)	WHI-P180	0
+15942673	DB08198 (DrugBank)	(R)-MON-97	0
+6857690	DB07064 (DrugBank)	AC1OAH2A	0
+794323	DB04331 (DrugBank)	(4S)-Monastrol	0
+6102824	DB08244 (DrugBank)	AC1O0V3M	0
+11675645	DB08239 (DrugBank)	DB08239	0
+1190625	DB08032 (DrugBank)	DB08032	0
+5281855	DB08468 (DrugBank) >> DB08846 (DrugBank)	ellagic acid	0
+16122638	DB08033 (DrugBank)	DB08033	0
+11655511	DB08037 (DrugBank)	ALR-3456	0
+6287	D00039 (KEGG) >> DB00161 (DrugBank)	L-valine	1
+5288685	DB03996 (DrugBank)	DB03996	0
+6450816	D04640 (KEGG)	ispinesib	0
+23586165	DB08250 (DrugBank)	DB08250	0
+11840968	DB08246 (DrugBank)	dihydropyrrole, 6	0
+448043	DB07876 (DrugBank)	Dimethylfasudil	0
+6305	DB00150 (DrugBank 845) >> DB03225 (DrugBank 845)	tryptophan	1
+97328	DB03320 (DrugBank)	L-Dap	1
+5291	D01441 (KEGG) >> DB00619 (DrugBank 845) >> DB03261 (DrugBank 845)	imatinib	0
+17754396	DB06932 (DrugBank)	Kinome_3774	0
+446696	DB02883 (DrugBank)	ddCMP	0
+5280443	DB07352 (DrugBank)	apigenin	0
+448580	DB01646 (DrugBank)	N-acetylmethionine	0
+3000226	D00213 (KEGG) >> D08003 (KEGG) >> DB02703 (DrugBank 845)	fusidic acid	1
+2856	DB08325 (DrugBank)	compound 52	0
+456214	DB04751 (DrugBank)	purvalanol A	0
+190	DB00173 (DrugBank 845)	adenine	1
+92824	DB03499 (DrugBank)	D-malate	1
+4566	DB07126 (DrugBank)	6-cyclohexylmethoxy-2-(4'-sulfamoylanilino)purine	0
+125132	DB02676 (DrugBank)	Bis-Tris propane	0
+657096	DB03556 (DrugBank)	AC1LCW0P	0
+7302	DB04699 (DrugBank)	butyrolactone	1
+11234052	D09589 (KEGG)	brivanib	0
+983	DB03896 (DrugBank)	polyphosphate	1
+242	D00038 (KEGG) >> D02277 (KEGG) >> D05576 (KEGG) >> DB03793 (DrugBank)	benzoic acid	1
+3547	D01840 (KEGG) >> D03115 (KEGG) >> D07941 (KEGG) >> DB08162 (DrugBank)	fasudil	0
+447873	DB02388 (DrugBank)	AC1L9LC4	0
+156422	DB03044 (DrugBank 845)	BIRB796	0
+5951	D00016 (KEGG) >> DB00133 (DrugBank) >> DB03375 (DrugBank)	D-serine	1
+443118	DB07558 (DrugBank)	ALLN	0
+6386	DB03900 (DrugBank)	tert-butanol	1
+165151	DB03150 (DrugBank)	ddTMP	0
+46937130	DB08185 (DrugBank)	DB08185	0
+4212	D02166 (KEGG) >> DB01204 (DrugBank 845)	mitoxantrone	1
+165579	D00868 (KEGG) >> DB01421 (DrugBank 845)	paromomycin	1
+15541	D00869 (KEGG) >> DB00919 (DrugBank 845)	spectinomycin	1
+19648	D01350 (KEGG) >> DB01082 (DrugBank 845)	streptomycin	1
+16757525	DB07149 (DrugBank)	DB07149	0
+5287600	DB04313 (DrugBank) >> DB04538 (DrugBank)	3-methylaspartic acid	1
+1400	DB01809 (DrugBank)	EI 275	0
+14205264	DB06905 (DrugBank)	DB06905	0
+24894167	DB07676 (DrugBank)	DB07676	0
+24180719	DB06999 (DrugBank)	PLX-4720	0
+24821094	D10223 (KEGG)	ibrutinib	0
+6057	DB00135 (DrugBank 845) >> DB03839 (DrugBank 845)	tyrosine	1
+24865390	DB08699 (DrugBank)	DB08699	0
+24995523	DB07361 (DrugBank 845)	SNS-314 mesylate	0
+16043304	DB07235 (DrugBank)	DB07235	0
+24851688	DB07242 (DrugBank)	DB07242	0
+165331	DB02761 (DrugBank)	thiocysteine	1
+152441	DB01857 (DrugBank) >> DB03713 (DrugBank) >> DB04247 (DrugBank)	aspartyl phosphate	1
+813	D08403 (KEGG)	potassium	1
+712421	DB02884 (DrugBank)	3-cyclohexylalanine	0
+3520	DB00536 (DrugBank)	guanidinium	1
+10296883	D09671 (KEGG) >> D09718 (KEGG)	sotrastaurin	0
+985	D05341 (KEGG) >> DB03796 (DrugBank)	palmitate	1
+8064	DB01955 (DrugBank)	1,4-butanediol	1
+5289247	DB04769 (DrugBank)	PI3Kgamma inhibitor	0
+70815	DB02219 (DrugBank)	N-cyclohexyl-3-aminopropanesulfonic acid	0
+134856	DB03920 (DrugBank)	N-methyldehydroalanine	1
+449005	DB03429 (DrugBank)	cardiolipin	0
+446073	DB03050 (DrugBank)	geran-8-yl geran	0
+446094	DB01692 (DrugBank) >> DB02184 (DrugBank) >> DB04447 (DrugBank)	1,4-dithiothreitol	1
+8189	DB02078 (DrugBank)	triglyme	0
+445639	D02315 (KEGG)	oleic acid	1
+444894	DB06843 (DrugBank)	2',5'-dideoxy-3'-AMP	0
+78798	DB04535 (DrugBank)	octaethylene glycol	0
+47936	D03584 (KEGG) >> DB02587 (DrugBank)	forskolin	0
+25174101	DB06882 (DrugBank)	pyrazolourea, 1b	0
+24963046	DB08351 (DrugBank)	DB08351	0
+196	D08839 (KEGG)	adipate	0
+6167	DB08117 (DrugBank 845)	colchicine	0
+447700	DB08339 (DrugBank)	NSC735424	0
+16197727	D10511 (KEGG) >> DB04931 (DrugBank)	NDP-MSH	0
+10915062	DB06883 (DrugBank)	DB06883	0
+3038525	DB07138 (DrugBank 845)	Vx-745	0
+23647652	DB07533 (DrugBank)	DB07533	0
+92249	DB08168 (DrugBank)	7-amino-4-methylcoumarin	0
+5729339	DB07534 (DrugBank)	AC1NWH6M	0
+23644582	DB07832 (DrugBank)	DB07832	0
+5288641	DB02519 (DrugBank)	indirubin-5-sulphonate	0
+11574606	DB07688 (DrugBank)	DB07688	0
+24812718	DB07537 (DrugBank)	DB07537	0
+24871491	DB08513 (DrugBank)	DB08513	0
+23647657	DB07538 (DrugBank)	DB07538	0
+15991573	DB06925 (DrugBank)	2-aminoquinazoline 5	0
+4473	D00617 (KEGG) >> DB00622 (DrugBank 845)	nicardipine	1
+5287855	DB07503 (DrugBank)	PI3Kgamma inhibitor II	0
+445154	DB02709 (DrugBank 845)	resveratrol	0
+24905152	DB08054 (DrugBank)	DB08054	0
+3715	D02110 (KEGG) >> DB00328 (DrugBank 845)	indomethacin	0
+312145	DB08059 (DrugBank)	wortmannin	0
+24905143	DB07335 (DrugBank)	DB07335	0
+1051	D00006 (KEGG) >> D03281 (KEGG) >> DB00114 (DrugBank 845)	pyridoxal phosphate	0
+17751819	DB08150 (DrugBank)	CCT128930	0
+24905153	DB08053 (DrugBank)	DB08053	0
+444972	DB01677 (DrugBank) >> DB04299 (DrugBank 845)	fumarate	1
+1135	DB03462 (DrugBank)	thymine	1
+3035817	DB02152 (DrugBank)	K-252a	0
+5288145	DB04276 (DrugBank)	DB04276	0
+6137	D00019 (KEGG) >> DB00134 (DrugBank)	methionine	1
+3893	DB03017 (DrugBank)	lauric acid	0
+9829523	D05029 (KEGG)	midostaurin	0
+448042	DB08756 (DrugBank)	Y-27632 dihydrochloride	0
+24905144	DB08300 (DrugBank)	DB08300	0
+5281828	D04864 (KEGG)	maytansine	0
+24771867	D10085 (KEGG) >> D10086 (KEGG)	alisertib	0
+444108	DB07752 (DrugBank)	farnesyl	0
+7870	D04439 (KEGG)	2-methyl-2,4-pentanediol	0
+16046126	DB06888 (DrugBank)	DB06888	0
+10607	D05529 (KEGG) >> DB01179 (DrugBank) >> DB08417 (DrugBank)	podophyllotoxin	1
+6852167	DB06836 (DrugBank)	Pik-93	0
+23647659	DB07540 (DrugBank)	DB07540	0
+9952008	DB08441 (DrugBank)	DB08441	0
+15433	DB04147 (DrugBank)	LDAO	0
+5288266	DB02767 (DrugBank)	3-hydroxymyristic acid	0
+24894130	DB07266 (DrugBank)	AKI-001	0
+5311176	DB06841 (DrugBank)	Phe-Pro-Arg-chloromethylketone	0
+24762195	DB08148 (DrugBank)	DB08148	0
+11696113	DB08149 (DrugBank)	DB08149	0
+7020127	DB08371 (DrugBank)	p-benzoyl-L-phenylalanine	0
+673	DB02083 (DrugBank)	dimethylglycine	1
+222528	DB07690 (DrugBank)	sodium deoxycholate	0
+1031	DB03175 (DrugBank)	hydroxypropyl	1
+65059	DB04457 (DrugBank)	dGMP	0
+5280863	DB01852 (DrugBank)	kaempferol	0
+11987888	DB08590 (DrugBank)	Kinome_2782	0
+15906	DB02486 (DrugBank)	hydroxyethyl disulfide	1
+439153	DB00157 (DrugBank 845)	reduced nicotinamide adenine dinucleotide	0
+2726	D00789 (KEGG) >> DB00477 (DrugBank 845)	chlorpromazine	0
+4858	DB08348 (DrugBank)	PJ34 hydrochloride hydrate	0
+4122	D05197 (KEGG) >> DB08313 (DrugBank)	nocodazole	0
+5978	D02197 (KEGG) >> DB00541 (DrugBank 845)	vincristine	1
+5287955	DB07574 (DrugBank)	DB07574	0
+9941379	D06569 (KEGG)	bremelanotide	0
+7504	DB02464 (DrugBank)	benzylamine	1
+447966	DB03921 (DrugBank)	TbetaR-I inhibitor	0
+17754204	DB03679 (DrugBank)	beta-hydroxytryptophan	0
+3815	DB08036 (DrugBank)	staurosporine aglycone	0
+439407	DB01822 (DrugBank) >> DB02693 (DrugBank)	oxidized dithiothreitol	1
+387447	D03150 (KEGG) >> DB00188 (DrugBank)	bortezomib	0
+11441375	DB07274 (DrugBank)	DB07274	0
+3038522	DB05465 (DrugBank)	tandutinib	0
+11840981	DB08515 (DrugBank)	DB08515	0
+4030	DB00643 (DrugBank 845)	mebendazole	0
+4468930	DB03570 (DrugBank)	tris(hydroxymethyl)methylamino	1
+9549303	DB07545 (DrugBank)	Aurora kinase inhibitor III	0
+16842	DB01902 (DrugBank)	1-ethylpyrrolidine-2,5-dione	1
+356	DB02440 (DrugBank)	octyl	0
+8739	D09322 (KEGG)	4-carboxybenzenesulfonamide	0
+134490	DB03817 (DrugBank)	2,4-diaminobutyric acid	1
+8179	DB08357 (DrugBank)	3,6,9-trioxaundecane	0
+156413	DB05424 (DrugBank)	canertinib	0
+155448	DB02451 (DrugBank)	n-nonyl-beta-D-glucoside	0
+123619	DB01628 (DrugBank 845) >> DB07166 (DrugBank 845)	etoricoxib	1
+90255	DB02042 (DrugBank)	2,5,8,11,14-pentaoxahexadecan-16-ol	0
+51	DB02926 (DrugBank) >> DB03806 (DrugBank)	ketoglutarate	0
+71077	DB03929 (DrugBank)	D-serine	1
+4369496	DB04739 (DrugBank)	Demethyl-imatinib	0
+9968957	DB06834 (DrugBank)	DB06834	0
+123831	DB01686 (DrugBank)	asymmetric dimethylarginine	0
+1694	DB04462 (DrugBank)	4,5,6,7-tetrabromobenzotriazole	1
+16720766	D10413 (KEGG)	pevonedistat	0
+11493841	DB08361 (DrugBank)	DB08361	0
+449120	DB01742 (DrugBank)	(3r)-1-acetyl-3-methylpiperidine	0
+11513676	D10087 (KEGG)	alisporivir	0
+5319	D05946 (KEGG)	sulfabenzamide	0
+104406	DB02419 (DrugBank)	ethyl 1-piperidineglyoxylate	0
+5287587	DB03105 (DrugBank)	5-hydroxynorvaline	1
+9700	DB01643 (DrugBank)	poly(dT	0
+8182	DB02771 (DrugBank)	dodecane	0
+448014	DB01950 (DrugBank)	GSK3 inhibitor VIII	0
+65304	DB02189 (DrugBank)	ddATP	0
+9822610	DB08519 (DrugBank)	pyrimidine, 5a	0
+19910	D07245 (KEGG) >> DB01422 (DrugBank)	nitroxoline	1
+11671467	D09347 (KEGG) >> D09348 (KEGG)	fostamatinib	0
+11820	DB04580 (DrugBank)	1-methyl-2-quinolone	1
+447622	DB02491 (DrugBank)	AC1L9L1K	0
+5327014	DB04757 (DrugBank)	DB04757	0
+5566	D00799 (KEGG) >> D01448 (KEGG) >> DB00831 (DrugBank 845) >> DB08616 (DrugBank 845)	trifluoperazine	1
+5455	D06114 (KEGG)	thiram	0
+5328120	DB08144 (DrugBank)	6-(2,6-dibromophenyl)pyrido[2,3-d]pyrimidine-2,7-diamine	0
+178	DB02736 (DrugBank)	acetaminophen-induced	1
+78057	DB02343 (DrugBank)	3,6,9,12,15-Pentaoxaheptadecane	0
+11640390	D09925 (KEGG)	linsitinib	0
+24801862	DB08023 (DrugBank)	DB08023	0
+5287620	DB07348 (DrugBank)	brefeldin A	0
+4592	DB02116 (DrugBank)	olomoucine	0
+5478883	D03818 (KEGG)	pepstatin	0
+65124	DB03867 (DrugBank)	3-nitrotyrosine	0
+23991	D01901 (KEGG)	xenon	0
+8058	DB02764 (DrugBank)	hexane	0
+23727982	DB08182 (DrugBank)	meriolin 5	0
+448008	DB01793 (DrugBank)	AC1L9LHU	0
+25181321	DB07058 (DrugBank)	DB07058	0
+2079916	DB07014 (DrugBank)	AC1M0N8J	0
+448238	DB01772 (DrugBank)	AC1L9LR6	0
+17755052	D10189 (KEGG)	pictilisib	0
+2351	D00631 (KEGG) >> DB01244 (DrugBank 845)	bepridil	0
+445463	DB03152 (DrugBank)	b-2-octylglucoside	0
+23727981	DB08178 (DrugBank)	meriolin 3	0
+971	DB02737 (DrugBank) >> DB03902 (DrugBank)	oxalic acid	1
+3115	D05916 (KEGG)	stallimycin	0
+23658582	DB07326 (DrugBank)	DB07326	0
+25011728	DB07252 (DrugBank)	DB07252	0
+5164	DB04338 (DrugBank)	SB220025 trihydrochloride	0
+25322842	DB01754 (DrugBank)	3,4-dihydroxy-1-methylquinolin-2(1h)-one	0
+92105	DB04151 (DrugBank)	N tau-methylhistidine	0
+11553058	DB07146 (DrugBank)	DB07146	0
+10302451	D09664 (KEGG) >> D09665 (KEGG)	saracatinib	0
+11560856	DB06997 (DrugBank)	DB06997	0
+42627755	DB07382 (DrugBank)	APY29	0
+5003497	DB08709 (DrugBank)	2,3-diphenyl-1H-indole-7-carboxylic acid	0
+24180721	DB07524 (DrugBank)	n-phenyl-1h-pyrrolo[2,3-b]pyridin-3-amine	0
+24963047	DB07162 (DrugBank)	DB07162	0
+3559	D08035 (KEGG) >> DB00502 (DrugBank 845)	haloperidol	0
+5281701	DB08230 (DrugBank)	tricetin	0
+24812717	DB07514 (DrugBank)	DB07514	0
+15295578	DB07234 (DrugBank)	DB07234	0
+10090485	D10437 (KEGG)	galunisertib	0
+44563262	DB08055 (DrugBank)	DB08055	0
+24826799	D09950 (KEGG) >> D09951 (KEGG) >> DB08901 (DrugBank)	ponatinib	0
+10074640	D10229 (KEGG)	masitinib	0
+16040281	DB08221 (DrugBank)	DB08221	0
+24861080	DB07256 (DrugBank)	DB07256	0
+44422489	DB08056 (DrugBank)	DB08056	0
+24812719	DB07528 (DrugBank)	DB07528	0
+9797919	DB07288 (DrugBank)	VEGFR tyrosine kinase inhibitor II	0
+15942672	DB08043 (DrugBank)	DB08043	0
+5289418	DB08577 (DrugBank)	Su5402	0
+44205240	D10308 (KEGG)	baricitinib	0
+21081761	DB06896 (DrugBank)	RS0065	0
+9823820	D09919 (KEGG) >> D09920 (KEGG)	lenvatinib	0
+24864821	DB08079 (DrugBank)	AMG-208	0
+16040289	DB07183 (DrugBank)	nicotinamide 35	0
+24808489	DB07156 (DrugBank)	isoquinolinedione, 1	0
+11957393	DB07248 (DrugBank)	DB07248	0
+24875320	DB07970 (DrugBank)	DB07970	0
+16040294	DB07966 (DrugBank)	DB07966	0
+49806720	D10450 (KEGG)	alectinib	0
+24180722	DB07525 (DrugBank)	DB07525	0
+447048	DB02059 (DrugBank)	adenosine 5-diphosphoribose	0
+24779724	DB08584 (DrugBank 845)	SGX-523	0
+6456015	D06402 (KEGG)	sunitinib malate	0
+2683	D01062 (KEGG) >> D07666 (KEGG)	cetylpyridinium chloride	0
+24901696	DB08111 (DrugBank)	Triazolopyridazine, 3a	0
+25011729	DB07253 (DrugBank)	DB07253	0
+25062766	D10315 (KEGG) >> D10358 (KEGG)	momelotinib	0
+24836813	DB07250 (DrugBank)	DB07250	0
+11387605	D10202 (KEGG)	bafetinib	0
+10401956	DB08462 (DrugBank)	N-(4-anilinoquinazolin-6-yl) acrylamide	0
+5459373	DB04715 (DrugBank)	K00135	0
+10477723	DB07831 (DrugBank)	DB07831	0
+9911830	D09683 (KEGG) >> D10190 (KEGG)	tivozanib	0
+673481	DB07398 (DrugBank)	DB07398	0
+5328969	DB08564 (DrugBank)	DB08564	0
+17756743	DB07297 (DrugBank)	DB07297	0
+25066467	D10334 (KEGG) >> D10399 (KEGG)	rebastinib	0
+4327	DB03878 (DrugBank)	AC1L1HWV	0
+17749728	DB07369 (DrugBank)	DB07369	0
+46937119	DB08057 (DrugBank)	DB08057	0
+2765355	DB08707 (DrugBank)	Pim1 inhibitor 2	0
+11492186	DB07161 (DrugBank)	5-phenyl-1H-indazol-3-amine	0
+46937117	DB08022 (DrugBank)	DB08022	0
+4708	DB07662 (DrugBank)	pd 168393	0
+25126797	D09959 (KEGG) >> D09960 (KEGG) >> DB08877 (DrugBank)	ruxolitinib	0
+25102847	D10062 (KEGG)	cabozantinib	0
+611002	DB03650 (DrugBank)	3-(4-Hydroxy-phenyl-imino)indolin-2-one	0
+25113181	DB07969 (DrugBank)	DB07969	0
+25203955	DB08703 (DrugBank)	DB08703	0
+5329106	D08503 (KEGG) >> D08544 (KEGG)	toceranib	0
+5330197	DB07249 (DrugBank)	DB07249	0
+689043	DB01880 (DrugBank)	caffeic acid	0
+25113172	DB07194 (DrugBank)	DB07194	0
+25229537	DB08791 (DrugBank)	DB08791	0
+17748441	DB06995 (DrugBank)	DB06995	0
+10361208	DB08708 (DrugBank)	DB08708	0
+151193	D06285 (KEGG) >> DB04879 (DrugBank)	vatalanib	0
+11167118	DB06938 (DrugBank)	DB06938	0
+4369497	DB07334 (DrugBank)	DB07334	0
+25011731	DB07255 (DrugBank)	DB07255	0
+4369498	DB07333 (DrugBank)	DB07333	0
+16750094	DB08350 (DrugBank)	PPY-A	0
+24836812	DB07251 (DrugBank)	Bis-anilinotriazine, 2	0
+9884318	DB07167 (DrugBank)	Arylamide, 1	0
+1235170	DB08705 (DrugBank)	TCS PIM-1 1	0
+25011730	DB07254 (DrugBank)	DB07254	0
+11221386	DB07202 (DrugBank)	DB07202	0
+6540255	DB07444 (DrugBank)	DB07444	0
+3108	DB00975 (DrugBank 845)	dipyridamole	0
+24180718	DB07125 (DrugBank)	DB07125	0
+5288116	DB04069 (DrugBank)	5,6-dihydro-benzo[h]cinnolin-3-ylamine	0
+3037617	DB04851 (DrugBank)	biricodar	0
+60662	D05024 (KEGG) >> DB01388 (DrugBank 845)	mibefradil	1
+446973	DB02202 (DrugBank)	S)-1,3-butanediol	1
+7405	D07605 (KEGG) >> D08263 (KEGG)	pyroglutamate	0
+1102	DB03566 (DrugBank)	spermidine	0
+10680	DB07776 (DrugBank)	Flavone	0
+5798	DB02962 (DrugBank)	benzimidazole	1
+6409	DB03226 (DrugBank)	2,2,2-trifluoroethanol	1
+743	DB03553 (DrugBank)	acetate, propionate	1
+8150	DB02935 (DrugBank)	diglyme	0
+29144	D01574 (KEGG) >> D08164 (KEGG)	cysteine methyl ester	1
+392622	DB00503 (DrugBank 845)	ritonavir	1
+5894	DB08473 (DrugBank)	5,6-dichloro-1-beta-D-ribofuranosylbenzimidazole	0
+447027	DB04141 (DrugBank)	1-hexyl-beta-d-galactoside	0
+6857727	DB08751 (DrugBank)	AC1OAH4Y	0
+2812	DB00257 (DrugBank 845)	clotrimazole	1
+10132	DB03589 (DrugBank)	oxomalonate	1
+449241	DB07995 (DrugBank)	H-89 dihydrochloride	0
+12647	DB04193 (DrugBank)	homoserine	1
+30323	D01264 (KEGG) >> DB00694 (DrugBank 845)	daunorubicin	1
+9578243	D04185 (KEGG) >> DB02660 (DrugBank)	WAY-PDA-641	0
+247	D03103 (KEGG) >> D07523 (KEGG) >> D07525 (KEGG) >> DB04455 (DrugBank)	betaine	1
+47576	D00351 (KEGG)	Nizoral	0
+4462	DB08689 (DrugBank)	ubiquinones	0
+97297	DB04604 (DrugBank)	5-iodotubercidin	0
+6323490	DB00615 (DrugBank 845)	rifabutin	1
+760	DB04343 (DrugBank)	glyoxylate	1
+8761	DB03709 (DrugBank)	Bicine	0
+447962	DB07562 (DrugBank)	AC1L9LFU	0
+588963	DB08235 (DrugBank)	CK-636	0
+44129612	DB08236 (DrugBank)	DB08236	0
+25190761	DB08285 (DrugBank)	NSC743927	0
+5717	DB00549 (DrugBank 845)	zafirlukast	1
+5360	D00808 (KEGG) >> DB04786 (DrugBank 845)	suramin	0
+439246	DB03467 (DrugBank)	d) Naringenin	0
+4485	DB01115 (DrugBank 845)	nifedipine	1
+17754054	DB03801 (DrugBank)	lysine nz-carboxylic acid	0
+2520	D00619 (KEGG) >> DB00661 (DrugBank 845)	verapamil	1
+25195347	DB07045 (DrugBank)	DB07045	0
+5591	DB00197 (DrugBank 845)	troglitazone	0
+33032	D02280 (KEGG) >> D07539 (KEGG) >> DB00142 (DrugBank 845) >> DB02517 (DrugBank 845)	glutamic acid	1
+2761494	DB02685 (DrugBank)	3-methylphenylalanine	0
+441478	DB03156 (DrugBank)	beta-D-glucuronide	0
+10062713	DB07592 (DrugBank)	DB07592	0
+5289294	DB03691 (DrugBank)	WRR-112	0
+10062714	DB07593 (DrugBank)	DB07593	0
+46937062	DB07225 (DrugBank)	DB07225	0
+1103	DB00127 (DrugBank) >> DB02564 (DrugBank)	spermine	0
+5288147	DB04126 (DrugBank)	DB04126	0
+9547943	DB08195 (DrugBank)	DB08195	0
+5997	D00040 (KEGG)	cholesterol	1
+5288259	DB01858 (DrugBank)	AC1NRB4Z	0
+10324367	D08876 (KEGG) >> DB05665 (DrugBank) >> DB08873 (DrugBank)	boceprevir	0
+23648296	DB03837 (DrugBank)	LHVS	0
+9887557	DB08752 (DrugBank)	DB08752	0
+5288616	DB07965 (DrugBank)	NVP-ABE854	0
+448022	DB04523 (DrugBank)	AC1L9LIG	0
+5288867	DB04234 (DrugBank)	AC1NRC7S	0
+6106	D00030 (KEGG) >> DB00149 (DrugBank) >> DB01746 (DrugBank)	leucine	1
+5289258	DB03573 (DrugBank)	WRR-99	0
+6918710	DB07164 (DrugBank)	DB07164	0
+5327077	DB04788 (DrugBank)	tagetitoxin	0
+5288988	DB03456 (DrugBank)	DB03456	0
+46937102	DB07878 (DrugBank)	DB07878	0
+100714	DB02289 (DrugBank)	aminomalonic acid	1
+46937081	DB07563 (DrugBank)	DB07563	0
+2723698	DB03329 (DrugBank)	2-mercaptopyridine	1
+36143	D05292 (KEGG) >> DB02601 (DrugBank) >> DB04291 (DrugBank) >> DB04308 (DrugBank)	oxfenicine	1
+11464526	DB07967 (DrugBank)	DB07967	0
+22850133	DB07219 (DrugBank)	DB07219	0
+11840930	DB07520 (DrugBank)	DB07520	0
+3332	D01675 (KEGG) >> DB07477 (DrugBank)	EMEC	0
+11840970	DB08287 (DrugBank)	DB08287	0
+23647361	DB07231 (DrugBank)	DB07231	0
+11840934	DB07589 (DrugBank)	DB07589	0
+23647358	DB07224 (DrugBank)	DB07224	0
+11840933	DB07587 (DrugBank)	DB07587	0
+5287438	DB01810 (DrugBank)	DB01810	0
+6610318	DB07223 (DrugBank)	AC1O7M24	0
+46937163	DB08611 (DrugBank)	DB08611	0
+23647357	DB07160 (DrugBank)	DB07160	0
+10184653	D09724 (KEGG) >> D09733 (KEGG) >> DB08916 (DrugBank)	afatinib	0
+8333	DB03588 (DrugBank)	diphenylacetoxy	0
+90334	DB02352 (DrugBank)	2-amino-3-benzyloxypyridine	0
+46937176	DB08755 (DrugBank)	DB08755	0
+10152654	D08955 (KEGG)	odanacatib	0
+1001	DB04325 (DrugBank)	beta-phenylethylamine	1
+5289424	DB01871 (DrugBank)	DB01871	0
+3010818	D09012 (KEGG) >> DB05521 (DrugBank)	telaprevir	0
+5287799	DB03767 (DrugBank)	DB03767	0
+6420159	DB07839 (DrugBank)	AC1O4WKW	0
+90624	DB03700 (DrugBank)	D-allothreonine	1
+46937137	DB08270 (DrugBank)	DB08270	0
+5287870	DB03984 (DrugBank)	DB03984	0
+5289428	DB08594 (DrugBank)	DB08594	0
+2733525	D00966 (KEGG) >> DB00675 (DrugBank 845)	tamoxifen	1
+5281614	DB07795 (DrugBank)	fisetin	0
+13804	D00057 (KEGG) >> D03528 (KEGG)	CDP-choline	0
+16362	DB01100 (DrugBank 845)	pimozide	1
+667639	DB08399 (DrugBank)	piceatannol	0
+9931953	D10079 (KEGG) >> D10157 (KEGG)	rucaparib	0
+23725625	D09730 (KEGG)	olaparib	0
+42574	D03567 (KEGG)	closantel	0
+5753	DB04652 (DrugBank)	corticosterone	0
+24958200	D10140 (KEGG)	niraparib	0
+5281040	D00529 (KEGG) >> DB00471 (DrugBank 845)	montelukast	1
+5768	D02272 (KEGG) >> D08458 (KEGG)	quinidine	1
+15991574	DB04527 (DrugBank)	beta-hydroxyasparagine	1
+119373	D03968 (KEGG) >> DB04881 (DrugBank)	elacridar	0
+5971	D02818 (KEGG)	AITC	0
+4497	DB00393 (DrugBank 845)	nimodipine	1
+16078	DB00470 (DrugBank 845)	omega-3 fatty acid	1
+688859	DB04429 (DrugBank)	2-(4-hydroxyphenyl)chroman-4-one	0
+439162	DB02515 (DrugBank)	L-glycerol-3-phosphate	1
+447638	DB03864 (DrugBank)	D-1-thioglycerol	1
+10635	D07456 (KEGG)	dihydrotestosterone	1
+11493598	DB07794 (DrugBank)	ERK inhibitor II	0
+208908	D04024 (KEGG) >> DB01259 (DrugBank 845) >> DB02584 (DrugBank 845)	lapatinib	0
+439501	DB01092 (DrugBank 845)	ouabain	1
+61503	DB03066 (DrugBank) >> DB04398 (DrugBank)	D-lactate	1
+439202	DB01833 (DrugBank)	canavanine	0
+92180	DB08768 (DrugBank)	N6-(2-isopentenyl)adenine	0
+12560	DB00199 (DrugBank 845)	erythromycin	0
+7618	D00215 (KEGG)	TEOA	0
+65981	DB00912 (DrugBank 845)	repaglinide	1
+44093	DB01197 (DrugBank 845)	captopril	1
+64142	D00899 (KEGG) >> DB00220 (DrugBank 845) >> DB05251 (DrugBank)	nelfinavir	1
+60934	D00429 (KEGG) >> D01160 (KEGG)	saquinavir	1
+60795	D10516 (KEGG) >> DB01238 (DrugBank 845)	aripiprazole	1
+55283	DB01167 (DrugBank 845)	itraconazole	0
+439168	DB02263 (DrugBank)	triose phosphate	1
+2406	D00802 (KEGG) >> D03135 (KEGG) >> DB04813 (DrugBank)	bithionol	1
+5770	DB00206 (DrugBank 845)	reserpine	1
+11957417	DB07471 (DrugBank)	DB07471	0
+5880	DB02854 (DrugBank)	etiocholanolone	0
+3598	DB00756 (DrugBank 845)	pre-op	1
+6436219	DB08080 (DrugBank)	latrunculin B	0
+5405	DB00342 (DrugBank 845)	terfenadine	1
+4594	D01207 (KEGG) >> D05259 (KEGG) >> D05261 (KEGG) >> DB00338 (DrugBank 845)	omeprazole	0
+2794	DB00845 (DrugBank 845)	clofazimine	1
+11840920	DB04629 (DrugBank)	DB04629	0
+1005	DB01819 (DrugBank)	phosphoenolpyruvate	1
+4932	D00640 (KEGG) >> DB01182 (DrugBank 845)	propafenone	1
+2247	DB00637 (DrugBank 845)	astemizole	1
+5289284	DB04774 (DrugBank)	reidispongiolide A	0
+23624255	D10126 (KEGG)	ganetespib	0
+25058141	DB08442 (DrugBank)	DB08442	0
+11534420	D09375 (KEGG) >> D09376 (KEGG)	retaspimycin HCl	0
+5327095	DB07495 (DrugBank)	ver-49009	0
+5289232	DB03137 (DrugBank)	DB03137	0
+448976	DB04254 (DrugBank)	AC1L9MKN	0
+448965	DB02754 (DrugBank)	AC1L9MK5	0
+448969	DB02359 (DrugBank)	AC1L9MK9	0
+448970	DB03504 (DrugBank)	AC1L9MKB	0
+448974	DB04054 (DrugBank)	AC1L9MKJ	0
+5327103	DB06956 (DrugBank)	DB06956	0
+448968	DB08436 (DrugBank)	AC1L9MK7	0
+5327104	DB04588 (DrugBank)	DB04588	0
+5327091	DB07594 (DrugBank)	Cct018159	0
+448972	DB02550 (DrugBank)	AC1L9MKF	0
+10114	D00156 (KEGG)	glycyrrhetinic acid	0
+448971	DB04505 (DrugBank)	AC1L9MKD	0
+448973	DB03093 (DrugBank)	AC1L9MKH	0
+1916698	DB08788 (DrugBank)	T5371453	0
+11373270	DB08464 (DrugBank)	DB08464	0
+19844	DB08711 (DrugBank)	methyl vanillate	0
+17755582	DB07325 (DrugBank)	DB07325	0
+5289227	DB03899 (DrugBank)	DB03899	0
+72194	DB02103 (DrugBank)	2-chloro-2',3'-dideoxyadenosine	0
+44585557	DB07317 (DrugBank)	DB07317	0
+10095904	DB06957 (DrugBank)	DB06957	0
+2374	DB04638 (DrugBank)	tBuBHQ	0
+2662	DB00482 (DrugBank 845)	celecoxib	1
+22382	DB07919 (DrugBank)	harmine	0
+44129601	DB08789 (DrugBank)	DB08789	0
+25244026	DB07604 (DrugBank)	cyclopiazonic acid	0
+25138278	DB08066 (DrugBank)	DB08066	0
+10364826	DB08025 (DrugBank)	DB08025	0
+10403821	DB07502 (DrugBank)	Benzisoxazole, 6	0
+3777900	DB08786 (DrugBank)	4-(2-methoxyethoxy)-6-methylpyrimidin-2-amine	0
+25210273	DB06969 (DrugBank)	NVP-BEP800	0
+441207	DB01396 (DrugBank 845)	digitoxin	1
+2726820	DB08194 (DrugBank)	AC1MBK2E	0
+2724385	D00298 (KEGG) >> DB00390 (DrugBank)	digoxin	1
+11160307	DB08443 (DrugBank)	DB08443	0
+24941253	DB07307 (DrugBank)	DB07307	0
+1053	D00082 (KEGG) >> DB02142 (DrugBank)	pyridoxamine 5'-phosphate	0
+5289228	DB03809 (DrugBank)	DB03809	0
+9363	D04080 (KEGG)	ethamivan	0
+13373715	DB07319 (DrugBank)	DB07319	0
+46937132	DB08197 (DrugBank)	DB08197	0
+5862	D00026 (KEGG) >> D02326 (KEGG) >> DB00151 (DrugBank) >> DB03201 (DrugBank) >> DB04443 (DrugBank)	cystein	1
+11963551	DB08292 (DrugBank)	DB08292	0
+11963552	DB08293 (DrugBank)	DB08293	0
+11987878	DB08153 (DrugBank)	Microlactone, 15h	0
+447721	DB01761 (DrugBank)	AC1L9L5S	0
+24812721	DB08557 (DrugBank)	DB08557	0
+16058668	DB06964 (DrugBank)	VER-50589	0
+6914564	DB07877 (DrugBank)	AC1OCA7M	0
+11597537	D10168 (KEGG)	CC-930	0
+24832022	DB07324 (DrugBank)	DB07324	0
+259994	DB02159 (DrugBank) >> DB03457 (DrugBank)	1,2-propanediol	1
+24836816	DB07601 (DrugBank)	DB07601	0
+24916788	DB08346 (DrugBank)	Microlactone, 15a	0
+11840979	DB08465 (DrugBank)	DB08465	0
+70807	DB03434 (DrugBank)	3-(N-morpholino)propanesulfonic acid	0
+10019998	DB08432 (DrugBank)	Thymidine-phosphorothioate	0
+44237094	DB08691 (DrugBank)	KH-CB19	0
+1935	D02068 (KEGG) >> DB00382 (DrugBank 845)	tacrine	1
+448991	DB02733 (DrugBank)	purvalanol	0
+970	DB02637 (DrugBank)	oxaloacetate	1
+449087	DB06944 (DrugBank)	AC1L9MPH	0
+5289411	DB08572 (DrugBank)	DB08572	0
+10200651	DB07833 (DrugBank)	biphenyl amide, 3	0
+24856363	DB07835 (DrugBank)	DB07835	0
+24755476	DB08352 (DrugBank)	DB08352	0
+10224714	DB08463 (DrugBank)	CR8, (R)-Isomer	0
+12106168	DB07829 (DrugBank)	SC-102	0
+5289514	DB04797 (DrugBank)	CP-808844	0
+42647299	DB07942 (DrugBank)	DB07942	0
+42647297	DB08349 (DrugBank)	DB08349	0
+447725	DB01948 (DrugBank)	AC1L9L60	0
+6852209	DB08096 (DrugBank)	DB08096	0
+19592	D05102 (KEGG)	nafenopin	0
+10249180	DB08535 (DrugBank)	DB08535	0
+1714	DB02984 (DrugBank)	AC1L1C2O	0
+16220188	D08963 (KEGG)	pamapimod	0
+5287728	DB04632 (DrugBank)	AC1NRA6Q	0
+21078798	DB07834 (DrugBank)	biphenyl amide, 4	0
+6540299	DB08095 (DrugBank)	AC1O70V3	0
+9817550	DB08694 (DrugBank)	variolin B	0
+11552706	D09639 (KEGG)	losmapimod	0
+27933	DB01953 (DrugBank)	inhibitor of p38 kinase	0
+9543517	DB08097 (DrugBank)	DB08097	0
+10089048	DB07811 (DrugBank)	DB07811	0
+9543437	DB07607 (DrugBank)	DB07607	0
+7191	D01419 (KEGG)	benzyl nicotinate	0
+447958	DB02915 (DrugBank)	AC1L9LFM	0
+447956	DB02091 (DrugBank)	AC1L9LFI	0
+5288238	DB02195 (DrugBank)	AC1NRB3B	0
+9750	D07706 (KEGG) >> DB00155 (DrugBank)	citrulline	1
+7245	DB03110 (DrugBank)	2-chlorophenol	1
+16115004	DB07264 (DrugBank)	DB07264	0
+10134493	DB06940 (DrugBank)	DB06940	0
+5171	DB08522 (DrugBank)	AC1L1JR9	0
+5172	DB03980 (DrugBank)	C14316	0
+4630909	DB02873 (DrugBank)	DB02873	0
+6852201	DB08309 (DrugBank)	AC1OA9X8	0
+4369443	DB08395 (DrugBank)	DB08395	0
+14868	D06218 (KEGG)	tribromsalan	0
+5951796	DB07539 (DrugBank)	AC1OEF0I	0
+3728	D00581 (KEGG)	iodoquinol	0
+5326869	DB08730 (DrugBank)	DB08730	0
+5326870	DB08092 (DrugBank)	DB08092	0
+4564	DB02407 (DrugBank)	O(6)-cyclohexylmethylguanine	0
+11427975	DB06991 (DrugBank)	DB06991	0
+5326871	DB08093 (DrugBank)	3-(1-naphthylmethoxy)pyridin-2-amine	0
+22049997	DB07941 (DrugBank)	PH-797804	0
+5327066	DB08423 (DrugBank)	AC1NS1L1	0
+23400214	DB08242 (DrugBank)	DB08242	0
+5327067	DB08424 (DrugBank)	AC1NS1L4	0
+23586146	DB07686 (DrugBank)	DB07686	0
+9865587	DB07943 (DrugBank)	SD-06	0
+446816	DB02277 (DrugBank)	AC1L9K4K	0
+9871074	D09386 (KEGG)	talmapimod	0
+4369379	DB01988 (DrugBank)	AC1N9ZZL	0
+2763754	DB07852 (DrugBank)	3H-323S	0
+2352168	DB07459 (DrugBank)	4-phenoxy-N-(pyridin-2-ylmethyl)benzamide	0
+5326868	DB08091 (DrugBank)	DB08091	0
+5960	D00013 (KEGG) >> D01598 (KEGG) >> D02026 (KEGG) >> D04948 (KEGG) >> DB00128 (DrugBank)	aspartic acid	1
+23645578	DB07687 (DrugBank)	DB07687	0
+11653652	DB08553 (DrugBank)	DB08553	0
+5326866	DB08064 (DrugBank)	DB08064	0
+1712	DB06844 (DrugBank)	AC1L1C2I	0
+46937120	DB08068 (DrugBank)	DB08068	0
+17753927	DB02899 (DrugBank)	n-carboxymethionine	0
+25023710	DB07017 (DrugBank)	DB07017	0
+887	D02309 (KEGG)	methanol	0
+5430	DB00730 (DrugBank 845) >> DB08630 (DrugBank 845)	thiabendazole	1
+5564	DB08604 (DrugBank 845)	triclosan	0
+31703	D01275 (KEGG) >> DB00997 (DrugBank 845)	doxorubicin	1
+5311035	D03187 (KEGG)	butaprost	0
+33791	DB03302 (DrugBank)	phthalide	1
+1750	DB04479 (DrugBank)	4-nitro-1H-inden-1-one	1
+378	DB04214 (DrugBank)	p-nitrophenyl phosphate	1
+9834298	DB03760 (DrugBank)	dihydrolipoic acid	0
+23644575	DB08771 (DrugBank)	DB08771	0
+1023	DB02212 (DrugBank) >> DB04160 (DrugBank)	pyrophosphate	1
+11545694	DB07056 (DrugBank)	DB07056	0
+10634	D00179 (KEGG)	androstenediol	0
+24808495	DB06992 (DrugBank)	DB06992	0
+210332	DB07340 (DrugBank)	reversine	0
+657095	DB04463 (DrugBank)	AC1LCW0M	0
+446337	DB01874 (DrugBank)	3-tropinone	0
+636402	D01899 (KEGG) >> D07615 (KEGG)	Bio-Plex	0
+14982	D02028 (KEGG) >> D02264 (KEGG) >> D04987 (KEGG)	glycyrrhizin	0
+16105493	DB07310 (DrugBank)	DB07310	0
+449237	DB02891 (DrugBank)	AC1L9MW5	1
+24866443	DB07866 (DrugBank)	DB07866	0
+25263223	DB07316 (DrugBank)	DB07316	0
+16726072	DB07619 (DrugBank)	DB07619	0
+223368	D04041 (KEGG) >> DB02187 (DrugBank)	equilin	1
+91665	DB02756 (DrugBank)	pyroquilon	0
+5962	D02278 (KEGG) >> D02279 (KEGG) >> D02304 (KEGG) >> DB00123 (DrugBank) >> DB03252 (DrugBank)	lysine	1
+24812720	DB07049 (DrugBank)	DB07049	0
+5994	DB00396 (DrugBank 845)	progesterone	1
+24856362	DB07624 (DrugBank)	DB07624	0
+5090	DB00533 (DrugBank 845)	rofecoxib	1
+149790	DB07711 (DrugBank)	adenosine deaminase inhibitor	0
+637516	DB04784 (DrugBank)	1-phenylethanol	1
+11347535	D09640 (KEGG)	salinosporamide A	0
+5326976	DB04719 (DrugBank)	CK2 inhibitor	0
+1060	DB00119 (DrugBank 845)	pyruvic acid	1
+25183872	D10130 (KEGG)	ixazomib	0
+8076	DB02249 (DrugBank)	EGEE	1
+444719	DB02151 (DrugBank)	Methionine phosphonate	1
+6128	D00051 (KEGG) >> DB01536 (DrugBank) >> DB07386 (DrugBank)	4-androstene-3,17-dione	1
+165196	DB03799 (DrugBank)	trifluoromethionine	1
+24894158	DB07608 (DrugBank)	DB07608	0
+961	D00001 (KEGG)	distilled water	0
+447960	DB04407 (DrugBank)	AC1L9LFQ	0
+3034010	DB01083 (DrugBank 845)	orlistat	0
+21501	DB04534 (DrugBank)	5-nitroindazole	1
+656917	DB04450 (DrugBank)	n-heptyl-beta-D-thioglucoside	0
+12587	DB03993 (DrugBank)	isocaproate	1
+13472	DB07373 (DrugBank)	1,4-androstadiene-3,17-dione	0
+1123	D00047 (KEGG) >> DB01956 (DrugBank)	taurine	1
+221493	DB02659 (DrugBank)	cholic acid	0
+186	DB02897 (DrugBank)	acetyl phosphate	1
+23982	D01137 (KEGG) >> D01645 (KEGG) >> DB00225 (DrugBank) >> DB00597 (DrugBank)	gadolinium	0
+11992146	DB07728 (DrugBank)	Kinome_2487	0
+44129603	DB08355 (DrugBank)	DB08355	0
+17754220	DB02987 (DrugBank)	cysteine-s-acetamide	1
+70931	DB02580 (DrugBank)	pentaglyme	0
+16129582	DB08005 (DrugBank)	DB08005	0
+10972974	DB04741 (DrugBank)	myxothiazol A	0
+3034285	DB07401 (DrugBank)	azoxystrobin	0
+5280961	DB01645 (DrugBank 845)	genistein	0
+446845	DB07778 (DrugBank)	AC1L9K5S	0
+447278	DB08180 (DrugBank)	3-azageranylgeranyl diphosphate	0
+6852165	DB06831 (DrugBank)	Pik-39	0
+126941	D00142 (KEGG) >> D02115 (KEGG) >> DB00563 (DrugBank)	methotrexate	0
+5287739	DB07435 (DrugBank)	DB07435	0
+622262	DB07073 (DrugBank)	DB07073	0
+90263	DB04332 (DrugBank)	2,5,8,11-tetraoxatridecan-13-ol	0
+79689	DB02050 (DrugBank)	polyoxyethylene (10	0
+387442	DB04732 (DrugBank)	NSC-681231	0
+5289085	DB08330 (DrugBank)	MOA-stilbene	0
+9547935	DB07763 (DrugBank)	DB07763	0
+239	D07561 (KEGG) >> DB03107 (DrugBank)	beta-alanine	1
+6251	D00062 (KEGG) >> DB00742 (DrugBank)	mannitol	1
+46937086	DB07652 (DrugBank)	DB07652	0
+46937134	DB08237 (DrugBank)	DB08237	0
+447766	DB07163 (DrugBank)	AC1L9L7G	0
+9991833	DB08533 (DrugBank)	DB08533	0
+5289321	DB03583 (DrugBank)	AC1NRD2K	0
+24963033	DB07790 (DrugBank)	DB07790	0
+10042950	DB08539 (DrugBank)	DB08539	0
+447959	DB04518 (DrugBank)	AC1L9LFO	0
+447955	DB03019 (DrugBank)	C8H5cl2N3S	1
+5287845	DB07493 (DrugBank)	NSC717817	0
+447653	DB07889 (DrugBank)	AC1L9L2W	0
+9994066	DB08134 (DrugBank)	DB08134	0
+24901723	DB07791 (DrugBank)	DB07791	0
+447652	DB02538 (DrugBank)	AC1L9L2U	0
+87031	DB08132 (DrugBank)	5-hydroxynaphthalene-1-sulfonamide	0
+23586145	DB07685 (DrugBank)	DB07685	0
+46937079	DB07529 (DrugBank)	DB07529	1
+680935	DB08135 (DrugBank)	pyrazole anilide	0
+2608	DB03307 (DrugBank)	Cdk2/5 inhibitor	0
+11304412	DB07179 (DrugBank)	DB07179	0
+160339	D03585 (KEGG)	dipalmitoylphosphatidylcholine	0
+5327096	DB08677 (DrugBank)	AC1NS1N7	0
+5327097	DB08673 (DrugBank)	DB08673	0
+118458	DB02297 (DrugBank)	2-amino-6-chloropyrazine	1
+45273683	DB07431 (DrugBank)	DB07431	0
+5327131	DB04669 (DrugBank)	Ru(III) Triazolopyrimidine	0
+21066379	DB06983 (DrugBank)	DB06983	0
+10138993	DB07220 (DrugBank)	DB07220	0
+5288016	DB07612 (DrugBank)	DB07612	0
+21066087	DB08531 (DrugBank)	DB08531	0
+5287990	DB01888 (DrugBank)	DB01888	0
+5288222	DB03737 (DrugBank)	AC1NRB2B	0
+5288527	DB02197 (DrugBank)	DB02197	0
+449088	DB02647 (DrugBank)	n-(5-cyclopropyl-1h-pyrazol-3-yl)benzamide	0
+21066096	DB08534 (DrugBank)	DB08534	0
+448994	DB07054 (DrugBank)	AC1L9MLB	0
+5288708	DB08122 (DrugBank)	DB08122	0
+44629555	DB07065 (DrugBank)	DB07065	0
+5288709	DB08123 (DrugBank)	DB08123	0
+5288710	DB08124 (DrugBank)	DB08124	0
+5288711	DB08125 (DrugBank)	DB08125	0
+5287989	DB02963 (DrugBank)	C13H11ClN4O2S	0
+5288712	DB08126 (DrugBank)	DB08126	0
+24971313	DB08140 (DrugBank)	DB08140	0
+24971312	DB08139 (DrugBank)	DB08139	0
+5289179	DB04006 (DrugBank)	DB04006	0
+44629554	DB08538 (DrugBank)	DB08538	0
+5288017	DB07618 (DrugBank)	DB07618	0
+5327130	DB07595 (DrugBank)	DB07595	0
+11270500	DB07982 (DrugBank)	DB07982	0
+16113377	DB07936 (DrugBank)	DB07936	0
+445840	DB04186 (DrugBank)	AC1L9INL	0
+9865515	D09357 (KEGG) >> D09641 (KEGG)	MGCD0103	0
+65249	DB02340 (DrugBank)	N-acetylserine	1
+10249182	DB08537 (DrugBank)	DB08537	0
+24864079	DB08138 (DrugBank)	DB08138	0
+10317619	DB08536 (DrugBank)	DB08536	0
+24864078	DB08137 (DrugBank)	DB08137	0
+46937158	DB08532 (DrugBank)	DB08532	0
+3543	DB04288 (DrugBank)	AC1L1G68	0
+445950	DB07751 (DrugBank)	AC1L9IU0	0
+6914609	DB07379 (DrugBank)	DB07379	0
+24864077	DB08136 (DrugBank)	DB08136	0
+15942652	DB07024 (DrugBank)	DB07024	0
+10339710	DB07210 (DrugBank)	DB07210	0
+6950577	DB02387 (DrugBank) >> DB03552 (DrugBank)	m-tyrosine	0
+9547884	DB04101 (DrugBank)	DB04101	0
+9547890	DB08247 (DrugBank)	inhibitor of CDK2	0
+314123	DB03490 (DrugBank)	NSC-230804	0
+445940	DB03663 (DrugBank)	AC1L9IT9	0
+24864082	DB08141 (DrugBank)	DB08141	0
+5828196	DB07531 (DrugBank)	DB07531	0
+967	D00055 (KEGG) >> D08304 (KEGG) >> DB02262 (DrugBank)	orotic acid	1
+445967	DB02603 (DrugBank)	AC1L9IVC	0
+9926933	DB08133 (DrugBank)	DB08133	0
+445966	DB02898 (DrugBank)	AC1L9IV9	0
+445958	DB07501 (DrugBank)	AC1L9IUO	0
+977	D00003 (KEGG)	oxygen	0
+445957	DB07504 (DrugBank)	AC1L9IUL	0
+5288018	DB07622 (DrugBank)	DB07622	0
+445953	DB07755 (DrugBank)	AC1L9IU9	0
+24417	DB02216 (DrugBank)	S-methylcysteine	1
+445952	DB07750 (DrugBank)	AC1L9IU6	0
+445951	DB07761 (DrugBank)	AC1L9IU3	0
+5494414	DB04662 (DrugBank)	olomoucine II	0
+529	DB02389 (DrugBank) >> DB02726 (DrugBank)	phosphoglycolate	1
+9552079	D01345 (KEGG) >> D07669 (KEGG) >> DB00878 (DrugBank 845)	chlorhexidine	1
+6322	D01126 (KEGG) >> D02982 (KEGG) >> DB00125 (DrugBank) >> DB04027 (DrugBank)	arginine	1
+16122633	DB07856 (DrugBank)	DB07856	0
+776315	DB07407 (DrugBank)	5-(2-methoxyphenyl)-2-furoic acid	0
+5333	DB00259 (DrugBank 845)	sulfonamide	1
+4595	D00678 (KEGG) >> DB00904 (DrugBank 845)	ondansetron	0
+193962	DB06414 (DrugBank) >> DB07191 (DrugBank 845)	etravirine	0
+3447	D01672 (KEGG) >> D08004 (KEGG)	gabexate mesilate	0
+6047	DB01235 (DrugBank 845)	levodopa	1
+3926	D04733 (KEGG)	lidoflazine	0
+6013	DB00624 (DrugBank 845)	testosterone	0
+4189	D00882 (KEGG) >> DB01110 (DrugBank 845)	miconazole	1
+21307	DB04657 (DrugBank)	carboxin	0
+1587957	DB08393 (DrugBank)	2-[(5,6-diphenylfuro[2,3-d]pyrimidin-4-yl)amino]ethanol	0
+16615	DB07669 (DrugBank)	2,3-dimethyl-1,4-naphthoquinone	0
+24239	DB03100 (DrugBank)	6-nitroindazole	1
+447280	DB04092 (DrugBank)	apstatin	0
+443388	DB03541 (DrugBank)	10-propargyl-5,8-dideazafolic acid	0
+5578	D06236 (KEGG) >> D08644 (KEGG) >> DB00440 (DrugBank 845) >> DB03125 (DrugBank)	trimethoprim	0
+784	D00008 (KEGG)	hydrogen peroxide	0
+54676868	DB04631 (DrugBank)	atpenin A5	0
+60699	D02168 (KEGG) >> DB01030 (DrugBank 845)	topotecan	1
+446308	DB02080 (DrugBank)	fragment of Triton-X100	0
+446716	DB07490 (DrugBank)	AC1L9K0I	0
+445715	DB02386 (DrugBank)	L-leucinephosphonic acid	0
+23629645	DB07765 (DrugBank)	DB07765	0
+10430	DB03750 (DrugBank)	isovalerate	1
+5289457	DB03343 (DrugBank)	malate-like intermediate	1
+4680	D02218 (KEGG) >> D07439 (KEGG) >> DB01113 (DrugBank 845) >> DB07725 (DrugBank 845)	papaverine	1
+2723601	D06109 (KEGG) >> DB00352 (DrugBank 845)	6-thioguanine	1
+3394	D02290 (KEGG) >> DB00712 (DrugBank 845)	flurbiprofen	0
+15602982	DB07858 (DrugBank)	DB07858	0
+8063	DB01919 (DrugBank)	pentanal	1
+5961	D00015 (KEGG) >> DB00130 (DrugBank) >> DB02174 (DrugBank)	glutamine	1
+449159	DB01644 (DrugBank)	AC1L9MSN	0
+1535935	DB04048 (DrugBank)	DB04048	1
+11175137	DB07859 (DrugBank)	AT7867	0
+169148	DB02302 (DrugBank)	symmetric dimethylarginine	0
+11505541	DB07393 (DrugBank)	DB07393	0
+5881	D08409 (KEGG) >> DB01708 (DrugBank)	DHEA	0
+16122642	DB08569 (DrugBank)	DB08569	0
+5546	DB00384 (DrugBank 845)	triamterene	0
+132862	D09018 (KEGG)	t-arginine	0
+10708341	DB07714 (DrugBank)	DB07714	0
+1549007	D02219 (KEGG) >> DB00857 (DrugBank 845)	terbinafine	1
+1701	DB07347 (DrugBank)	AEBSF	1
+974	DB03940 (DrugBank)	oxamate	1
+67361	D00864 (KEGG) >> DB02731 (DrugBank)	thimerosal	0
+2969	DB03600 (DrugBank) >> DB03838 (DrugBank)	decanoate	0
+21158865	DB02240 (DrugBank)	DB02240	0
+5327073	DB04664 (DrugBank)	Cymal-5	0
+5327109	DB07947 (DrugBank)	DB07947	0
+10172943	DB08073 (DrugBank)	A-443654	0
+996	D00033 (KEGG) >> D01960 (KEGG) >> DB03255 (DrugBank)	phenol	1
+72099	D10254 (KEGG)	S)-flurbiprofen	0
+281	D09706 (KEGG)	flue gas	0
+6914613	DB07107 (DrugBank)	DB07107	0
+6914614	DB07204 (DrugBank)	DB07204	0
+9543424	DB02895 (DrugBank)	DB02895	1
+449014	DB03370 (DrugBank)	AC1L9MM7	0
+449013	DB03220 (DrugBank)	Fr233623	0
+134497	DB03660 (DrugBank)	p-iodophenylalanine	0
+449015	DB07785 (DrugBank)	AC1L9MM9	0
+5288600	DB03083 (DrugBank)	IC 261	0
+10127622	D09666 (KEGG) >> D10024 (KEGG)	selumetinib	0
+448903	DB07783 (DrugBank)	AC1L9MHD	0
+448642	DB07458 (DrugBank)	AC1L9M6H	0
+129236	DB03693 (DrugBank)	CKI-7	0
+44187362	D10426 (KEGG) >> D10486 (KEGG)	pimasertib	0
+16222096	D10405 (KEGG)	cobimetinib	0
+10313	DB01924 (DrugBank)	benzohydroxamic acid	1
+5311	DB02546 (DrugBank 845)	vorinostat	0
+447546	DB02830 (DrugBank)	AC1L9KYC	0
+447339	DB02616 (DrugBank)	AC1L9KQW	0
+10150081	DB08208 (DrugBank)	DB08208	0
+11707110	D10175 (KEGG) >> D10176 (KEGG) >> DB08911 (DrugBank)	trametinib	0
+46937091	DB07786 (DrugBank)	DB07786	0
+997	DB03884 (DrugBank)	phenylpyruvate	1
+168092	DB02605 (DrugBank)	pentaethylene glycol monodecyl ether	0
+712	D00017 (KEGG) >> D01494 (KEGG) >> DB03843 (DrugBank)	formalin	1
+9826528	DB07101 (DrugBank 845)	PD 0325901	0
+60849	D03906 (KEGG)	draflazine	0
+12087505	DB07817 (DrugBank)	DB07817	0
+107	DB02024 (DrugBank)	phenylpropionic acid	0
+439693	D00155 (KEGG)	pentostatin	1
+25023709	DB08130 (DrugBank)	DB08130	0
+17754128	DB03654 (DrugBank)	DB03654	0
+3001028	D00312 (KEGG) >> DB00286 (DrugBank) >> DB04574 (DrugBank)	Oestrogen	0
+100684	DB04356 (DrugBank)	9-deazaguanine	1
+90206	DB06867 (DrugBank)	3,6,9,12,15,18-hexaoxaicosane	0
+25163987	DB07046 (DrugBank)	DB07046	0
+3074	D02631 (KEGG) >> D07843 (KEGG)	dilazep	0
+647499	DB07759 (DrugBank)	T8293	0
+24875311	DB08718 (DrugBank)	DB08718	0
+6102685	DB07322 (DrugBank)	AC1O0UU7	0
+6102684	DB07313 (DrugBank)	AC1O0UU4	0
+936	DB02701 (DrugBank 845)	vitamin B	1
+44257	D01798 (KEGG) >> D08505 (KEGG)	sapropterin	0
+11963557	DB07186 (DrugBank)	DB07186	0
+4697633	DB08757 (DrugBank)	5-(2-chlorophenyl)furan-2-carbohydrazide	0
+11120251	DB07903 (DrugBank)	DB07903	0
+2255489	DB07591 (DrugBank)	AC1Q5N5D	0
+643330	DB04436 (DrugBank)	3-fluorotyrosine	0
+11809364	DB07902 (DrugBank)	DB07902	0
+3672	D08059 (KEGG) >> D09760 (KEGG) >> DB01050 (DrugBank 845)	ibuprofen	0
+151506	DB08451 (DrugBank)	N-(quinolin-8-yl)methanesulfonamide	0
+39912	D03715 (KEGG)	dexibuprofen	0
+1069140	DB07309 (DrugBank)	DB07309	0
+6102686	DB07323 (DrugBank)	AC1O0UUA	0
+2740174	DB07901 (DrugBank)	AC1Q2F3O	0
+681	D00633 (KEGG) >> DB00988 (DrugBank 845)	dopamine	1
+447781	DB03075 (DrugBank)	diphosphono)aminophosphonic acid	1
+292661	DB02532 (DrugBank)	2,4,6-triaminoquinazoline	0
+23647763	DB07746 (DrugBank)	DB07746	0
+369976	DB08633 (DrugBank)	caplostatin	0
+405389	DB03649 (DrugBank)	NSC722618	0
+6859	DB03674 (DrugBank)	MeHg	0
+84815	DB02893 (DrugBank)	D-methionine	1
+6914648	DB08670 (DrugBank)	DB08670	0
+6119	DB02952 (DrugBank)	alpha-aminoisobutyric acid	1
+444720	DB02088 (DrugBank)	norleucine phosphonate	0
+444732	DB04297 (DrugBank)	trichostatin A	0
+14163672	DB07308 (DrugBank)	5-(2-chlorobenzyl)-2-furoic acid	0
+6914647	DB08669 (DrugBank)	DB08669	0
+444853	DB07394 (DrugBank)	DB07394	0
+445062	DB02824 (DrugBank)	AC1L9HCR	0
+4369491	DB04608 (DrugBank)	Wee1/Chk1 inhibitor	0
+82315	DB08214 (DrugBank)	4-(imidazole-1-yl) phenol	1
+25243853	DB07689 (DrugBank)	DB07689	0
+5289474	DB08629 (DrugBank)	DB08629	0
+11840927	DB07497 (DrugBank)	biotinyl	0
+8019	D05554 (KEGG) >> DB02806 (DrugBank)	mPEG	1
+869249	DB08758 (DrugBank)	imidazo[2,1-a]isoquinoline-2-carbohydrazide	0
+784625	DB02909 (DrugBank)	C11H7ClO3	0
+5289086	DB04324 (DrugBank)	DB04324	0
+763808	DB07305 (DrugBank)	AC1Q73F1	0
+448288	DB03086 (DrugBank)	AC1L9LSU	0
+448285	DB07377 (DrugBank)	A-357300	0
+448220	DB01882 (DrugBank)	AC1L9LQK	0
+736259	DB07758 (DrugBank)	5-(2,5-dichlorophenyl)-2-furoic acid	0
+448219	DB02408 (DrugBank)	AC1L9LQI	0
+736027	DB07408 (DrugBank)	5-(2-nitrophenyl)furan-2-carboxylic acid	0
+834826	DB07304 (DrugBank)	NE20066	0
+5287684	DB04108 (DrugBank)	AC1NRA3U	0
+5288721	DB08160 (DrugBank)	DB08160	0
+11390	DB04640 (DrugBank)	2,6-naphthalenedisulfonate	0
+449633	DB02589 (DrugBank)	se-ethyl-isoselenourea	1
+25201794	DB00266 (DrugBank 845)	dicumarol	1
+6024	D00907 (KEGG) >> DB00456 (DrugBank 845)	cephalothin	1
+445015	DB07771 (DrugBank)	FPT inhibitor II	0
+637542	DB04066 (DrugBank)	p-coumaric acid	1
+25021186	DB08019 (DrugBank)	DB08019	0
+445109	DB02911 (DrugBank)	AC1L9HFU	0
+445319	DB04018 (DrugBank)	S-isopropylisothiourea	1
+656911	DB02027 (DrugBank)	nNOS inhibitor I	0
+7237	DB03029 (DrugBank)	o-xylene	0
+445501	DB01951 (DrugBank)	Gpi-1046	0
+2146	DB02533 (DrugBank)	aminoguanidine	0
+5287467	DB06953 (DrugBank)	DB06953	0
+7410	DB04619 (DrugBank)	acetophenone	1
+222865	DB01561 (DrugBank) >> DB03620 (DrugBank)	androstanedione	0
+736299	DB04641 (DrugBank)	3,7-dihydroxy-2-naphthoic acid	0
+9547909	DB07216 (DrugBank)	DB07216	0
+24836810	DB08613 (DrugBank)	DB08613	0
+400010	D09584 (KEGG)	CDDO	0
+24836811	DB07879 (DrugBank)	DB07879	0
+3311	DB02991 (DrugBank)	T 7188	0
+656912	DB02077 (DrugBank)	DB02077	0
+6918837	D10019 (KEGG) >> D10319 (KEGG)	panobinostat	0
+456255	D02191 (KEGG) >> DB01326 (DrugBank 845)	cefamandole	1
+6918638	D08870 (KEGG)	belinostat	0
+9797857	DB07002 (DrugBank)	DB07002	0
+347590	DB03707 (DrugBank)	S-ethyl N-phenylisothiourea	0
+445646	DB08520 (DrugBank)	AC1L9IC3	0
+657073	DB02462 (DrugBank)	thiocoumarin	0
+449096	DB02917 (DrugBank)	AC1L9MPZ	0
+10157080	DB07029 (DrugBank)	DB07029	0
+449021	DB03449 (DrugBank)	AC1L9MML	0
+5287979	DB07586 (DrugBank)	DB07586	0
+6175	D07769 (KEGG)	cytidine	1
+5139	DB02234 (DrugBank) >> DB02539 (DrugBank)	S-ethylisothiourea	1
+4775	D05868 (KEGG)	4-phenylbutyrate	0
+6323220	DB03332 (DrugBank)	DB03332	0
+11740318	DB07011 (DrugBank)	DB07011	0
+11740154	DB02979 (DrugBank)	DB02979	0
+5280346	DB08690 (DrugBank)	ubiquinone	0
+1433	DB02044 (DrugBank)	N-(3-(aminomethyl)benzyl)acetamidine	0
+24894149	DB08750 (DrugBank)	DB08750	0
+24894151	DB07306 (DrugBank)	DB07306	0
+24894153	DB07003 (DrugBank)	DB07003	1
+24941258	DB07318 (DrugBank)	DB07318	0
+46936196	DB01712 (DrugBank)	DB01712	0
+447180	DB02644 (DrugBank)	Nomega-propyl-L-arginine	0
+24894155	DB07007 (DrugBank)	DB07007	0
+1649	DB01997 (DrugBank)	3-bromo-7-nitroindazole	1
+222285	D08915 (KEGG) >> DB04481 (DrugBank)	erythritol	1
+2746	D05988 (KEGG)	acetyldinaline	0
+9969613	DB07008 (DrugBank)	DB07008	0
+2733	DB00356 (DrugBank 845)	stealth	1
+10379137	DB07350 (DrugBank)	DB07350	0
+24941263	DB07001 (DrugBank)	DB07001	0
+1893	DB02207 (DrugBank)	7-nitroindazole	1
+1337	DB02141 (DrugBank)	1,4-PBIT	0
+2733514	DB03953 (DrugBank)	L-thiocitrulline	0
+46937031	DB06879 (DrugBank)	DB06879	0
+448650	DB02401 (DrugBank)	AC1L9M6V	1
+10221335	DB07389 (DrugBank)	DB07389	0
+46937122	DB08086 (DrugBank)	DB08086	0
+9882812	DB07553 (DrugBank)	9,9,9-trifluoro-8-oxo-n-phenylnonanamide	0
+11149707	DB07388 (DrugBank)	DB07388	0
+9886249	DB07405 (DrugBank)	DB07405	0
+448269	DB01835 (DrugBank)	AC1L9LS8	0
+1331	DB03910 (DrugBank)	1,3-PBIT	0
+3611	D04876 (KEGG)	hinokitiol	0
+46937103	DB07895 (DrugBank)	DB07895	0
+1125	DB00360 (DrugBank 845)	tetrahydrobiopterin	0
+448173	DB03338 (DrugBank)	n-heptyl-beta-d-glucopyranoside	0
+446411	DB04012 (DrugBank)	AC1L9JNP	0
+1894	DB03065 (DrugBank)	7-nitroindazole-2-carboxamidine	0
+446414	DB02888 (DrugBank)	Fkb-001	0
+448651	DB02111 (DrugBank)	C4H3NO4	1
+448652	DB03162 (DrugBank)	C3H2N2O3S	1
+11578	D03298 (KEGG) >> DB02239 (DrugBank)	levulinic acid	1
+111509	DB04094 (DrugBank)	methanol/acetone	1
+60852	D04486 (KEGG) >> DB00710 (DrugBank 845) >> DB04635 (DrugBank 845)	ibandronate	0
+181426	DB04559 (DrugBank)	N-(4-chlorophenyl)-N'-hydroxyguanidine	1
+8629	D07738 (KEGG)	UDP-glucose	0
+16115747	DB06916 (DrugBank)	BBS 4	0
+9085	DB03974 (DrugBank)	homoarginine	0
+24798097	DB08018 (DrugBank)	DB08018	0
+159324	DB04960 (DrugBank)	tipifarnib	0
+151008	DB03440 (DrugBank)	PalGly	0
+23640756	DB08505 (DrugBank)	DB08505	0
+65533	DB02843 (DrugBank)	alpha-D-glucose-1-phosphate	0
+135119	DB04223 (DrugBank)	L-NOARG	0
+11915	DB02279 (DrugBank)	phenylglyoxylic acid	1
+14357	DB08262 (DrugBank)	2,6-naphthalenedicarboxylate	0
+15689	DB02335 (DrugBank)	2-amino-2-thiazoline	1
+23646577	DB08674 (DrugBank)	DB08674	0
+24360	DB04690 (DrugBank)	camptothecin	0
+216453	DB07227 (DrugBank)	L-778123	0
+24249	DB04333 (DrugBank)	1,8-diaminooctane	0
+11290116	DB06930 (DrugBank)	Acylguanidine, 7a	0
+23636976	DB07510 (DrugBank)	DB07510	0
+11633167	DB07994 (DrugBank)	DB07994	0
+11651760	DB07535 (DrugBank)	DB07535	0
+4369560	DB08374 (DrugBank)	phenylalanylchloromethane	0
+11659487	DB07245 (DrugBank)	DB07245	0
+11701820	DB07284 (DrugBank)	DB07284	0
+156391	D00118 (KEGG) >> D00970 (KEGG) >> DB00788 (DrugBank)	naproxen	1
+64922	D03743 (KEGG)	D03743	0
+5464201	D03741 (KEGG)	ditekiren	0
+24768527	DB07019 (DrugBank)	DB07019	0
+3152	D00670 (KEGG) >> DB00843 (DrugBank 845)	donepezil	0
+937	D00049 (KEGG) >> DB00627 (DrugBank)	niacin	1
+24748051	DB07345 (DrugBank)	DB07345	0
+5493444	D06412 (KEGG) >> DB01258 (DrugBank 845)	aliskiren	0
+801	DB07950 (DrugBank)	auxin	0
+11963546	DB08099 (DrugBank)	DB08099	0
+16122556	DB07426 (DrugBank)	BPH-676	0
+16122554	DB07409 (DrugBank)	BPH-628	0
+4369489	DB01813 (DrugBank) >> DB04762 (DrugBank)	DB04762	0
+16122553	DB07410 (DrugBank)	BPH-629	0
+3220	DB07715 (DrugBank)	emodin	0
+10397869	DB07281 (DrugBank)	Y-6831	0
+6324659	D09038 (KEGG)	remikiren	0
+11995761	DB07089 (DrugBank)	DB07089	0
+8747	DB01671 (DrugBank) >> DB03975 (DrugBank)	p-chloromercuribenzoate	1
+3086651	D03745 (KEGG)	zankiren	0
+3699841	DB07110 (DrugBank)	4-(4-fluorobenzyl)piperidine	0
+5478893	DB07911 (DrugBank)	DB07911	0
+4993	DB00205 (DrugBank 845)	pyrimethamine	1
+24178119	DB07468 (DrugBank)	DB07468	0
+17749729	DB07516 (DrugBank)	DB07516	0
+24748050	DB07346 (DrugBank)	4-(2-aminoethyl)-2-ethylphenol	0
+831616	DB07573 (DrugBank)	fragment 5	0
+17753844	DB03522 (DrugBank)	DB03522	0
+25134253	DB07738 (DrugBank)	DB07738	0
+25134252	DB07737 (DrugBank)	DB07737	0
+5287792	DB01944 (DrugBank)	(S)-(-)-blebbistatin	0
+25134251	DB07736 (DrugBank)	DB07736	0
+25134250	DB07735 (DrugBank)	DB07735	0
+42628075	DB07415 (DrugBank)	DB07415	0
+20843156	DB07113 (DrugBank)	DB07113	0
+25134249	DB07734 (DrugBank)	DB07734	0
+17749735	DB07874 (DrugBank)	DB07874	0
+5288123	DB02270 (DrugBank)	dimethylallyl S-thiolodiphosphate	0
+25138203	DB07175 (DrugBank)	aminopyrimidine, 5	0
+11586735	DB07206 (DrugBank)	6-[2-(1h-indol-6-yl)ethyl]pyridin-2-amine	0
+4362	DB02967 (DrugBank)	N-ethylmaleimide	1
+11500493	DB07303 (DrugBank)	DB07303	0
+71113	D02766 (KEGG) >> DB04165 (DrugBank)	valpromide	0
+2901	DB04620 (DrugBank)	cycloleucine	1
+5289045	DB08288 (DrugBank)	cyclohexylnorstatine	0
+11507920	DB07993 (DrugBank)	DB07993	0
+16086421	DB07404 (DrugBank)	BPH-608	0
+46936391	DB02457 (DrugBank)	DB02457	0
+24178121	DB07470 (DrugBank)	DB07470	0
+12391	DB03715 (DrugBank)	Medicinal Plant	0
+68152	DB03688 (DrugBank)	methanol/acetic acid	1
+24178120	DB07469 (DrugBank)	DB07469	0
+79014	DB02536 (DrugBank)	triose	1
+5289149	DB04415 (DrugBank)	DB04415	0
+3671	DB05266 (DrugBank 845)	ibudilast	0
+6914626	DB06967 (DrugBank)	DB06967	0
+300	D07677 (KEGG)	chloroacetate	0
+6590	DB02531 (DrugBank) >> DB04305 (DrugBank)	isobutyrate	1
+346926	DB07292 (DrugBank)	4-(2-amino-1,3-thiazol-4-yl)phenol	1
+60594	D03738 (KEGG) >> DB03395 (DrugBank)	enalkiren	1
+6049	D00052 (KEGG) >> D00571 (KEGG) >> D01802 (KEGG) >> D03943 (KEGG) >> D03944 (KEGG) >> D03945 (KEGG) >> D03946 (KEGG) >> D03947 (KEGG) >> D07934 (KEGG) >> DB00974 (DrugBank)	EDTA	0
+6914625	DB06899 (DrugBank)	DB06899	0
+16040323	DB07519 (DrugBank)	DB07519	0
+440552	DB03109 (DrugBank) >> DB03567 (DrugBank) >> DB03740 (DrugBank)	beta-GalNAc	0
+6914629	DB07174 (DrugBank)	DB07174	0
+6226	DB02198 (DrugBank)	bromoacetate	1
+135	DB04242 (DrugBank UM-BBD)	p-hydroxybenzoic acid	1
+8193	DB06894 (DrugBank)	dodecanol	0
+6914633	DB07244 (DrugBank)	DB07244	0
+6914627	DB07059 (DrugBank)	DB07059	0
+5281	D00119 (KEGG) >> D02189 (KEGG) >> D03310 (KEGG) >> D05875 (KEGG) >> DB03193 (DrugBank)	stearic acid	1
+83786	D00224 (KEGG) >> D07564 (KEGG) >> DB03027 (DrugBank)	7-hydroxypyrazolo[4,3-d]pyrimidine	1
+7108	D02601 (KEGG)	phenothiazine	0
+9868368	D09324 (KEGG)	Bederocin	0
+151170	DB03849 (DrugBank 845)	cilomilast	0
+24771758	DB08729 (DrugBank)	DB08729	0
+449190	DB01647 (DrugBank)	[R]-Mesopram	0
+449193	DB01656 (DrugBank)	roflumilast	0
+71356	D03516 (KEGG)	cipamfylline	0
+11955614	DB08391 (DrugBank)	AC1Q4F4W	0
+11581936	DB08387 (DrugBank)	MP-10	0
+9821178	DB06909 (DrugBank)	DB06909	0
+439357	D04291 (KEGG)	D-galactopyranoside	0
+25229546	DB08602 (DrugBank)	DB08602	0
+5723	DB02918 (DrugBank)	zardaverine	0
+159866	DB08249 (DrugBank)	n-octylpentaoxyethylene	0
+444412	D09353 (KEGG) >> D09354 (KEGG) >> DB04789 (DrugBank)	5-methyltetrahydrofolate	0
+11710963	DB07193 (DrugBank)	DB07193	0
+68740	D01968 (KEGG) >> D06378 (KEGG) >> D06379 (KEGG) >> D10515 (KEGG) >> DB00399 (DrugBank 845)	zoledronic acid	0
+9896267	D09020 (KEGG)	tofimilast	0
+5403336	DB08065 (DrugBank)	pyrazolylbenzimidazole	0
+9892860	D09621 (KEGG)	gisadenafil	0
+4740	DB00806 (DrugBank 845)	pentoxifylline	1
+4735	DB00738 (DrugBank 845)	pentamidine	1
+263	D03200 (KEGG) >> DB02145 (DrugBank)	butanol	1
+37015	D03413 (KEGG)	cartazolate	0
+154575	D05474 (KEGG) >> DB01791 (DrugBank)	piclamilast	0
+24880024	DB07360 (DrugBank)	DB07360	0
+92727	DB01601 (DrugBank 845)	lopinavir	1
+60833	D08863 (KEGG)	AC1Q6P0I	0
+4510	DB00727 (DrugBank 845)	glyceryl trinitrate	1
+46937109	DB07923 (DrugBank)	DB07923	0
+448055	DB01954 (DrugBank) >> DB03606 (DrugBank) >> DB04149 (DrugBank)	R)-rolipram	0
+9999276	DB08299 (DrugBank)	DB08299	0
+168978	D08470 (KEGG)	ajmalicine	0
+15602701	DB07362 (DrugBank)	DB07362	0
+447827	DB03816 (DrugBank)	difluoromethionine	1
+5092	D01783 (KEGG)	rolipram	0
+183811	D05832 (KEGG)	sibenadet	0
+1122713	DB08383 (DrugBank)	triaryl imidazole, 1	0
+15991588	DB08389 (DrugBank)	DB08389	0
+3064778	DB04707 (DrugBank)	hydroxyfasudil	0
+3899	DB01097 (DrugBank 845)	leflunomide	1
+110634	D02731 (KEGG) >> D03260 (KEGG) >> D09989 (KEGG) >> DB00862 (DrugBank 845)	vardenafil	0
+6603746	DB06842 (DrugBank)	AC1O7G0L	0
+24893974	DB07801 (DrugBank)	DB07801	0
+656969	DB01959 (DrugBank)	phosphodiesterase 4 inhibitor	0
+656968	DB03807 (DrugBank)	DB03807	0
+656966	DB03183 (DrugBank)	DB03183	0
+6169	D06671 (KEGG) >> DB01392 (DrugBank 845)	yohimbine	1
+107971	DB02115 (DrugBank)	daidzin	0
+656965	DB04469 (DrugBank)	BA-0846	0
+5280805	D00190 (KEGG) >> D08499 (KEGG)	rutin	1
+3758	DB07954 (DrugBank)	IBMX	0
+110635	DB00820 (DrugBank 845)	tadalafil	0
+11610553	DB08386 (DrugBank)	pyrazole, 3	0
+447987	DB07349 (DrugBank)	AC1L9LGW	0
+9549264	DB07924 (DrugBank)	octyl beta-D-galactopyranoside	0
+16058617	DB07213 (DrugBank)	DB07213	0
+11594630	D06575 (KEGG)	Catramilast	0
+447466	DB04381 (DrugBank)	crotonaldehyde	1
+44141871	DB08384 (DrugBank)	pyrazole, 2	0
+4197	D02085 (KEGG) >> DB00235 (DrugBank 845)	milrinone	0
+5212	D02229 (KEGG) >> DB00203 (DrugBank 845)	sildenafil	1
+215436	DB04271 (DrugBank)	ethyl 3,5-dimethyl-1h-pyrazole-4-carboxylate	0
+5311027	DB00905 (DrugBank 845) >> DB06863 (DrugBank 845)	bimatoprost	0
+4917	D00479 (KEGG) >> D02022 (KEGG) >> DB00433 (DrugBank 845)	prochlorperazine	0
+3606	D01641 (KEGG)	hexestrol	0
+11302	DB07447 (DrugBank)	5 beta-dihydrotestosterone	0
+447950	DB07450 (DrugBank)	AC1L9LFA	0
+41684	DB00507 (DrugBank 845)	nitazoxanide	0
+92337	D09010 (KEGG) >> DB05289 (DrugBank)	R-flurbiprofen	0
+4893	D00609 (KEGG) >> DB00457 (DrugBank 845)	prazosin	1
+4992	DB06691 (DrugBank)	mepyramine	0
+11790	DB07453 (DrugBank)	alpha-naphthoflavone	0
+4926	D00797 (KEGG) >> DB00420 (DrugBank 845)	promazine	1
+6279	D00951 (KEGG)	progestins	1
+1613	D02328 (KEGG) >> DB08772 (DrugBank)	zopolrestat	0
+2120	D02835 (KEGG) >> DB02020 (DrugBank)	alrestatin	0
+448658	DB02834 (DrugBank)	IDD552	0
+6306	D00065 (KEGG) >> DB00167 (DrugBank)	isoleucine	1
+1548886	DB00605 (DrugBank 845)	sulindac	1
+610479	D01183 (KEGG)	tolfenamic acid	0
+4044	DB00784 (DrugBank 845)	mefenamic acid	1
+638278	DB03285 (DrugBank)	isoliquiritigenin	0
+4036	D00169 (KEGG) >> D08162 (KEGG) >> DB00939 (DrugBank 845)	meclofenamate	1
+1432578	DB08784 (DrugBank)	DB08784	0
+6761	D02606 (KEGG)	pipamazine	0
+5287846	DB02205 (DrugBank)	DB02205	0
+3869	D00600 (KEGG) >> DB00598 (DrugBank 845)	labetalol	1
+3825	D08103 (KEGG) >> DB01009 (DrugBank 845)	ketoprofen	1
+2442	D01778 (KEGG) >> D07542 (KEGG)	bromhexine	0
+60490	DB00744 (DrugBank 845)	zileuton	0
+10150441	DB08449 (DrugBank)	DB08449	0
+77918	DB04581 (DrugBank)	1-benzylimidazole	0
+5287541	D09915 (KEGG) >> DB02292 (DrugBank 845)	irosustat	0
+3055	D01318 (KEGG) >> DB01231 (DrugBank 845)	diphenidol	1
+11494891	DB07999 (DrugBank)	DB07999	0
+461279	DB02569 (DrugBank)	d4TDP	0
+123648	DB02763 (DrugBank)	5-thio-2-nitrobenzoic acid	1
+1944	DB01689 (DrugBank)	inhibitor IDD384	0
+4634	D00722 (KEGG) >> DB01062 (DrugBank 845)	oxybutynin	0
+4624	D05294 (KEGG)	6-OHDA	0
+92745	DB07557 (DrugBank)	pregnanedione	0
+33255	D00905 (KEGG) >> D02226 (KEGG) >> D02299 (KEGG) >> DB01327 (DrugBank)	cefazolin	1
+123895	DB03144 (DrugBank)	NG-hydroxy-L-arginine	0
+4488	DB04552 (DrugBank 845)	niflumic acid	1
+337359	DB02712 (DrugBank 845)	sorbinil	0
+4486	D01856 (KEGG)	nifekalant	0
+449156	DB02021 (DrugBank) >> DB02101 (DrugBank)	ARI) fidarestat	0
+119583	D01994 (KEGG) >> D08236 (KEGG)	mosapride	0
+4628690	DB03211 (DrugBank)	C5H9O4P	1
+3059	DB00861 (DrugBank 845) >> DB06895 (DrugBank 845)	diflunisal	1
+94599	DB01736 (DrugBank)	LAPAO	0
+5278	D03806 (KEGG)	ponalrestat	0
+16757	DB04051 (DrugBank)	5-phenylvaleric acid	0
+16058630	DB07030 (DrugBank)	IDD 393	0
+16058629	DB07028 (DrugBank)	IDD 388	0
+999	D05867 (KEGG)	phenylacetic acid	0
+6197	D03625 (KEGG)	cycloheximide	0
+11660035	DB08000 (DrugBank)	DB08000	0
+153948	D06403 (KEGG) >> DB05327 (DrugBank)	AS-3201	0
+3371	D01581 (KEGG) >> DB02266 (DrugBank)	flufenamic acid	0
+5508	D00158 (KEGG) >> DB00500 (DrugBank 845)	tolmetin	1
+63009	D00825 (KEGG) >> DB01104 (DrugBank 845) >> DB08567 (DrugBank 845)	sertraline	1
+242332	DB01507 (DrugBank) >> DB03882 (DrugBank)	5 alpha-androstane-3 beta,17 beta-diol	0
+2797541	DB07498 (DrugBank)	BTB02809	0
+3241	D01713 (KEGG) >> DB00751 (DrugBank 845)	epinastine	0
+10204	DB07768 (DrugBank)	epitestosterone	0
+11987804	DB07700 (DrugBank)	DB07700	0
+157838	D03803 (KEGG) >> DB07063 (DrugBank)	lidorestat	0
+8646	DB01667 (DrugBank)	8-azaguanine	1
+2817424	DB08098 (DrugBank)	acetic acid	0
+3034048	DB08766 (DrugBank)	zofenoprilat	0
+193653	D00175 (KEGG) >> D07618 (KEGG) >> DB02476 (DrugBank) >> DB04339 (DrugBank)	carbocisteine	1
+53359	D02323 (KEGG) >> DB02383 (DrugBank)	tolrestat	1
+164911	DB02791 (DrugBank)	tetraphenylphosphonium	0
+5648	D01538 (KEGG)	valethamate bromide	0
+5479530	D00924 (KEGG) >> DB01212 (DrugBank 845)	ceftriaxone	0
+5724	DB02132 (DrugBank 845)	zenarestat	0
+5742673	D00919 (KEGG) >> DB00493 (DrugBank 845)	cefotaxime	1
+5733	D06382 (KEGG) >> DB04828 (DrugBank)	zomepirac	0
+5702160	D00318 (KEGG)	famotidine	0
+446336	DB01649 (DrugBank)	7-methyl-gpppa	0
+192197	DB07931 (DrugBank)	hexoestrol	0
+445858	DB07767 (DrugBank)	ferulic acid	0
+25210476	DB07139 (DrugBank)	DB07139	0
+6420118	DB07187 (DrugBank)	ARI-809	0
+57363	DB01216 (DrugBank 845) >> DB07774 (DrugBank 845)	finasteride	0
+185915	DB01766 (DrugBank)	L-3-(2-naphthyl)alanine	0
+10450624	DB07093 (DrugBank)	DB07093	0
+65355	DB02887 (DrugBank)	d4T-TP	0
+190816	D03805 (KEGG)	minalrestat	0
+3278	D04079 (KEGG) >> DB00903 (DrugBank 845)	ethacrynic acid	0
+4369325	DB08084 (DrugBank)	Idd594	0
+43585	D06156 (KEGG)	tiopinac	0
+181264	D02401 (KEGG)	betadex	0
+44187	D00918 (KEGG) >> D07645 (KEGG)	cefoperazone	1
+1082702	DB06851 (DrugBank)	N-(Pyridin-3-ylmethyl)aniline	0
+73271	DB03048 (DrugBank)	uracil-4-acetic acid	1
+104842	DB05482 (DrugBank)	7-ethyl-10-hydroxycamptothecin	0
+24405	D05726 (KEGG)	N6-(delta 2-isopentenyl)adenosine	0
+2179	D02321 (KEGG)	amsacrine	1
+446018	DB04489 (DrugBank)	gEMSA	0
+44129624	DB07237 (DrugBank)	DB07237	0
+446049	DB04316 (DrugBank)	AC1L9J0O	0
+446054	DB04058 (DrugBank)	N-carbamoyl--phenylalanine	0
+446056	DB02652 (DrugBank)	N-(hydroxyaminocarbonyl)phenylalanine	0
+17753867	DB03441 (DrugBank)	DB03441	0
+790	DB04076 (DrugBank)	hypoxanthine	1
+11952989	DB07837 (DrugBank)	DB07837	0
+757	DB03085 (DrugBank)	glycolic acid	1
+101526	D00874 (KEGG) >> D08237 (KEGG) >> DB00218 (DrugBank 845)	moxifloxacin	1
+71976	D05342 (KEGG)	2-tetradecylglycidic acid	0
+44308490	DB04098 (DrugBank)	DB04098	0
+220535	DB08702 (DrugBank)	Nsc3437	0
+23653500	DB07182 (DrugBank)	DB07182	0
+5780	D00096 (KEGG) >> DB01638 (DrugBank)	sorbitol	1
+44129620	DB07260 (DrugBank)	DB07260	0
+449240	DB07996 (DrugBank)	AC1OCV5A	0
+6992038	DB03856 (DrugBank)	alpha-difluoromethylornithine	0
+24832027	DB08368 (DrugBank)	DB08368	0
+44129621	DB06828 (DrugBank)	DB06828	0
+115254	DB03912 (DrugBank)	phosphopantetheine	0
+16124	D04886 (KEGG) >> D04887 (KEGG)	bisphosphonates	0
+4114	DB00553 (DrugBank 845)	8-methoxypsoralen	1
+3699	D07123 (KEGG) >> D08073 (KEGG)	incadronate	0
+176166	D04014 (KEGG)	enzastaurin	0
+5287850	DB02953 (DrugBank)	DB02953	0
+7023019	DB06917 (DrugBank)	4-fluorophenyl)pyridin-4-yl-methanone	1
+108092	D06084 (KEGG) >> DB04905 (DrugBank)	tesmilifene	0
+5983	D03826 (KEGG) >> DB00981 (DrugBank 845)	physostigmine	0
+60855	DB00558 (DrugBank 845)	zanamivir	0
+9842606	DB07173 (DrugBank)	5-iodo,5'-deoxytubercidin	0
+11987868	DB07280 (DrugBank)	alkynylpyrimidine 2	0
+444797	DB07506 (DrugBank)	(R)-2-Benzylsuccinic acid	0
+405386	DB06255 (DrugBank)	Yin-Fu	0
+16122632	DB07855 (DrugBank)	DB07855	0
+3675	D00505 (KEGG) >> DB00780 (DrugBank 845)	phenelzine	1
+9305	DB03374 (DrugBank)	3,5-diiodotyrosine	0
+24798742	DB07585 (DrugBank)	pyrrolopyrimidine, 8b	0
+3385	D07974 (KEGG) >> DB00544 (DrugBank 845)	5-fluorouracil	1
+185914	DB08466 (DrugBank)	dihydroresveratrol	0
+24798741	DB07584 (DrugBank)	pyrrolopyrimidine, 5d	0
+691952	DB08114 (DrugBank)	5-benzyl-1,3-thiazol-2-amine	0
+5276520	DB06830 (DrugBank)	1-hydroxyheptane-1,1-diyl)bis(phosphonic acid	0
+12412578	DB08113 (DrugBank)	3-pyridin-4-yl-1H-indazole	0
+5276507	DB06931 (DrugBank)	bisphosphonate, 4	0
+23700	DB02196 (DrugBank)	uridine diphosphate N-acetylgalactosamine	0
+6918670	D09393 (KEGG) >> DB05013 (DrugBank)	ingenol mebutate	0
+57637	D05497 (KEGG)	piridronic acid	0
+16122634	DB08070 (DrugBank)	DB08070	0
+69672	DB03554 (DrugBank)	5-iodouracil	1
+5288864	DB04740 (DrugBank)	AC1NRC7M	0
+2405215	DB08069 (DrugBank)	R8440	0
+39981	D05904 (KEGG)	N-(phosphonacetyl)-L-aspartate	0
+149436	D04715 (KEGG) >> DB00650 (DrugBank)	5-formyltetrahydrofolate	1
+1646	D06202 (KEGG)	homotaurine	0
+23653507	DB06835 (DrugBank)	DB06835	0
+7060564	DB07196 (DrugBank)	Y4269	0
+1032	D02310 (KEGG) >> DB03766 (DrugBank)	propionate	1
+980	DB04417 (DrugBank)	p-nitrophenol	1
+23653503	DB07269 (DrugBank)	DB07269	0
+9978312	DB07265 (DrugBank)	DB07265	0
+978	D02456 (KEGG) >> D02906 (KEGG) >> D02907 (KEGG) >> DB02362 (DrugBank)	p-aminobenzoic acid	1
+130956	D09198 (KEGG)	minodronate	0
+16741275	DB07351 (DrugBank)	DB07351	0
+448326	DB02611 (DrugBank)	Balanol analog 1	0
+46937052	DB07124 (DrugBank)	DB07124	0
+24963048	DB07812 (DrugBank)	DB07812	0
+2776332	DB07259 (DrugBank)	4-(2-thienyl)benzylamine	0
+2134	D02894 (KEGG)	ametantrone	0
+10601416	DB08506 (DrugBank)	DB08506	0
+149096	D00588 (KEGG) >> DB01137 (DrugBank 845)	levofloxacin	1
+65359	D00031 (KEGG)	GSSG	1
+84571	D03226 (KEGG)	lactose	0
+447656	DB08241 (DrugBank)	AC1L9L32	0
+1318	DB02365 (DrugBank)	1,10-phenanthroline	0
+60062	D02539 (KEGG)	clinafloxacin	0
+447655	DB08248 (DrugBank)	AC1L9L30	0
+24836815	DB07221 (DrugBank)	bisphosphonate, 9	0
+11608401	DB07854 (DrugBank)	DB07854	0
+43157	D03998 (KEGG) >> DB03516 (DrugBank)	eniluracil	1
+447649	DB08233 (DrugBank)	AC1L9L2Q	0
+1540	DB06948 (DrugBank)	NU-6094	0
+70	DB03229 (DrugBank)	alpha-ketoisocaproate	1
+10364585	DB07006 (DrugBank)	DB07006	0
+3540	DB07997 (DrugBank)	protein kinase inhibitor H-8	0
+5327110	DB07583 (DrugBank)	DB07583	0
+15942661	DB08199 (DrugBank)	N-benzyloxycarbonyl-L-cysteinylglycine	0
+203	DB04380 (DrugBank)	allantoate	1
+19493	DB02665 (DrugBank)	Parnate	0
+68593	D04992 (KEGG)	methyl palmoxirate	0
+2776424	DB07094 (DrugBank)	Y9114	1
+439744	DB01758 (DrugBank)	3-iodotyrosine	0
+5492457	DB08762 (DrugBank)	ZAAP(O)F	0
+16122635	DB07860 (DrugBank)	DB07860	0
+4565	DB07203 (DrugBank)	AC1L1IG7	0
+4583	D00453 (KEGG) >> D08291 (KEGG) >> DB01165 (DrugBank)	ofloxacin	1
+123982	DB08040 (DrugBank)	kelatorphan	0
+15602983	DB07857 (DrugBank)	DB07857	0
+2088	D00939 (KEGG) >> DB00630 (DrugBank 845)	alendronate	0
+4673	DB00282 (DrugBank 845)	pamidronate	1
+34359	D00558 (KEGG) >> DB00190 (DrugBank 845)	carbidopa	0
+446382	DB03012 (DrugBank)	N-sulfamoylphenylalanine	0
+36462	DB00773 (DrugBank 845)	etoposide	0
+5478838	DB02062 (DrugBank)	DB02062	0
+23653502	DB07157 (DrugBank)	DB07157	0
+24768560	DB07102 (DrugBank)	Amino acid analog, 4f	0
+69702	DB02242 (DrugBank)	cyclohexylpropionate	0
+24768537	DB06924 (DrugBank)	DB06924	0
+448830	DB02618 (DrugBank)	NDSB195	0
+5245	D00942 (KEGG) >> D03234 (KEGG) >> DB00884 (DrugBank 845) >> DB02782 (DrugBank 845)	risedronate	0
+7124	DB02428 (DrugBank) >> DB08452 (DrugBank)	quinaldic acid	1
+46937170	DB08651 (DrugBank)	DB08651	0
+11544170	DB08191 (DrugBank)	DB08191	0
+22690393	DB07099 (DrugBank)	T8777	0
+4395717	DB07873 (DrugBank)	Tensan AO	0
+4369579	DB04723 (DrugBank)	AC1NA0C3	0
+22692237	DB07104 (DrugBank)	DB07104	0
+16750083	DB07939 (DrugBank)	DB07939	1
+23653508	DB06921 (DrugBank)	DB06921	0
+11705956	DB07136 (DrugBank)	BX-528	0
+2764	D02216 (KEGG) >> D07702 (KEGG) >> DB00537 (DrugBank 845) >> DB05488 (DrugBank)	ciprofloxacin	1
+4369433	DB07655 (DrugBank)	DB07655	0
+44120114	DB02010 (DrugBank)	DB02010	0
+4369414	DB04600 (DrugBank)	STX-681	0
+4369432	DB07654 (DrugBank)	DB07654	0
+7127815	DB08685 (DrugBank)	RP03800	0
+4369434	DB07647 (DrugBank)	DB07647	0
+4369435	DB07648 (DrugBank)	DB07648	0
+4369413	DB04601 (DrugBank)	DB04601	0
+5273394	DB08278 (DrugBank)	DB08278	0
+5281107	D01009 (KEGG)	doxercalciferol	0
+79639	DB02489 (DrugBank)	methylguanine	1
+3198	D00881 (KEGG) >> DB01127 (DrugBank 845)	econazole	1
+59693	D02451 (KEGG) >> D03778 (KEGG) >> D07940 (KEGG)	fadrozole	0
+5280793	D00187 (KEGG)	vitamin D2	1
+3156	D01872 (KEGG) >> DB00561 (DrugBank 845)	doxapram	0
+323	D07751 (KEGG) >> DB04665 (DrugBank)	coumarin	1
+5282439	D01683 (KEGG) >> D01684 (KEGG) >> D08327 (KEGG)	GRN163L	0
+46937053	DB07132 (DrugBank)	DB07132	0
+47811	D00502 (KEGG) >> DB01186 (DrugBank 845)	pergolide	1
+23663989	D06072 (KEGG) >> D06073 (KEGG)	tenidap	0
+5362391	D05727 (KEGG)	ridogrel	0
+227	DB04056 (DrugBank) >> DB04166 (DrugBank)	anthranilic acid	1
+9904788	D03749 (KEGG)	plomestane	0
+65016	DB00701 (DrugBank 845)	amprenavir	1
+5353853	D00885 (KEGG)	oxiconazole	1
+1014	DB03945 (DrugBank)	phosphocholine	0
+6914568	DB06876 (DrugBank)	AC1OCA7Y	0
+1132	D01225 (KEGG) >> D07739 (KEGG) >> DB01987 (DrugBank)	thiamine pyrophosphate	0
+1175	DB01696 (DrugBank) >> DB08844 (DrugBank)	uric acid	1
+65490	D02665 (KEGG)	halopemide	0
+53555	D03661 (KEGG)	dazmegrel	0
+65922	D09774 (KEGG)	Imitrodast	0
+1491	DB02839 (DrugBank)	2,4-dihydroxybenzoic acid	1
+51044	D03170 (KEGG)	bucindolol	0
+62452	DB02613 (DrugBank)	n-decyl-N,N-dimethylamine-N-oxide	0
+23657800	DB07228 (DrugBank)	DB07228	0
+9821849	D09701 (KEGG)	abiraterone acetate	0
+379	D05220 (KEGG) >> D08999 (KEGG) >> DB04519 (DrugBank)	octanoate	1
+6540273	DB07037 (DrugBank)	Asinex compound 8	0
+6449876	D06077 (KEGG)	terbogrel	0
+487	DB04183 (DrugBank)	methylmalonic acid	1
+9824580	DB08607 (DrugBank)	DB08607	0
+649	DB01849 (DrugBank)	dihydrouracil	1
+46937179	DB08779 (DrugBank)	DB08779	0
+53000	D03663 (KEGG) >> DB03052 (DrugBank)	dazoxiben	0
+60876	D03025 (KEGG)	azalanstat	0
+60923	D05671 (KEGG)	quiflapon	0
+9844011	DB07320 (DrugBank)	DB07320	0
+6102763	DB08610 (DrugBank)	AC1O0UZB	0
+6102762	DB08609 (DrugBank)	AC1O0UZ8	0
+6102761	DB08608 (DrugBank)	AC1O0UZ5	0
+40539	DB02999 (DrugBank)	quisqualate	1
+1684	D05528 (KEGG) >> DB05105 (DrugBank) >> DB08716 (DrugBank)	pleconaril	0
+44129608	DB08774 (DrugBank)	DB08774	0
+5312804	DB07930 (DrugBank)	R)-3-hydroxydodecanoic acid	0
+6918191	D03786 (KEGG)	vorozole	0
+2267	D00659 (KEGG) >> DB00972 (DrugBank 845)	azelastine	1
+28693	D07218 (KEGG)	metergoline	0
+28417	DB01406 (DrugBank 845)	danazol	0
+44176356	DB07300 (DrugBank)	DB07300	0
+2361	DB06732 (DrugBank)	beta-naphthoflavone	0
+2378	DB04794 (DrugBank 845)	bifonazole	0
+2403	DB01946 (DrugBank)	Bis VIII	0
+75846	DB07623 (DrugBank)	4,4'-dithiodipyridine	0
+76098	DB08780 (DrugBank)	6-morpholinylpurine	0
+2484	D01093 (KEGG) >> DB01091 (DrugBank 845)	butenafine	1
+10156987	DB07025 (DrugBank)	DB07025	0
+60198	DB00990 (DrugBank 845)	exemestane	1
+25249	D00444 (KEGG)	stanozolol	0
+55390	D05502 (KEGG)	pirmagrel	0
+60652	D03781 (KEGG) >> D03784 (KEGG)	liarozole	0
+2187	DB01217 (DrugBank 845)	anastrozole	1
+28864	D01462 (KEGG) >> DB00589 (DrugBank 845)	lisuride	0
+54723704	DB08736 (DrugBank)	DB08736	0
+5311497	D08680 (KEGG)	vinorelbine	0
+5311217	D04657 (KEGG)	lacidipine	0
+46937045	DB07033 (DrugBank)	DB07033	0
+69150	DB07635 (DrugBank)	4,4'-dihydroxybenzophenone	0
+69590	DB03254 (DrugBank)	4-phenylimidazole	1
+2099	DB00969 (DrugBank 845)	alosetron	0
+2132	D01479 (KEGG) >> D07442 (KEGG)	ambroxol	0
+10125830	DB07078 (DrugBank)	A-432411	0
+71616	DB00582 (DrugBank 845)	voriconazole	1
+31100	DB01200 (DrugBank 845)	bromocriptine	1
+2145	DB00357 (DrugBank 845)	aminoglutethimide	1
+2153	D01712 (KEGG) >> D06103 (KEGG) >> DB00277 (DrugBank 845)	theophylline	0
+9796590	D10146 (KEGG)	orteronel	0
+72281	DB01094 (DrugBank 845)	hesperetin	0
+3506204	DB07034 (DrugBank)	ChemDiv compound 5	0
+56069	DB02932 (DrugBank)	R)-bicalutamide	0
+448400	DB02508 (DrugBank)	isopentyl diphosphate	0
+1504717	DB08228 (DrugBank)	DB08228	0
+447682	DB01765 (DrugBank)	AC1L9L3Y	0
+11273	D07260 (KEGG) >> DB08905 (DrugBank)	17-dione	0
+708346	DB07158 (DrugBank)	DB07158	0
+11332763	DB07621 (DrugBank)	(5-(pyridin-3-yl)furan-2-yl)methanamine	0
+104849	DB06155 (DrugBank 845)	rimonabant	1
+5318	D00886 (KEGG) >> D08535 (KEGG)	sulconazole	0
+739358	DB08776 (DrugBank)	DB08776	0
+16129574	DB07075 (DrugBank)	DB07075	0
+5335	D01954 (KEGG) >> DB06729 (DrugBank)	sulfaphenazole	0
+5411	D00741 (KEGG)	tetracaine	0
+10531	D02211 (KEGG) >> D07838 (KEGG) >> DB00320 (DrugBank 845)	dihydroergotamine	1
+447297	DB07670 (DrugBank)	AC1L9KOU	0
+16401	DB03260 (DrugBank)	hexamethylenediamine	0
+98614	DB08777 (DrugBank)	NSC-153324	0
+848641	DB07653 (DrugBank)	L-3296	0
+5482	DB01007 (DrugBank 845)	tioconazole	1
+16122643	DB07314 (DrugBank)	Urea Compound 2	0
+11229234	DB07617 (DrugBank)	DB07617	0
+3696	D00815 (KEGG) >> DB00458 (DrugBank 845) >> DB08002 (DrugBank 845)	imipramine	1
+1202104	DB07971 (DrugBank)	Arylamine compound 2	0
+3686	D01750 (KEGG)	idebenone	0
+11188409	D10125 (KEGG)	galeterone	0
+446506	DB02404 (DrugBank)	AC1L9JR2	0
+446202	DB01831 (DrugBank)	tryptophanyl adenylate	0
+5756	DB04573 (DrugBank 845)	estriol	1
+3823	DB01026 (DrugBank)	ketoconazole (KTZ	0
+670006	DB06890 (DrugBank)	DB06890	0
+11348631	DB07311 (DrugBank)	DB07311	0
+56487	D05746 (KEGG)	rogletimide	0
+11502647	DB06852 (DrugBank)	CHIR-124	0
+448979	DB07870 (DrugBank)	AC1L9MKT	0
+448978	DB03781 (DrugBank)	AC1L9MKR	0
+4601	D00774 (KEGG) >> D02599 (KEGG) >> DB01173 (DrugBank 845)	orphenadrine	1
+4636	D01022 (KEGG) >> DB00935 (DrugBank 845)	oxymetazoline	0
+4449	D00819 (KEGG) >> DB01149 (DrugBank 845)	nefazodone	1
+449459	D06551 (KEGG)	4-hydroxytamoxifen	0
+15600	DB02826 (DrugBank)	decane	0
+448943	DB07456 (DrugBank)	AC1L9MIZ	0
+448669	DB06915 (DrugBank)	naphthalene-1,2,4,5,7-pentol	0
+468595	D02555 (KEGG)	posaconazole	0
+448632	DB02974 (DrugBank)	4-(4-chlorophenyl)imidazole	1
+5143	D01085 (KEGG) >> D02192 (KEGG) >> D05781 (KEGG) >> D08500 (KEGG)	saccharin	0
+16741245	DB07403 (DrugBank)	AZD7545	0
+4174	D05019 (KEGG) >> DB01011 (DrugBank 845)	metyrapone	0
+4841	D01987 (KEGG)	2-(1-piperidino)-ethyl benzilate ethylbromide	0
+4908	D02126 (KEGG) >> DB01087 (DrugBank 845)	primaquine	1
+25134246	DB07560 (DrugBank)	DB07560	0
+114829	DB03601 (DrugBank)	liquiritigenin	0
+132971	DB05812 (DrugBank)	abiraterone	0
+3957	DB00455 (DrugBank 845)	loratadine	0
+5035	D02217 (KEGG) >> DB00481 (DrugBank 845)	raloxifene	1
+3902	DB01006 (DrugBank 845)	letrozole	1
+16214776	DB07568 (DrugBank)	DB07568	0
+1484819	DB08778 (DrugBank)	7N-779	0
+14985	DB00163 (DrugBank)	vitamin E	0
+1510981	DB07972 (DrugBank)	R9938	0
+202225	DB01361 (DrugBank 845)	troleandomycin	0
+92253	D01287 (KEGG) >> DB01002 (DrugBank 845)	levobupivacaine	0
+11154925	D08878 (KEGG)	brivanib alaninate	0
+17754027	DB02950 (DrugBank)	DB02950	0
+12229396	DB08369 (DrugBank)	DB08369	0
+15940185	D01209 (KEGG) >> DB01051 (DrugBank 845)	novobiocin	0
+3468	D01046 (KEGG) >> DB00406 (DrugBank)	crystal violet	0
+3463	DB01241 (DrugBank 845)	gemfibrozil	1
+21138	D03729 (KEGG) >> DB03322 (DrugBank)	R-propranolol	0
+6288	D00041 (KEGG) >> DB00156 (DrugBank)	Threonine	1
+439356	DB04537 (DrugBank)	Trp-NH2	0
+2059510	DB08392 (DrugBank)	AC1M0Z4P	0
+3406	DB01213 (DrugBank 845)	4-methylpyrazole	1
+439278	DB01709 (DrugBank) >> DB03465 (DrugBank)	2-phospho-D-glycerate	1
+6597	D05857 (KEGG) >> DB08809 (DrugBank)	dichloroacetate	1
+8226	D00680 (KEGG) >> DB00353 (DrugBank 845)	UTERINE	0
+6755	DB04744 (DrugBank)	lawsone	1
+219077	DB04872 (DrugBank)	osanetant	0
+275196	D01036 (KEGG) >> D02172 (KEGG)	noscapine	0
+3236724	DB07572 (DrugBank)	DB07572	0
+219104	DB05448 (DrugBank)	1-methylpropyl 2-imidazolyl disulfide	0
+3634	D00541 (KEGG)	hycanthone	0
+198290	D00548 (KEGG)	etomidate	1
+11171679	DB07609 (DrugBank)	DB07609	0
+5995	D00959 (KEGG) >> DB01420 (DrugBank)	testosterone propionate	0
+5832	D00953 (KEGG)	norethisterone acetate	1
+25151504	D09881 (KEGG)	cobicistat	0
+5909	D02200 (KEGG) >> D05478 (KEGG) >> DB01085 (DrugBank 845)	pilocarpine	0
+126	DB03560 (DrugBank)	p-hydroxybenzaldehyde	1
+9859248	DB07731 (DrugBank)	Cdk9 inhibitor II	0
+446541	D05095 (KEGG) >> D05096 (KEGG) >> DB01024 (DrugBank)	mycophenolic acid	1
+4797	DB02739 (DrugBank) >> DB03026 (DrugBank)	phosphoglycolohydroxamate	1
+448488	DB01825 (DrugBank)	C9H9N3O	0
+3253681	DB03629 (DrugBank)	DB03629	0
+473	DB02238 (DrugBank)	KMTB	1
+24779674	DB08340 (DrugBank)	DB08340	0
+6323390	DB04239 (DrugBank)	DB04239	0
+5326637	DB02170 (DrugBank)	DB02170	0
+446622	DB04543 (DrugBank)	AC1L9JW8	0
+8617	DB02740 (DrugBank)	indole-3-butyric acid (IBA	0
+446623	DB02599 (DrugBank)	AC1L9JWA	0
+6918572	D05989 (KEGG) >> D05990 (KEGG)	Val-boroPro	0
+23656870	DB08362 (DrugBank)	DB08362	0
+46936435	DB02604 (DrugBank)	DB02604	0
+1616	DB04169 (DrugBank)	3,5-Diaminophthalhydrazide	0
+1983	D00217 (KEGG) >> DB00316 (DrugBank)	paracetamol	1
+6862	D01558 (KEGG) >> DB01750 (DrugBank)	1-naphthaleneacetic acid	1
+14250	D02164 (KEGG)	TTAB	0
+6954	DB03651 (DrugBank)	picric acid	1
+60955	D04822 (KEGG)	lurtotecan	0
+72	DB03946 (DrugBank UM-BBD)	protocatechuic acid	1
+219078	DB06218 (DrugBank)	lacosamide	0
+242831	DB03780 (DrugBank)	2-amino-4-hydroxyquinazoline	1
+446181	DB04063 (DrugBank)	2-methylleucine	0
+24741805	DB08511 (DrugBank)	DB08511	0
+449003	DB08210 (DrugBank)	AC1L9MLP	0
+5601	DB04795 (DrugBank)	TTFA	1
+448017	DB04004 (DrugBank)	AC1L9LI8	0
+444861	DB03662 (DrugBank)	AC1L9H0L	0
+9819610	DB07358 (DrugBank)	DB07358	0
+998	DB02178 (DrugBank)	phenylacetaldehyde	1
+447405	DB03195 (DrugBank)	3'-deoxy-3'-fluorothymidine monophosphate	0
+6509849	D02384 (KEGG)	L 668019	0
+23643565	DB07564 (DrugBank)	DB07564	0
+447268	D10431 (KEGG) >> D10432 (KEGG)	DADMeimmucillin-H	0
+445005	DB02038 (DrugBank) >> DB03579 (DrugBank) >> DB03787 (DrugBank)	AC1L9H9F	0
+188380	DB03458 (DrugBank)	aza-AdoMet	0
+24779676	DB08354 (DrugBank)	DB08354	0
+153241	D04936 (KEGG) >> DB04862 (DrugBank)	MMPD	0
+444499	D04245 (KEGG)	forodesine	0
+24779675	DB08353 (DrugBank)	DB08353	0
+444348	DB01733 (DrugBank)	D-phospholactate	1
+447742	DB02783 (DrugBank)	AC1L9L6Q	0
+249	DB04401 (DrugBank)	betaine aldehyde	1
+448010	DB03505 (DrugBank)	2,6-diamino-3H-quinazolin-4-one	1
+16750097	DB08512 (DrugBank)	DB08512	0
+24779678	DB08345 (DrugBank)	DB08345	0
+5795340	DB07802 (DrugBank)	AC1NXY7V	0
+6914573	DB07544 (DrugBank)	AC1OCA8A	0
+8857	D02319 (KEGG)	EtOAc	0
+5004	DB08660 (DrugBank)	quinalizarin	0
+5326978	DB04721 (DrugBank)	DB04721	0
+5326977	DB04720 (DrugBank)	C8H4br4N2S	1
+5326960	DB04700 (DrugBank)	glutathione sulfinate	0
+9808998	D03954 (KEGG)	edotecarin	0
+5326930	DB07704 (DrugBank)	AC1NS1C4	0
+5326929	DB08268 (DrugBank)	AC1NS1C1	0
+5326928	DB08267 (DrugBank)	DB08267	0
+24779677	DB08360 (DrugBank)	DB08360	0
+3364573	D00170 (KEGG) >> DB07118 (DrugBank)	4-methylumbelliferone	0
+2971	DB07640 (DrugBank)	decylubiquinone	0
+17753903	DB02560 (DrugBank) >> DB03607 (DrugBank)	DB03607	0
+2162	D02914 (KEGG) >> DB00381 (DrugBank 845)	amlodipine	1
+25229552	DB08118 (DrugBank)	DB08118	0
+4369488	DB04765 (DrugBank)	PLP-GAM	0
+25113137	DB07481 (DrugBank)	DB07481	0
+73927	DB03400 (DrugBank)	3-(4-methylphenyl)propionic acid	0
+75019	DB04208 (DrugBank)	3-(3,4-dimethoxyphenyl)-propanoic acid	0
+4634231	DB03035 (DrugBank)	DB03035	0
+75451	DB03210 (DrugBank)	3-(4-aminophenyl)propionic acid	0
+95014	DB02041 (DrugBank)	isoluminol	1
+5168640	DB01639 (DrugBank)	AC1NQ2P9	0
+24768551	DB06981 (DrugBank)	DB06981	0
+24756824	DB08338 (DrugBank)	DB08338	0
+2968	DB01245 (DrugBank 845)	decamethonium	0
+24768548	DB06982 (DrugBank)	DB06982	0
+941361	D01303 (KEGG) >> DB04841 (DrugBank 845)	flunarizine	0
+78386	DB02434 (DrugBank)	4-(2-thienyl)butyric acid	1
+5287652	DB07354 (DrugBank)	norindenoisoquinoline	0
+24741808	DB08514 (DrugBank)	DB08514	0
+5281915	D01065 (KEGG)	coenzyme Q10	0
+11287125	DB07012 (DrugBank)	quinazolin-8-one	0
+3744	DB02758 (DrugBank)	indole-3-propionic acid	0
+2681	D03454 (KEGG) >> D07664 (KEGG) >> D07672 (KEGG) >> D07673 (KEGG) >> DB01718 (DrugBank)	cetyltrimethylammonium bromide (CTAB	1
+5288371	DB03639 (DrugBank)	DB03639	0
+17754157	DB02677 (DrugBank) >> DB03290 (DrugBank)	DB03290	0
+3414	DB00529 (DrugBank 845)	foscarnet	1
+5288720	DB08159 (DrugBank)	DB08159	0
+3365	DB00196 (DrugBank 845)	fluconazole	0
+24741806	DB07452 (DrugBank)	DB07452	0
+24768549	DB06980 (DrugBank)	(2s)-2-(1h-Indol-3-Yl)hexanoic Acid	0
+10411846	DB07359 (DrugBank)	DB07359	0
+3446	DB00996 (DrugBank 845)	gabapentin	1
+85466	DB03924 (DrugBank)	1,4-diamino-5,8-dihydroxyanthraquinone	0
+3465283	DB02441 (DrugBank)	DB02441	0
+2160	D00809 (KEGG) >> DB00321 (DrugBank 845)	amitriptyline	1
+10432339	D08970 (KEGG)	piragliatin	0
+446124	DB02381 (DrugBank)	N-omega-hydroxy-nor-l-arginine	0
+3082729	DB03544 (DrugBank)	S-phosphocysteine	1
+51634	DB00419 (DrugBank 845)	miglustat	0
+10976469	DB02482 (DrugBank)	D-O-Phospho Threonine	1
+162569	DB03132 (DrugBank)	3-(2-benzothiazolylthio)-1-propanesulfonic acid	0
+5920	D01011 (KEGG) >> D08129 (KEGG) >> DB00279 (DrugBank 845)	3,5,3'-triiodothyronine	1
+5734	DB00909 (DrugBank 845)	zonisamide	1
+6267	D09738 (KEGG) >> DB00174 (DrugBank)	asparagine	1
+446596	D02195 (KEGG) >> DB00410 (DrugBank 845)	mupirocin	0
+23644529	DB04648 (DrugBank)	S-propylamine-L-cysteine	0
+6102810	DB04807 (DrugBank)	AC1O0V2J	0
+446947	DB01756 (DrugBank) >> DB03108 (DrugBank)	D-4-phosphoerythronic acid	0
+25210493	DB07692 (DrugBank)	ML285	0
+89594	D03365 (KEGG) >> D05156 (KEGG)	nicotine	0
+151172	D03406 (KEGG)	cariporide	0
+65063	DB03800 (DrugBank)	dUMP	0
+5287432	DB06864 (DrugBank)	SHCHC	0
+3307	D01514 (KEGG)	etizolam	0
+8146	D08904 (KEGG)	Transcutol	0
+8376	DB01676 (DrugBank)	2,4,6-trinitrotoluene (TNT	0
+9400	D00975 (KEGG) >> D07802 (KEGG)	dexamethasone	0
+439533	DB02224 (DrugBank)	taxifolin	0
+2782689	DB07108 (DrugBank)	4-(4-fluorophenyl)benzoic acid	0
+441314	DB00491 (DrugBank 845)	miglitol	1
+439925	DB03473 (DrugBank)	N5-methylglutamine	0
+441383	DB00251 (DrugBank 845)	terconazole	1
+6913994	D04262 (KEGG)	fostriecin	0
+11073745	DB02172 (DrugBank)	DB02172	0
+444020	DB04878 (DrugBank 845)	voglibose	0
+439605	DB03988 (DrugBank)	lysyl amino	0
+6852129	DB08765 (DrugBank)	6-hydroxybenzothiazole-2-sulfonamide	1
+24764430	DB08617 (DrugBank)	DB08617	0
+2738138	DB07803 (DrugBank)	2-phenylimidazole-4-carboxylic acid	0
+104625	DB03847 (DrugBank)	gamma-carboxyglutamic acid	0
+6027	DB03389 (DrugBank)	xylose	1
+3440	D07999 (KEGG) >> DB00695 (DrugBank 845) >> DB07799 (DrugBank 845)	furosemide	1
+444965	DB01983 (DrugBank)	AC1L9H6X	0
+6021	D00054 (KEGG) >> DB04335 (DrugBank)	inosine	0
+6433110	D09036 (KEGG)	zoniporide	0
+4477692	DB01682 (DrugBank)	6'-methyl-thiamin Diphosphate	0
+439553	DB04173 (DrugBank)	beta-L-fructose	1
+445160	DB08120 (DrugBank)	AC1L9HIU	0
+445375	DB03645 (DrugBank)	phosphonoacetohydroxamate	1
+176077	D05031 (KEGG) >> D10359 (KEGG)	migalastat HCl	0
+60726	D03163 (KEGG) >> DB00963 (DrugBank 845)	bromfenac	0
+447336	DB03577 (DrugBank)	alpha-benzylaminobenzylphosphonic acid	0
+7967	DB02060 (DrugBank)	cyclohexanone	1
+657086	DB04197 (DrugBank)	descarboxy-nor-N(omega)-hydroxy-L-arginine	0
+44387838	DB03206 (DrugBank) >> DB03955 (DrugBank)	1-deoxynojirimycin	0
+688357	DB03314 (DrugBank)	5-fluorotryptophan	0
+5287834	DB07479 (DrugBank)	DB07479	0
+1609	DB04459 (DrugBank)	3,4-dichloroisocoumarin	1
+146089	DB08612 (DrugBank)	octylthiotrifluoropropan-2-one	0
+41774	D00216 (KEGG)	acarbose	1
+45268539	DB08010 (DrugBank)	DB08010	0
+650361	DB07697 (DrugBank)	ML083	0
+4684	D00149 (KEGG)	4-chlorophenol	0
+2118	DB00404 (DrugBank 845)	alprazolam	1
+657087	DB02499 (DrugBank)	dinor-N(omega)-hydroxy-L-arginine	0
+124075	DB08744 (DrugBank)	casimiroin	0
+1493	DB04528 (DrugBank)	2,4-dinitrophenol	1
+657085	DB04585 (DrugBank)	dehydro-2(S)-amino-6-boronohexanoic acid	0
+654376	DB07628 (DrugBank)	ML082	0
+29435	D09605 (KEGG) >> D09606 (KEGG)	1-deoxynojirimycin	0
+448722	DB01658 (DrugBank)	N3'-pyridyl thiamine diphosphate	0
+127716	DB03411 (DrugBank)	2-hydroxymethylpyrrolidine-3,4-diol	1
+448721	DB02814 (DrugBank)	3'-deazo-thiamin Diphosphate	0
+24748047	DB07420 (DrugBank)	DB07420	0
+12389	DB03563 (DrugBank)	tetradecane	0
+447607	D09576 (KEGG) >> D09577 (KEGG) >> DB04545 (DrugBank)	isofagomine	0
+501640	DB08283 (DrugBank)	NN-DNJ	0
+2119	D01182 (KEGG) >> DB00866 (DrugBank 845)	alprenolol	0
+65098	DB03519 (DrugBank) >> DB04185 (DrugBank)	L-norvaline	1
+447414	DB02817 (DrugBank)	DB02817	0
+24748049	DB07424 (DrugBank)	DB07424	0
+2165	D02466 (KEGG) >> DB00613 (DrugBank 845)	amodiaquine	1
+1110	DB00139 (DrugBank 845)	succinate	1
+9918244	D03098 (KEGG)	erythromycin B	0
+10096344	D09566 (KEGG) >> DB08882 (DrugBank)	linagliptin	0
+46937042	DB06993 (DrugBank)	DB06993	0
+15953860	DB07021 (DrugBank)	DB07021	0
+24856357	DB08484 (DrugBank)	DB08484	0
+15942658	DB07977 (DrugBank)	DB07977	0
+46937037	DB06949 (DrugBank)	DB06949	0
+54723327	DB08169 (DrugBank)	DB08169	0
+11572962	DB07239 (DrugBank)	DB07239	0
+46937051	DB07116 (DrugBank)	DB07116	0
+24180585	DB08445 (DrugBank)	DB08445	0
+25187896	DB07153 (DrugBank)	DB07153	0
+11556711	D08880 (KEGG) >> DB08889 (DrugBank)	carfilzomib	0
+54684141	D10172 (KEGG)	teriflunomide	0
+11554165	DB07092 (DrugBank)	DB07092	0
+10342449	DB07975 (DrugBank)	DB07975	0
+24778299	DB07644 (DrugBank)	DB07644	0
+15942657	DB07976 (DrugBank)	DB07976	0
+25067547	D10318 (KEGG)	oprozomib	0
+16750059	DB07666 (DrugBank)	DB07666	0
+46937112	DB07978 (DrugBank)	DB07978	0
+10041129	DB07052 (DrugBank)	ethylthioadenosine	0
+11538992	DB07072 (DrugBank)	DB07072	0
+24808499	DB07263 (DrugBank)	DB07263	0
+44513473	D09780 (KEGG)	anagliptin	0
+54727980	DB07559 (DrugBank)	DB07559	0
+10461508	D10182 (KEGG) >> D10183 (KEGG)	volasertib	0
+9547958	DB07197 (DrugBank)	DB07197	0
+9547959	DB07130 (DrugBank)	DB07130	0
+17754075	DB04225 (DrugBank)	N-methyldehydrobutyrine	1
+54727975	DB08172 (DrugBank)	MD209	0
+16040279	DB07830 (DrugBank)	DB07830	0
+21850055	DB08145 (DrugBank)	DB08145	0
+11495704	DB07135 (DrugBank)	DB07135	0
+54727972	DB07443 (DrugBank)	DB07443	0
+24832041	DB07181 (DrugBank)	DB07181	0
+15991577	DB08672 (DrugBank)	aryl ketone deriv. 1	0
+9547998	DB08678 (DrugBank)	(4-ethylphenyl)sulfamic acid	0
+24801863	DB08026 (DrugBank)	DB08026	0
+10450114	DB07154 (DrugBank)	1,4-diazepan-2-one 2b	0
+25058133	DB08234 (DrugBank)	DB08234	0
+25210531	DB07760 (DrugBank)	DB07760	0
+16058650	DB08164 (DrugBank)	DB08164	0
+15983988	D10178 (KEGG) >> D10179 (KEGG)	trelagliptin	0
+24752844	DB07015 (DrugBank)	DB07015	0
+46209133	D10317 (KEGG)	omarigliptin	0
+10062718	DB07730 (DrugBank)	IZD 1	1
+11516136	D09625 (KEGG) >> DB08382 (DrugBank)	gosogliptin	0
+16058639	DB07134 (DrugBank)	DB07134	0
+46937152	DB08448 (DrugBank)	DB08448	0
+13582275	DB08075 (DrugBank)	amino pyrimidine, 6a	1
+25243828	DB08400 (DrugBank)	DB08400	0
+11417567	D08631 (KEGG) >> D09326 (KEGG)	carmegliptin	0
+25271556	DB08317 (DrugBank)	amino pyrimidine, 3c	0
+25271557	DB08318 (DrugBank)	DB08318	0
+46937128	DB08146 (DrugBank)	DB08146	0
+42608447	DB08429 (DrugBank)	DB08429	0
+17754203	DB02559 (DrugBank)	DB02559	0
+11949652	D08616 (KEGG) >> D09756 (KEGG)	teneligliptin	0
+24875313	DB07789 (DrugBank)	DB07789	0
+23661697	DB07081 (DrugBank)	DB07081	0
+44144380	DB07144 (DrugBank)	DB07144	0
+11235728	DB07465 (DrugBank)	X1043	0
+46937094	DB07813 (DrugBank)	DB07813	0
+11243969	D08996 (KEGG) >> D09753 (KEGG) >> D10262 (KEGG) >> DB06335 (DrugBank 845)	saxagliptin	0
+24882195	DB08006 (DrugBank)	DB08006	0
+11840917	DB07356 (DrugBank)	DB07356	0
+11840913	DB07328 (DrugBank)	DB07328	0
+46937096	DB07822 (DrugBank)	DB07822	0
+9887754	D06578 (KEGG)	denagliptin	0
+24892821	DB08385 (DrugBank)	DB08385	0
+11840904	DB06880 (DrugBank)	DB06880	0
+44144379	DB07142 (DrugBank)	DB07142	0
+25134257	DB07507 (DrugBank)	DB07507	0
+44144378	DB07141 (DrugBank)	DB07141	0
+10247560	DB08741 (DrugBank)	(R)-Iclaprim	0
+9917968	D06252 (KEGG)	trodusquemine	0
+25134265	DB06860 (DrugBank)	DB06860	0
+10198228	DB07482 (DrugBank)	Pro-boroPro	0
+25271555	DB08315 (DrugBank)	2-amino-N,N-dibenzyloxazole-5-carboxamide	0
+24798721	DB07851 (DrugBank)	DB07851	0
+11963565	DB08367 (DrugBank)	DB08367	0
+16086836	DB08366 (DrugBank)	DB08366	0
+25093369	DB07140 (DrugBank)	DB07140	0
+25181315	DB08163 (DrugBank)	DB08163	0
+25111933	DB08783 (DrugBank)	DB08783	0
+46937168	DB08642 (DrugBank)	DB08642	0
+16739330	DB08051 (DrugBank)	DB08051	0
+23647311	DB08588 (DrugBank)	DB08588	0
+10180201	DB07205 (DrugBank)	DB07205	0
+10320144	DB08504 (DrugBank)	DB08504	0
+25113145	DB07511 (DrugBank)	DB07511	0
+17759780	DB06829 (DrugBank)	DB06829	0
+46937148	DB08405 (DrugBank)	DB08405	0
+11592153	DB07271 (DrugBank)	Diazepanone Analog 1	0
+17758920	DB07289 (DrugBank)	DB07289	0
+11974439	DB08044 (DrugBank)	DB08044	0
+46937147	DB08404 (DrugBank)	DB08404	0
+24768547	DB06994 (DrugBank)	DB06994	0
+23645698	DB07067 (DrugBank)	DB07067	0
+24800541	D10110 (KEGG)	delanzomib	0
+11450633	DB06203 (DrugBank)	alogliptin	0
+16122596	DB06939 (DrugBank)	DB06939	0
+24941249	DB06963 (DrugBank)	DB06963	0
+11987861	DB06990 (DrugBank)	DB06990	0
+9853499	D06674 (KEGG)	Efipladib	0
+25271554	DB08314 (DrugBank)	amino-oxazole, 2	0
+24941248	DB06897 (DrugBank)	DB06897	0
+17753924	DB03352 (DrugBank)	S-arsonocysteine	1
+9547919	DB07651 (DrugBank)	DB07651	0
+44	DB03680 (DrugBank)	tartronate	1
+9547915	DB08003 (DrugBank)	DB08003	0
+213043	D08563 (KEGG)	iclaprim	0
+165323	DB07632 (DrugBank)	chlorzolamide	0
+165879	DB01800 (DrugBank)	p-nitrocatechol sulfate	1
+169370	D02527 (KEGG) >> DB08878 (DrugBank)	aminopterin	0
+175496	DB04217 (DrugBank)	l-C-propargyl glycine	1
+178518	DB01925 (DrugBank)	2,3-dihydroxy-2'-chlorobiphenyl	0
+204106	D03938 (KEGG)	Ecopladib	0
+205131	DB04577 (DrugBank)	(1-phenylcyclopentyl)methanamine	0
+216468	D04522 (KEGG)	indisulam	0
+656948	DB03830 (DrugBank)	phosphorylated dihydropteroate	0
+263366	DB07412 (DrugBank)	2-phenylbenzylamino	0
+398148	DB08312 (DrugBank)	Nu6027	0
+425841	DB08478 (DrugBank)	NSC-176856	0
+440483	DB08542 (DrugBank)	3,4-DHSA	0
+444617	DB02583 (DrugBank)	AC1L9GM7	0
+444695	DB03714 (DrugBank)	AC1L9GQR	0
+444763	DB04001 (DrugBank)	AC1L9GUL	0
+157049	D04050 (KEGG)	Ertiprotafib	0
+148189	D04614 (KEGG) >> DB05786 (DrugBank)	irofulven	0
+148138	D04766 (KEGG)	DDATHF-B	0
+148121	D05589 (KEGG) >> DB06813 (DrugBank)	pralatrexate	0
+71947	D05936 (KEGG)	sucrose octasulphate	0
+73333	DB08927 (DrugBank)	amperozide	0
+73491	D02187 (KEGG) >> D07995 (KEGG) >> DB00828 (DrugBank 845)	fosfomycin	1
+75367	DB02649 (DrugBank)	malonamate	1
+78058	DB07344 (DrugBank)	3,6,9,12,15-pentaoxaheptadecan-1-ol	0
+87517	DB08240 (DrugBank)	naphthol-AS-Ephosphate	0
+93114	DB07577 (DrugBank)	GNF-Pf-26	0
+104758	DB00293 (DrugBank 845)	raltitrexed	1
+115015	DB04370 (DrugBank)	S-sulphocysteine	1
+117765	DB02810 (DrugBank)	Adana	0
+119607	D02709 (KEGG) >> DB00580 (DrugBank) >> DB07576 (DrugBank)	valdecoxib	1
+121749	DB08734 (DrugBank)	ustekinumab	0
+130731	D05999 (KEGG)	talotrexin	0
+131682	D10158 (KEGG) >> D10191 (KEGG)	safinamide	0
+134111	DB06873 (DrugBank)	BBAU	0
+444764	DB02622 (DrugBank)	2-(oxalylamino) benzoic acid	0
+444765	DB03102 (DrugBank)	AC1L9GUR	0
+444766	DB03670 (DrugBank)	AC1L9GUU	0
+447229	DB02919 (DrugBank)	AC1L9KM8	0
+447411	DB03982 (DrugBank)	AC1L9KU2	0
+447450	DB02620 (DrugBank)	AC1L9KVK	0
+447695	DB07295 (DrugBank)	compound 8b	0
+447815	DB02104 (DrugBank)	AC1L9L9K	0
+447994	DB02014 (DrugBank)	compound-9	0
+448024	DB02651 (DrugBank)	AC1L9LIK	0
+448372	DB01840 (DrugBank)	2-deoxy-d-glucitol 6-(E)-vinylhomophosphonate	0
+448436	DB02004 (DrugBank)	AC1L9LYJ	0
+448660	DB04142 (DrugBank)	AC1L9M79	0
+448661	DB02259 (DrugBank)	AC1L9M7B	0
+448662	DB03311 (DrugBank)	PTP1B inhibitor	0
+448781	DB08204 (DrugBank)	AC1L9MC8	0
+449125	DB02420 (DrugBank)	AC1L9MR9	0
+449162	DB08001 (DrugBank)	AC1L9MSR	0
+449178	DB02446 (DrugBank)	gamma-glutamylhydroxamate	0
+447256	DB01884 (DrugBank)	valine-pyrrolidide	0
+447022	DB03987 (DrugBank)	AC1L9KDO	0
+445503	DB03818 (DrugBank)	AC1L9I3U	0
+447021	DB02427 (DrugBank)	AC1L9KDM	0
+445504	DB02752 (DrugBank)	tosyl-D-proline	0
+445505	DB04503 (DrugBank)	AC1L9I40	0
+445713	DB07780 (DrugBank)	farnesyl diphosphate	0
+446244	DB04163 (DrugBank)	GW997	0
+446245	DB04306 (DrugBank)	GW578	0
+446556	D03828 (KEGG) >> D06503 (KEGG) >> D07472 (KEGG)	Pemetrexed (Alimta	0
+446560	DB08131 (DrugBank)	AC1L9JTC	0
+446662	DB03154 (DrugBank)	AC1L9JXU	0
+446665	DB04204 (DrugBank)	AC1L9JXY	0
+446744	DB08406 (DrugBank)	AC1L9K1W	0
+446752	DB03351 (DrugBank)	Sri-9439	0
+446753	DB03060 (DrugBank)	Sri-9662	0
+446871	DB02827 (DrugBank)	AC1L9K70	0
+446916	DB04175 (DrugBank)	MDL-29951	0
+446948	DB03259 (DrugBank)	AC1L9KAE	0
+71771	D01545 (KEGG)	aceclofenac	0
+68844	DB01194 (DrugBank 845)	brinzolamide	1
+68760	D07238 (KEGG)	brodimoprim	0
+2266	DB00548 (DrugBank 845)	azelaic acid	1
+2359	DB04360 (DrugBank)	BZBTH2B	1
+2429	DB04007 (DrugBank)	AC1L1DNN	0
+2526	D01488 (KEGG) >> D10489 (KEGG) >> DB01779 (DrugBank)	beta-glycerophosphate	1
+2750	D03493 (KEGG)	ciglitazone	0
+2817	D03572 (KEGG)	cloxiquine	0
+3019	DB01119 (DrugBank 845)	diazoxide	1
+3032	D00903 (KEGG) >> D00904 (KEGG) >> D07819 (KEGG) >> DB00586 (DrugBank 845)	diclofenac	1
+3038	DB01144 (DrugBank 845) >> DB07948 (DrugBank 845)	dichlorphenamide	1
+3117	DB00822 (DrugBank 845)	disulfiram	1
+3295	DB00311 (DrugBank 845) >> DB07727 (DrugBank 845)	ethoxzolamide	0
+3386	D00823 (KEGG) >> DB00472 (DrugBank 845)	fluoxetine	0
+3537	DB01958 (DrugBank)	AC1L1G5Q	0
+3572	DB02035 (DrugBank)	HDSF	0
+3784	DB00270 (DrugBank 845)	isradipine	0
+4100	DB00703 (DrugBank 845)	methazolamide	1
+2353	D01250 (KEGG) >> D03293 (KEGG) >> DB04115 (DrugBank)	berberine	0
+1986	D01196 (KEGG) >> DB00819 (DrugBank 845)	acetazolamide	1
+4507	DB01054 (DrugBank 845)	nitrendipine	1
+1881	DB07862 (DrugBank)	GW345	0
+86	DB03644 (DrugBank)	3-hydroxyanthranilic acid	1
+273	DB03854 (DrugBank)	cadaverine	0
+285	DB02079 (DrugBank)	aminooxyacetic acid (AOAA	1
+289	DB02232 (DrugBank)	catechol	1
+402	D00024 (KEGG)	sulfur	0
+964	DB02951 (DrugBank)	OHPyr	1
+1015	DB04403 (DrugBank)	ethanolamine phosphate	0
+1045	DB01917 (DrugBank)	putrescine	1
+1117	D01108 (KEGG) >> D01732 (KEGG) >> D05963 (KEGG) >> D08137 (KEGG)	sulphate	1
+1521	DB02072 (DrugBank)	AC1L1BNC	0
+1543	DB03480 (DrugBank)	Brequinar Analog	0
+1628	DB01734 (DrugBank)	AC1L1BVL	0
+1757	DB07480 (DrugBank)	AC1L1C66	0
+1829	DB02662 (DrugBank)	novo nordisk a/S compound	1
+1854	DB08397 (DrugBank)	6-(phosphonodifluoromethyl)-2-naphthoic acid	0
+4380	DB04017 (DrugBank 845)	clorgyline	0
+4764	D05456 (KEGG) >> DB04824 (DrugBank)	phenolphthalein	1
+65998	D04789 (KEGG)	lubeluzole	0
+8071	DB01749 (DrugBank)	glyme	1
+9354	DB00566 (DrugBank)	meso-2,3-dimercaptosuccinic acid	1
+12717	DB02109 (DrugBank)	hadacidin	1
+13847	DB03508 (DrugBank)	2-(2-(2-methoxyethoxy)ethoxy)ethyl	0
+14925	DB04562 (DrugBank)	tricarballylate	1
+18794	DB07050 (DrugBank)	benzolamide	0
+21453	D03771 (KEGG)	diaveridine	0
+21704	D00406 (KEGG) >> DB00194 (DrugBank)	vidarabine	0
+24466	DB04655 (DrugBank 845)	metoprine	0
+39186	D00616 (KEGG) >> DB00343 (DrugBank 845)	diltiazem	1
+45069	DB08074 (DrugBank)	triacanthine	0
+54369	DB03695 (DrugBank)	piritrexim	0
+54929	DB07437 (DrugBank)	benzylacyclouridine	0
+57030	DB03523 (DrugBank 845)	brequinar	0
+60843	DB00642 (DrugBank 845)	pemetrexed	0
+65389	DB01963 (DrugBank)	phenylethane boronic acid	0
+8152	DB02779 (DrugBank)	DTAB	0
+8007	DB03659 (DrugBank)	lysine side chain	1
+4781	D08364 (KEGG) >> DB00812 (DrugBank 845) >> DB08343 (DrugBank 845)	phenylbutazone	1
+7628	D01089 (KEGG)	borate	0
+4829	D00945 (KEGG) >> DB01132 (DrugBank 845)	pioglitazone	1
+4971	D02265 (KEGG) >> DB02285 (DrugBank)	PpIX	0
+5070	DB00740 (DrugBank 845)	riluzole	1
+5355	DB00391 (DrugBank 845)	sulpiride	1
+5413	DB08837 (DrugBank)	tetraethylammonium	0
+5582	DB01157 (DrugBank 845)	trimetrexate	0
+5740	DB02848 (DrugBank)	AC1L1L18	0
+5755	DB00860 (DrugBank 845)	prednisolone	0
+5790	D04197 (KEGG) >> DB00322 (DrugBank)	FUdR	1
+5815	D00996 (KEGG) >> DB00668 (DrugBank 845)	epinephrine	0
+5959	D00104 (KEGG) >> DB00446 (DrugBank)	chloramphenicol	1
+6006	D01211 (KEGG)	folinic acid	1
+6199	D08450 (KEGG)	psoralen	0
+6262	D08302 (KEGG) >> DB00129 (DrugBank)	ornithine	0
+7244	DB04586 (DrugBank)	w/v) bromophenol	1
+510684	DB08147 (DrugBank)	AC1LAB9R	0
+54727985	DB07561 (DrugBank)	DB07561	0
+6102821	DB07321 (DrugBank)	AC1O0V3D	0
+961704	DB07061 (DrugBank)	DB07061	0
+6857724	DB08407 (DrugBank)	platensimycin	0
+4112111	DB07646 (DrugBank)	Undecylamine-N,N-Dimethyl-N-Oxide	0
+978607	DB08530 (DrugBank)	BDP_X	0
+3695754	DB08787 (DrugBank)	4M-061	0
+3137930	DB08316 (DrugBank)	W-8882	0
+5459374	DB08024 (DrugBank)	DB08024	0
+5327153	DB08549 (DrugBank)	DB08549	0
+5327152	DB06887 (DrugBank)	DB06887	0
+5287565	DB03506 (DrugBank)	5H-pyrrolo[3,2-d]pyrimidin-4-amine	1
+5287459	DB04583 (DrugBank)	AMX02	0
+5327150	DB04768 (DrugBank)	Pyrithiamin Pyrophosphate	0
+5284627	DB00273 (DrugBank 845)	topiramate	1
+5327045	DB07298 (DrugBank)	DB07298	0
+5494385	DB04578 (DrugBank)	AC1NUV0L	0
+5494411	DB04633 (DrugBank)	AC1NUV2L	0
+6323520	DB02301 (DrugBank)	5,10-methylene-6-hydrofolic Acid	0
+6102822	DB07270 (DrugBank)	AC1O0V3G	0
+4635864	DB02490 (DrugBank)	DB02490	1
+2730281	DB08479 (DrugBank)	AC1O3VBK	0
+5326566	DB04345 (DrugBank)	flavins	0
+2734054	DB03253 (DrugBank)	(s)-pyrrolidin-2-ylmethanamine	1
+6102820	DB07312 (DrugBank)	FBPase-1 inhibitor	0
+2766552	DB08076 (DrugBank)	11E-045	0
+5494422	DB07779 (DrugBank)	AC1NUV3C	0
+5726921	DB07838 (DrugBank)	DB07838	0
+5327154	DB04800 (DrugBank)	DB04800	0
+5287610	DB03216 (DrugBank)	AC1NR9Z0	0
+9543513	DB07656 (DrugBank)	DB07656	0
+6917908	D03942 (KEGG)	edatrexate	0
+4369451	DB08591 (DrugBank)	DB08591	0
+9543472	DB07262 (DrugBank)	DB07262	0
+4369359	D06645 (KEGG) >> DB01261 (DrugBank 845) >> DB07214 (DrugBank 845)	sitagliptin	0
+5287741	DB07439 (DrugBank)	AC1NRA7B	0
+735838	DB08359 (DrugBank)	2-phenylamino-4-methyl-5-acetylthiazole	0
+5288329	DB04696 (DrugBank)	DB04696	0
+5362065	D07640 (KEGG) >> DB00671 (DrugBank)	cefixime	0
+4369446	DB04733 (DrugBank)	mannitol-1,6-bis(phosphate	0
+6918537	D07080 (KEGG) >> DB04876 (DrugBank)	vildagliptin	0
+4369452	DB08593 (DrugBank)	DB08593	0
+4369475	DB06872 (DrugBank)	DB06872	0
+6914661	DB07127 (DrugBank)	DB07127	0
+6914660	DB07068 (DrugBank)	DB07068	0
+5351153	D07258 (KEGG)	MGBG	0
+5327155	DB07719 (DrugBank)	AC1NS1R1	0
+6914659	DB06989 (DrugBank)	DB06989	0
+6914643	DB08743 (DrugBank)	DB08743	0
+5324345	D00824 (KEGG)	fluvoxamine	1
+5567	D02625 (KEGG) >> D08637 (KEGG)	trifluperidol	0
+5560	DB01021 (DrugBank 845)	trichlormethiazide	1
+8894	DB02412 (DrugBank)	tetrahydropyran	1
+5568	D00800 (KEGG) >> DB00508 (DrugBank 845)	triflupromazine	0
+5326727	DB03623 (DrugBank)	AC1NS0Z6	0
+5327012	DB04754 (DrugBank)	DB04754	0
+5775	D00509 (KEGG) >> DB00692 (DrugBank 845)	phentolamine	0
+6468	D05453 (KEGG) >> DB03575 (DrugBank)	phencyclidine	0
+5572	DB00376 (DrugBank 845)	trihexyphenidyl	1
+7547	D06223 (KEGG)	triclocarban	0
+7419	DB02054 (DrugBank)	3-aminobenzoic acid	1
+7291	D05075 (KEGG)	monothioglycerol	1
+5327013	DB04753 (DrugBank)	DB04753	0
+5905	DB00249 (DrugBank 845)	IUdR	0
+6466	DB07814 (DrugBank)	gibberellin (GA	0
+6380	DB03095 (DrugBank)	tetramethylammonium	1
+6224	D05855 (KEGG)	citric acid-sodium citrate	0
+5359272	D00841 (KEGG) >> DB00854 (DrugBank)	levorphanol	1
+6038	DB04745 (DrugBank)	quinolones	1
+6037	D07985 (KEGG) >> DB00158 (DrugBank 845)	folate	1
+5736	D01321 (KEGG)	zotepine	0
+9417	D01477 (KEGG) >> D08297 (KEGG)	opipramol	0
+35370	DB00495 (DrugBank 845)	zidovudine	1
+9427	DB01629 (DrugBank)	5-fluorouridine	0
+60853	D01939 (KEGG) >> D02100 (KEGG) >> DB00246 (DrugBank 845)	ziprasidone	1
+54477	D02683 (KEGG) >> DB00409 (DrugBank 845)	remoxipride	0
+54687	D00893 (KEGG) >> DB00175 (DrugBank 845) >> DB05373 (DrugBank)	pravastatin	1
+5289159	DB04763 (DrugBank)	DB04763	0
+60149	DB06144 (DrugBank 845)	sertindole	1
+60692	D03845 (KEGG)	MK-417	0
+60772	D00398 (KEGG) >> D10518 (KEGG) >> DB00577 (DrugBank 845)	VACV	0
+60817	DB02568 (DrugBank 845) >> DB07442 (DrugBank 845)	peldesine	0
+60822	D00887 (KEGG) >> D02258 (KEGG)	atorvastatin	0
+5288998	DB08263 (DrugBank)	DB08263	0
+62751	DB01520 (DrugBank)	thienylcyclohexylpiperidine	0
+9681	D00681 (KEGG)	methysergide	1
+64718	D03816 (KEGG)	simvastatin acid	0
+64727	DB03785 (DrugBank)	lovastatin acid	0
+65094	DB04705 (DrugBank)	25-hydroxycholesterol	0
+66264	D03713 (KEGG) >> D07805 (KEGG)	dexfenfluramine	0
+66269	D03851 (KEGG)	dioxadrol	0
+66827	DB01795 (DrugBank)	phenylboronic acid	1
+5288573	DB07908 (DrugBank)	Ocimarin	0
+69602	DB04622 (DrugBank)	N-acetylhistamine	0
+22479942	DB07020 (DrugBank)	DB07020	0
+54454	DB00641 (DrugBank)	simvastatin	0
+53388	D02684 (KEGG)	rimcazole	0
+23653514	DB07048 (DrugBank)	DB07048	0
+53232	DB00227 (DrugBank 845)	lovastatin	1
+10660	DB00985 (DrugBank 845)	dimenhydrinate	0
+13195	DB03385 (DrugBank)	histidine side chain	1
+14253	DB02776 (DrugBank)	hexadecanesulfonic acid	0
+15443	D02620 (KEGG)	azaperone	0
+19143	D03618 (KEGG)	cyclazocine	0
+5472	D01028 (KEGG) >> DB00208 (DrugBank 845)	ticlopidine	1
+5289354	DB01684 (DrugBank)	1-hydroxy-1-thio-glycerol	1
+24203	D04400 (KEGG) >> D09000 (KEGG)	sodium phosphate	0
+24602	D03703 (KEGG)	deuterium oxide	0
+31404	D02413 (KEGG)	butylated hydroxytoluene	0
+33036	D00668 (KEGG) >> D07803 (KEGG)	dexchlorpheniramine	1
+36811	D00632 (KEGG) >> D03881 (KEGG) >> DB00841 (DrugBank 845)	dobutamine	0
+24180714	DB06979 (DrugBank)	DB06979	0
+37460	D02641 (KEGG)	butaclamol hydrochloride	0
+39468	D01025 (KEGG) >> DB01210 (DrugBank 845)	levobunolol	1
+44072	DB07338 (DrugBank)	acifluorfen	0
+47640	DB00735 (DrugBank)	AMEI	1
+50313	D04181 (KEGG)	FIAU	0
+50599	DB00900 (DrugBank 845) >> DB02392 (DrugBank 845)	didanosine	1
+5511	D01507 (KEGG) >> D08617 (KEGG)	tolperisone	0
+4910	D05614 (KEGG)	SKF-525A	0
+5452	D00798 (KEGG) >> DB00679 (DrugBank 845)	thioridazine	0
+5443	D00971 (KEGG) >> D08586 (KEGG)	2-mercaptobenzoic acid	0
+45270264	DB08015 (DrugBank)	DB08015	0
+6852206	DB07272 (DrugBank)	DB07272	0
+2017	D01248 (KEGG) >> D07924 (KEGG)	rivanol	0
+2022	D02764 (KEGG) >> DB00787 (DrugBank 845) >> DB05347 (DrugBank)	acyclovir	1
+2130	D00777 (KEGG) >> DB00915 (DrugBank 845)	amantadine	1
+2144	DB02535 (DrugBank)	AC1L1D0O	0
+2156	D00636 (KEGG) >> DB01118 (DrugBank 845)	amiodarone	1
+6852128	DB08301 (DrugBank)	DB08301	0
+44224261	DB08021 (DrugBank)	piperazine amide, 4g	0
+2345	D01138 (KEGG) >> DB00676 (DrugBank) >> DB02775 (DrugBank)	benzyl ester	1
+6540289	DB07218 (DrugBank)	DB07218	0
+44144383	DB08083 (DrugBank)	DB08083	0
+2477	D00702 (KEGG) >> DB00490 (DrugBank 845)	buspirone	1
+2562	D01260 (KEGG) >> D08334 (KEGG) >> D08335 (KEGG)	carbetapentane	0
+2732	DB00310 (DrugBank 845)	chlorthalidone	0
+2769	D02092 (KEGG)	cisapride	0
+2771	D00822 (KEGG) >> D07705 (KEGG) >> DB00215 (DrugBank 845)	citalopram	0
+2788	D03538 (KEGG) >> DB04815 (DrugBank)	clioquinol	1
+2801	D00811 (KEGG) >> DB01242 (DrugBank 845) >> DB07600 (DrugBank 845)	clomipramine	1
+1949	DB02016 (DrugBank)	Ro 48-8071	0
+1923	D02414 (KEGG) >> D04415 (KEGG) >> D05321 (KEGG)	8-hydroxyquinoline	0
+6857710	DB07571 (DrugBank)	AC1OAH3V	0
+764	DB02377 (DrugBank)	guanine	1
+58	DB04553 (DrugBank)	alpha-ketobutyrate	1
+96	DB01762 (DrugBank) >> DB04025 (DrugBank)	diacetate	1
+254	DB02923 (DrugBank)	2,3-dihydroxybiphenyl	0
+264	DB03568 (DrugBank)	butyrate	1
+280	D00004 (KEGG)	carbon dioxide	0
+338	D00566 (KEGG) >> D00827 (KEGG) >> DB00936 (DrugBank 845) >> DB01397 (DrugBank) >> DB01398 (DrugBank)	salicylate	1
+340	DB03454 (DrugBank)	3-methylcatechol	1
+6918107	D03496 (KEGG) >> DB04885 (DrugBank)	cilansetron	0
+785	D00073 (KEGG)	quinol	0
+1662	D04897 (KEGG) >> DB04377 (DrugBank)	3-hydroxy-3-methylglutaric acid	1
+798	DB04532 (DrugBank)	indole	1
+9571003	D03037 (KEGG) >> DB04957 (DrugBank)	azimilide	0
+46937116	DB08011 (DrugBank)	DB08011	0
+1140	DB01900 (DrugBank)	toluene	0
+1188	DB02134 (DrugBank 845)	xanthine	1
+1387	DB03294 (DrugBank)	AC1L1BD5	0
+9804302	DB08416 (DrugBank)	2-MeOE2bisMATE	0
+46937054	DB07148 (DrugBank)	DB07148	0
+3008	DB00514 (DrugBank 845)	racemethorphan	0
+3042	D00717 (KEGG) >> DB00804 (DrugBank 845)	dicyclomine	1
+3158	DB01142 (DrugBank 845)	Z-doxepin	1
+4927	D00480 (KEGG) >> D08432 (KEGG) >> DB01069 (DrugBank 845)	promethazine	0
+4541	DB06731 (DrugBank)	norfluoxetine	0
+4746	D05442 (KEGG) >> DB01074 (DrugBank 845)	perhexiline	0
+4748	D02037 (KEGG) >> D04965 (KEGG) >> DB00850 (DrugBank 845)	perphenazine	0
+5459952	DB04277 (DrugBank)	DB04277	0
+5447130	D00862 (KEGG) >> DB00336 (DrugBank)	nitrofurazone	1
+4830	D01482 (KEGG) >> D02622 (KEGG)	pipamperone	0
+4886	D00739 (KEGG) >> D08407 (KEGG)	pramoxine	0
+71360	DB04946 (DrugBank)	iloperidone	0
+4935	D02098 (KEGG) >> DB00807 (DrugBank 845)	proparacaine	1
+4416	D05106 (KEGG)	nafoxidine	0
+5388928	DB04033 (DrugBank)	benzyloxycarbonyl-alanyl-proline	0
+5002	DB01224 (DrugBank 845)	quetiapine	1
+5054	D00133 (KEGG)	resorcinol	0
+5265	D01051 (KEGG)	spiperone	0
+5360696	D00848 (KEGG)	dextromethorphan	0
+5356	D01787 (KEGG) >> DB08329 (DrugBank)	sulthiame	0
+9912519	DB08418 (DrugBank)	DB08418	0
+5414	DB04233 (DrugBank)	tetraethylene glycol monooctyl ether	0
+5475158	D03506 (KEGG)	cinanserin	0
+25102845	DB08739 (DrugBank)	DB08739	0
+3191	D01478 (KEGG)	ebastine	0
+25167947	D10408 (KEGG)	vedroprevir	0
+3236	D01671 (KEGG) >> D07898 (KEGG)	eperisone	0
+3372	D00791 (KEGG) >> D02163 (KEGG) >> DB00623 (DrugBank 845)	fluphenazine	1
+3383	D02024 (KEGG) >> DB07777 (DrugBank)	fluorescein sodium salt	0
+25203945	DB08555 (DrugBank)	DB08555	0
+6102809	DB04651 (DrugBank)	AC1O0V2G	0
+3396	DB04842 (DrugBank 845)	fluspirilene	0
+3561	DB00793 (DrugBank 845)	haloprogin	1
+3639	DB00999 (DrugBank 845)	hydrochlorothiazide	1
+25155578	DB08738 (DrugBank)	DB08738	0
+4170	DB00524 (DrugBank 845)	metolazone	0
+3657	DB01005 (DrugBank 845)	hydroxyurea	1
+3689	D01445 (KEGG) >> D08064 (KEGG)	ifenprodil	0
+3702	DB00808 (DrugBank 845)	indapamide	0
+3822	D08099 (KEGG)	ketanserin	0
+3954	D00729 (KEGG) >> DB00836 (DrugBank 845)	loperamide	1
+3998	D01166 (KEGG) >> D02351 (KEGG) >> D04815 (KEGG)	mafenide acetate	0
+4020	DB00579 (DrugBank 845)	mazindol	0
+25113171	DB07845 (DrugBank)	DB07845	0
+70766	DB04605 (DrugBank)	5-aminoisoquinoline	1
+17753965	DB04392 (DrugBank)	DB04392	0
+10267580	DB07267 (DrugBank)	DB07267	0
+161165	DB02070 (DrugBank)	L-kynurenine	0
+193512	DB04203 (DrugBank)	(2-amino-5-sulfamoylphenyl)mercury	1
+188350	DB02933 (DrugBank)	5'-methylthiotubercidin	0
+180081	D03878 (KEGG)	dizocilpine	0
+4470573	DB02245 (DrugBank)	7-deazaguanine	1
+447001	DB02222 (DrugBank)	S)-PMPDAP	0
+169682	DB08782 (DrugBank)	4-aminoethylbenzenesulfonamide	0
+16122582	DB08157 (DrugBank)	DB08157	0
+1548952	D00962 (KEGG) >> D07726 (KEGG) >> D08910 (KEGG)	clomiphene	1
+4635111	DB02885 (DrugBank)	DB02885	1
+1547484	D07734 (KEGG)	cinnarizine	0
+163296	D03843 (KEGG) >> DB00932 (DrugBank 845)	tipranavir	0
+159772	DB02459 (DrugBank)	4-guanidinobenzoate	0
+891831	DB08202 (DrugBank)	AC1LHR9C	0
+11188898	DB07596 (DrugBank)	DB07596	0
+1201549	D07511 (KEGG)	benztropine	0
+447559	DB03771 (DrugBank)	AC1L9KYY	0
+447560	DB02339 (DrugBank)	AC1L9KZ0	0
+447562	DB03748 (DrugBank)	AC1L9KZ4	0
+5281881	D01044 (KEGG) >> D02236 (KEGG)	flupenthixol	0
+447872	DB03084 (DrugBank)	AC1L9LC2	0
+5282451	DB08860 (DrugBank)	pitavastatin	0
+448110	DB02495 (DrugBank)	HBPG	0
+448130	DB02025 (DrugBank)	ACV tripeptide	0
+5284549	D00653 (KEGG) >> DB00869 (DrugBank) >> DB04507 (DrugBank 845)	dorzolamide	1
+2733779	DB02639 (DrugBank)	4-methylumbelliferyl-beta-D-glucopyranoside	0
+439236	DB03101 (DrugBank)	alpha-D-ribose 1-phosphate	0
+446727	D07249 (KEGG)	BVDU	0
+439811	DB02522 (DrugBank)	phosphonopyruvate	1
+3161908	DB08156 (DrugBank)	3-(4-sulfamoylphenyl)propanoic acid	0
+445986	DB03234 (DrugBank)	AC1L9IWR	0
+445987	DB08458 (DrugBank)	AC1L9IWU	0
+445989	DB03888 (DrugBank)	AC1L9IX0	0
+445990	DB02139 (DrugBank)	AC1L9IX3	0
+445992	DB02544 (DrugBank)	AC1L9IX9	0
+445995	DB02552 (DrugBank)	geranyl diphosphate	0
+446154	DB06693 (DrugBank)	ML-236B sodium salt	0
+444849	DB07710 (DrugBank)	AC1L9H00	0
+446156	D00889 (KEGG) >> D07661 (KEGG) >> DB00439 (DrugBank)	Statins	1
+12598931	DB07467 (DrugBank)	DB07467	0
+4369171	DB03598 (DrugBank)	Al 6629	0
+14611919	DB08659 (DrugBank)	indole sulfonamide, L	0
+446157	D01915 (KEGG) >> D08492 (KEGG)	rosuvastatin	0
+4369172	DB03262 (DrugBank)	Al 6619	0
+15564935	DB03410 (DrugBank)	4-hydroxycoumarin	1
+446221	DB04095 (DrugBank)	9-deazahypoxanthine	1
+3092847	DB04394 (DrugBank)	LeadQuest Compound 7	0
+444306	DB02570 (DrugBank)	AC1L9G3M	1
+11069133	DB06891 (DrugBank)	DB06891	0
+441277	D02111 (KEGG) >> D02227 (KEGG) >> DB00652 (DrugBank 845)	pentazocine	0
+440266	D00178 (KEGG)	p-hydroxyphenylethanolamine	0
+440033	DB03915 (DrugBank)	L-2-Amino-3-oxobutanoate	1
+11245700	DB06954 (DrugBank)	DB06954	0
+445732	DB02391 (DrugBank)	AC1L9IHF	0
+17754065	DB01815 (DrugBank)	nz-(dicarboxymethyl)lysine	0
+17754181	DB03333 (DrugBank)	DB03333	0
+448999	DB04260 (DrugBank)	9-(5',5'-difluoro-5'-phosphonopentyl)guanine	0
+92109	DB07815 (DrugBank)	gibberellin 4	0
+688424	DB08046 (DrugBank)	Hygroton (chlorthalidone	0
+74989	D00236 (KEGG) >> DB01117 (DrugBank)	atovaquone	1
+17754162	DB01973 (DrugBank)	DB01973	0
+9543521	DB07276 (DrugBank)	DB07276	0
+5287779	DB04636 (DrugBank)	glutamine t-butyl ester	0
+5284595	D08247 (KEGG) >> D08248 (KEGG)	nalorphine	0
+16750106	DB06933 (DrugBank)	DB06933	0
+17414308	DB07115 (DrugBank)	T5743502	0
+657255	D05967 (KEGG)	D05967	0
+119224	DB02413 (DrugBank)	S-(2-hydroxyethyl)-cysteine	1
+745994	DB08155 (DrugBank)	N-(4-sulfamoylphenethyl)acetamide	0
+96876	DB08165 (DrugBank)	indane-5-sulfonamide	0
+462919	DB07476 (DrugBank)	4-(2-mercaptophenylcarboxamido)benzenesulfonamide	0
+450268	DB07069 (DrugBank)	3-hydroxyhippuric acid	0
+637540	DB01650 (DrugBank)	o-coumaric acid	1
+448904	DB03874 (DrugBank BioCyc)	2-azasqualene	0
+122623	DB03535 (DrugBank)	Z-Pro-prolinal	0
+91552	DB04422 (DrugBank)	L-homocysteine	1
+121892	D09569 (KEGG) >> DB04953 (DrugBank)	retigabine	0
+89105	DB04253 (DrugBank)	5-(aziridin-1-yl)-2,4-dinitrobenzamide	0
+5287830	DB02168 (DrugBank)	6-bromopurine	1
+656970	DB08606 (DrugBank)	MT-DADMe-ImmA	0
+72139	D07211 (KEGG)	thioxolone	0
+126690	DB03228 (DrugBank)	NSC-646392	0
+766948	DB07217 (DrugBank)	DB07217	0
+11430856	D09358 (KEGG) >> D09359 (KEGG)	Naluzotan	0
+446862	DB01993 (DrugBank) >> DB04467 (DrugBank)	PPL-D-alanine	0
+446912	DB04373 (DrugBank)	AC1L9K8S	0
+3052775	D02562 (KEGG) >> DB01367 (DrugBank 845)	rasagiline	0
+460	D00117 (KEGG)	guaiacol	0
+2266114	DB07155 (DrugBank)	AC1M4SHQ	0
+598	D01459 (KEGG)	mesna	0
+3366	D00323 (KEGG) >> DB01099 (DrugBank)	flucytosine	1
+11113760	DB02316 (DrugBank)	DB02316	0
+3290	D01118 (KEGG) >> DB00392 (DrugBank 845)	ethopropazine	0
+11840911	DB07180 (DrugBank)	DB07180	0
+670	D07841 (KEGG) >> DB01775 (DrugBank)	glyceraldehyde	1
+490	DB03174 (DrugBank)	phosphonoacetaldehyde	1
+3202	D00994 (KEGG) >> DB01010 (DrugBank 845)	edrophonium	0
+668	DB04326 (DrugBank)	dihydroxyacetone phosphate (DHAP	1
+572	DB02948 (DrugBank 845)	fosmidomycin	1
+446185	DB03030 (DrugBank)	AC1L9J9C	0
+446357	DB03074 (DrugBank)	preQ0	1
+11960529	D09692 (KEGG) >> DB07232 (DrugBank)	veliparib	0
+4026	DB04188 (DrugBank)	MDL-72527DA	0
+445969	DB03278 (DrugBank)	L-threitol	1
+656986	DB04616 (DrugBank)	DB04616	0
+3991	DB03359 (DrugBank)	AC1L1H65	0
+3883	DB00448 (DrugBank 845)	lansoprazole	0
+3767	DB00951 (DrugBank 845)	isoniazid	1
+3748	D02579 (KEGG) >> D08085 (KEGG) >> DB04818 (DrugBank)	iproniazid	1
+25134267	DB08310 (DrugBank)	DB08310	0
+138	DB02068 (DrugBank)	delta-aminovaleric acid	1
+657149	DB02505 (DrugBank)	AC1LCW3V	0
+604519	D09750 (KEGG)	amiridin	0
+342	D04951 (KEGG) >> DB01776 (DrugBank)	m-cresol	1
+3655	D06288 (KEGG)	velnacrine	0
+49836020	D10417 (KEGG)	birinapant	0
+11957394	DB08753 (DrugBank)	DB08753	0
+3637	D01302 (KEGG) >> DB01275 (DrugBank 845)	hydralazine	1
+543502	DB08171 (DrugBank)	11-mercaptoundecanoic acid	0
+6920596	DB07222 (DrugBank)	DB07222	0
+446167	DB01832 (DrugBank)	C5H9O5P	1
+1549107	DB02509 (DrugBank)	cis,cis-farnesol	0
+3450	D02292 (KEGG) >> DB00483 (DrugBank)	gallamine triethiodide	0
+481709	DB08265 (DrugBank)	DB08265	0
+6323452	DB04509 (DrugBank)	N-methylnaloxonium	0
+11291932	DB08058 (DrugBank)	DB08058	0
+3017	D07856 (KEGG)	diazinon	0
+1116191	DB07192 (DrugBank)	DB07192	0
+2155	D02479 (KEGG)	aminothiazole	0
+1050	DB00147 (DrugBank)	pyridoxal	1
+448797	DB02881 (DrugBank)	AC1L9MCY	0
+2131	D01001 (KEGG) >> DB01122 (DrugBank 845)	ambenonium	0
+1150567	DB07701 (DrugBank)	R)-donepezil	0
+44602427	DB08335 (DrugBank)	DB08335	0
+11616886	DB07513 (DrugBank)	NW-1172	0
+447767	DB04289 (DrugBank)	Genz10850	0
+1121782	DB07429 (DrugBank)	DB07429	0
+11602832	DB07257 (DrugBank)	DB07257	0
+1933	DB03672 (DrugBank)	AC1L1CJU	0
+448718	DB02267 (DrugBank)	AC1L9M9S	0
+3016	DB00829 (DrugBank 845) >> DB07699 (DrugBank 845)	diazepam	1
+9817381	DB08321 (DrugBank)	N-octyl--valienamine	0
+6914612	DB06984 (DrugBank)	DB06984	0
+1755	DB02260 (DrugBank)	4-oxosebacic acid	0
+1727	DB06637 (DrugBank)	4-aminopyridine	1
+1722	DB07782 (DrugBank)	CF3HMP-PP	0
+1720	DB07096 (DrugBank)	4-amino-1,8-naphthalimide	0
+1698	DB04560 (DrugBank)	4,7-dioxosebacic acid	0
+448167	DB07940 (DrugBank)	AC1L9LOA	0
+448475	DB02036 (DrugBank)	AC1L9M03	0
+1195	DB04714 (DrugBank)	isopentenyl diphosphate	0
+854026	DB01928 (DrugBank)	huperzine A	0
+448810	DB03705 (DrugBank)	5-nitro-6-methylamino-isocytosine	1
+2334	DB01681 (DrugBank)	mellitic acid	0
+4055	DB00170 (DrugBank 845)	menadione	1
+1283969	DB07188 (DrugBank)	DB07188	0
+446917	DB04378 (DrugBank)	AC1L9K92	0
+40636608	DB07090 (DrugBank)	DB07090	0
+2993	D01575 (KEGG) >> DB04209 (DrugBank)	dequalinium	0
+2879	DB01688 (DrugBank)	cresyl	1
+6420119	DB08257 (DrugBank)	AC1Q75I7	0
+1511	DB04010 (DrugBank)	AC1L1BMO	0
+11167602	D10137 (KEGG) >> D10138 (KEGG) >> DB08896 (DrugBank)	regorafenib	0
+446994	DB02337 (DrugBank)	S-(delta-carboxybutyl)-l-homocysteine	0
+2780	D03534 (KEGG)	clebopride	0
+447018	DB03534 (DrugBank)	benzamide deriv. 5	0
+6420120	DB08258 (DrugBank)	AC1O4WJZ	0
+11691442	DB08365 (DrugBank)	DB08365	0
+2730	D07688 (KEGG)	chlorpyrifos	0
+2719	D02125 (KEGG) >> D03469 (KEGG) >> D07680 (KEGG) >> DB00608 (DrugBank 845)	chloroquine	0
+2712	D00693 (KEGG)	chlordiazepoxide	0
+2551	DB00411 (DrugBank) >> DB02487 (DrugBank)	carbachol	0
+6420121	DB08259 (DrugBank)	AC1O4WK0	0
+979	DB07718 (DrugBank)	4-hydroxyphenylpyruvate	0
+6420149	DB08060 (DrugBank)	4-(2-aminophenyl)-4-oxobutanoic acid	0
+1415427	DB07123 (DrugBank)	piperidine, b3	0
+6437850	D03733 (KEGG)	MDL-72974A	0
+448890	DB07787 (DrugBank)	AC1L9MGP	0
+448889	DB03072 (DrugBank)	AC1L9MGN	0
+5288103	DB04677 (DrugBank)	DB04677	0
+4149241	DB08256 (DrugBank)	AC1Q760W	0
+445771	DB02254 (DrugBank)	trifluoro-thiamin phosphate	0
+132302	DB04478 (DrugBank)	Sdi-2 cpd	0
+34521	D02559 (KEGG)	toloxatone	0
+126892	DB01695 (DrugBank)	N-hydroxy-4-phosphono-butanamide	1
+31721	DB01472 (DrugBank)	p-methoxyamphetamine	0
+10219702	DB07677 (DrugBank)	A5393	1
+26757	D00785 (KEGG)	selegiline	1
+26695	D03539 (KEGG)	clioxanide	0
+25945	DB04781 (DrugBank)	hydroxyvaleric acid	1
+131153	DB02828 (DrugBank)	5-fluorolevulinic acid	1
+5289330	DB08524 (DrugBank)	DB08524	0
+5289331	DB08525 (DrugBank)	AC1NRD3B	0
+132228	D03823 (KEGG)	Quilostigmine	0
+21388	D04512 (KEGG) >> D08069 (KEGG)	imidocarb	0
+21109	D01606 (KEGG) >> D08642 (KEGG)	trimetazidine	0
+20689	DB04250 (DrugBank)	butyrylthiocholine	0
+18807	DB04393 (DrugBank)	diclosan	0
+37850	DB01803 (DrugBank)	thiocholine	1
+5289507	DB02226 (DrugBank)	DB02226	0
+15391	DB03976 (DrugBank)	isopropyl phosphate	1
+9994897	DB08754 (DrugBank)	trans-N-caffeoyltyramine	0
+146719	DB03673 (DrugBank)	3-(2-thienyl)-L-alanine	1
+5289508	DB03005 (DrugBank)	DB03005	0
+16220130	DB07287 (DrugBank)	DB07287	0
+24778468	DB08712 (DrugBank)	DB08712	0
+24778473	DB07226 (DrugBank)	DB07226	0
+5289613	DB02728 (DrugBank)	ethyl-7-hydroxycoumarin-3-carboxylate	0
+10917	D02030 (KEGG) >> DB00583 (DrugBank 845) >> DB02648 (DrugBank)	L-carnitine	0
+10255	D02546 (KEGG)	kainate	0
+9958	DB04120 (DrugBank)	4-methylcatechol	1
+5276853	DB05492 (DrugBank) >> DB08290 (DrugBank)	Epicept NP-1	0
+9651	D02173 (KEGG) >> DB00674 (DrugBank)	galantamine	1
+657038	DB03509 (DrugBank)	3-(4-chlorophenyl)quinoxaline-5-carboxamide	0
+5289329	DB08523 (DrugBank)	[hydroxy(3-phenylpropyl)amino]methanol	0
+4139	D02312 (KEGG) >> DB08167 (DrugBank)	methylene blue	0
+79541	DB07650 (DrugBank)	decyl formate	0
+71355	D03735 (KEGG)	lecimibide	0
+71307	D01097 (KEGG) >> D04681 (KEGG)	lazabemide	0
+5288022	DB03813 (DrugBank)	2-decenoyl n-acetyl cysteamine	0
+73571	DB08517 (DrugBank)	sakuranetin	0
+74190	DB03822 (DrugBank)	ethanol/phosphate	1
+17758816	DB08657 (DrugBank)	DB08657	0
+67532	D08659 (KEGG) >> DB07637 (DrugBank)	DiBrY	0
+66644	DB03819 (DrugBank)	salicylhydroxamic acid	1
+77990	D02558 (KEGG) >> DB00989 (DrugBank 845)	rivastigmine	1
+5288588	DB04114 (DrugBank)	DB04114	0
+65719	D07914 (KEGG)	gene serine	0
+5288607	DB01691 (DrugBank)	indole naphthyridinone	0
+77998	D00596 (KEGG) >> DB00412 (DrugBank 845)	rosiglitazone	0
+78607	DB03056 (DrugBank)	4-piperidinopiperidine	0
+63306	DB02690 (DrugBank)	8-hydroxy-2-methylquinazolin-4-one	0
+16750123	DB07512 (DrugBank)	DB07512	0
+80668	DB03770 (DrugBank)	N-hydroxyguanidine	1
+60837	D01061 (KEGG) >> DB00762 (DrugBank 845)	irinotecan	0
+60824	D02563 (KEGG)	befloxatone	0
+5287720	DB01865 (DrugBank)	aminopyridine deriv. 9	0
+17754079	DB02276 (DrugBank)	DB02276	0
+5289289	DB04307 (DrugBank)	rhPAI	0
+95054	DB04196 (DrugBank) >> DB04357 (DrugBank)	pteroic acid	0
+5289295	DB02211 (DrugBank)	N-methyl-N-propargyl-1(R)-aminoindan	0
+98487	DB03073 (DrugBank)	3-methoxybenzamide	1
+107688	D05215 (KEGG)	obidoxime	0
+5287453	DB02939 (DrugBank)	1,4-diphenyl-2-butene	0
+51683	D06227 (KEGG)	swainsonine	0
+5289310	DB03894 (DrugBank)	N-propargyl-1(S)-aminoindan	0
+44570	D02560 (KEGG)	brofaromine	0
+148140	DB03722 (DrugBank)	3,4-dihydro-5-methylisoquinolinone	0
+5274976	DB07178 (DrugBank)	5-pentyl-2-phenoxyphenol	0
+8917	DB07611 (DrugBank)	decanethiol	0
+444800	DB03789 (DrugBank)	dimethylimidazolium	1
+443201	DB02496 (DrugBank)	DOXP	0
+443600	DB04310 (DrugBank)	actinonin	0
+5329	DB01015 (DrugBank 845)	sulfamethoxazole	1
+5314	D00766 (KEGG) >> D02275 (KEGG) >> DB00202 (DrugBank 845)	suxamethonium	0
+444200	DB03485 (DrugBank)	alpha-fucose	0
+444475	DB03886 (DrugBank)	NSC339699	0
+4369343	DB02628 (DrugBank)	AC1N9ZXO	0
+4991	D00487 (KEGG) >> DB00545 (DrugBank 845)	pyridostigmine	0
+4939	DB02166 (DrugBank)	propidium iodide	0
+15083623	DB08658 (DrugBank)	DB08658	0
+4913	D00477 (KEGG) >> DB01035 (DrugBank 845)	procainamide	1
+14812933	DB08684 (DrugBank)	O-Decyl Hydrogen Thiocarbonate	0
+5288154	DB01799 (DrugBank)	DB01799	0
+13294447	DB08050 (DrugBank)	2-oxo-5-phenylpentanoic acid	0
+4747	DB01608 (DrugBank 845)	propericiazine	0
+159596	DB04368 (DrugBank)	BB-3497	0
+4688	D02564 (KEGG) >> DB01626 (DrugBank 845)	pargyline	0
+445462	DB03592 (DrugBank)	6-hydroxymethylpterin monophosphate	0
+3492020	DB07641 (DrugBank)	decyldimethylphosphine oxide	0
+4456	D00995 (KEGG) >> D00998 (KEGG) >> DB01400 (DrugBank 845)	neostigmine	1
+3396560	DB04390 (DrugBank)	DB04390	0
+25023881	DB08529 (DrugBank)	BPH-798	0
+4409	DB00461 (DrugBank 845)	nabumetone	0
+5490675	D03751 (KEGG)	icopezil	0
+4359	DB03677 (DrugBank)	n-cyclohexyl-n'-decylurea	0
+4358	DB04213 (DrugBank)	1-cyclohexyl-3-(3-phenylpropyl)urea	0
+4357	DB02029 (DrugBank)	N-cyclohexyl-N'-(iodophenyl)urea	0
+4235	DB01171 (DrugBank 845)	moclobemide	0
+3378216	DB02990 (DrugBank)	DB02990	0
+4167	D01871 (KEGG) >> DB00340 (DrugBank 845)	tREST	0
+439260	D05206 (KEGG) >> D08284 (KEGG) >> DB00368 (DrugBank 845)	norepinephrine	0
+4369390	DB04685 (DrugBank)	DB04685	0
+4369424	DB07912 (DrugBank)	2-oxoheptylphosphonic acid	0
+367584	DB04317 (DrugBank)	C4H5cl2O5P	1
+5326966	DB04614 (DrugBank)	DB04614	0
+7965	DB02995 (DrugBank)	cyclohexylamine	1
+7809	DB03463 (DrugBank)	p-xylene	0
+7595	DB07496 (DrugBank)	carbanilide	0
+7500	DB01722 (DrugBank)	ethylbenzene	0
+166558	D03012 (KEGG)	avasimibe	0
+16122594	DB08333 (DrugBank)	DB08333	0
+7075	DB07478 (DrugBank)	3,4-dihydroxybiphenyl	0
+7054	DB02095 (DrugBank)	isatin	1
+6613	D01082 (KEGG) >> D07413 (KEGG)	pantothenic acid	1
+4635105	DB01788 (DrugBank)	DB01788	1
+171833	DB08605 (DrugBank)	AC1L589A	0
+174174	D02069 (KEGG) >> DB00572 (DrugBank 845)	atropine	0
+4470577	DB04030 (DrugBank)	AC1NBN0C	0
+6129	D07613 (KEGG)	carbaryl	0
+6115	DB06728 (DrugBank)	aniline	1
+181976	DB04594 (DrugBank)	3-hydroxyglutaric acid	1
+5992	D02418 (KEGG)	physostigmine salicylate	0
+192706	DB04892 (DrugBank)	phenserine	0
+5936	DB00677 (DrugBank 845)	diisopropylfluorophosphate (DFP	1
+193491	DB02738 (DrugBank)	adenosine 5'-pentaphosphate	0
+9925908	DB07330 (DrugBank)	A-620223	0
+193613	DB04531 (DrugBank)	S-benzyl-L-cysteine	0
+197033	D09917 (KEGG) >> D09918 (KEGG)	latrepirdine	0
+198751	D09835 (KEGG) >> DB04859 (DrugBank)	zanapezil	0
+4369567	DB08224 (DrugBank)	DB08224	0
+5585	D01034 (KEGG) >> DB04571 (DrugBank)	antipsoriatic	0
+214350	D04192 (KEGG)	MaxiPost	0
+233979	DB08082 (DrugBank)	4-chloro-n-(2-hydroxyethyl)benzamide	0
+657093	DB04617 (DrugBank)	AC1NR9X9	0

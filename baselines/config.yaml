@@ -1,0 +1,50 @@
+data_directory: "{__dir__}/../data"
+
+dataset:
+  directory: baselines
+  network_split: 4567
+  pca_n_components: 100
+  missings_threshold: 0.5
+  zeros_threshold: 0.9
+  neg_to_pos_ratio: 1
+  clean_arrays: True
+  random_state: 1234
+
+models:
+  # Organisms:  "all", [], or any subset of [5664, 5691, 5833]
+  model_other_organisms: all      # organisms used in overall dataset; should be fixed
+  retain_train_organisms: all     # organisms used in training splits; vary for comparison
+
+  # Global model settings
+  max_iter: 500
+  early_stopping_rounds: 100
+  torch_64: False
+  random_state: 1234
+  verbose_eval: 100
+
+  # Specific model settings and hypers
+  logistic_regression:
+    transform_X: True
+    hypers: {}
+
+  xgb:
+    transform_X: False
+    hypers:
+      objective: binary:logistic
+      max_depth: 6
+      eval_metric: [logloss, aucpr]
+
+  lgb:
+    transform_X: False
+    hypers:
+      objective: binary
+      max_depth: -1
+      metric: [binary_logloss, average_precision]
+
+  mlp:
+    transform_X: True
+    hypers:
+      optimizer_params:
+        lr: 1e-3
+      batch_size: null
+      hidden_sizes: [50, 50, 25]
