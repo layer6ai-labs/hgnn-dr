@@ -22,7 +22,7 @@ Finally, we use our model to predict protein-drug interactions that could be exp
 Create a new Python 3.8 Conda environment and install the requirements:
 
 ```bash
-conda create --name hgnn-dr
+conda create --name hgnn-dr python=3.8
 conda activate hgnn-dr
 pip install -r requirements-python3.8.txt
 ```
