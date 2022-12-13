@@ -55,6 +55,4 @@ To train the HGNN-DR and EGNN models, run
 python gcn/train.py
 ```
 
-This performs 3-fold CV to select the best number of training iterations for each model. Based on this, a final instance of each model will be trained and the test performance will be reported. It is also possible to save the final prediction scores for each model.
-
-Random seeds for the data split and other training / modeling properties can be adjusted in `gcn/config.py`
+Training and modeling properties can be adjusted in `gcn/config.py`.
