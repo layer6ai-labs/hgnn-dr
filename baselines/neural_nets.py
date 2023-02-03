@@ -4,54 +4,86 @@ from copy import deepcopy
 from torch.autograd import Variable
 
 
-class BaselineNN(nn.Module):
+def nn_linear(in_sz, out_sz, w_init=nn.init.xavier_normal_, b_init=0, **kwargs):
+    m = nn.Linear(in_sz, out_sz, **kwargs)
+    w_init(m.weight)
+    m.bias.data.fill_(b_init)
+    return m
+
+
+class BinaryMLP(nn.Module):
     def __init__(self,
-        criterion = nn.BCEWithLogitsLoss(),
-        optimizer = torch.optim.Adam,
-        optimizer_params = {"lr": 1e-3},
-        max_iter = 200,
-        early_stopping_rounds = 10,
+        transform_X = True,
+        hidden_dim = 50,
+        hidden_layers = 3,
+        seed = 1234,
+
+        lr = 1e-3,
+        beta1 = 0.9,
+        beta2 = 0.999,
+        weight_decay = 0.,
+        dropout_p = 0.,
+
+        max_iter = 500,
+        early_stopping_rounds = None,
         batch_size = None,
+
         verbosity = 20,
         use_cuda = True,
-        seed = 1234,
-        activation = nn.ReLU,
-        transform_X = True,
-        **kwargs
     ):
-        super(BaselineNN, self).__init__()
-        self.criterion = criterion
-        self.optimizer = optimizer
-        self.optimizer_params = optimizer_params
+        super(BinaryMLP, self).__init__()
+
+        self.hidden_dim = hidden_dim
+        self.hidden_layers = hidden_layers
+        self.transform_X = transform_X
+        self.seed = seed
+
+        self.lr = lr
+        self.beta1 = beta1
+        self.beta2 = beta2
+        self.weight_decay = weight_decay
+        self.dropout_p = dropout_p
+
         self.max_iter = max_iter
         self.early_stopping_rounds = early_stopping_rounds
         self.verbosity = verbosity
         self.batch_size = batch_size
         self.use_cuda = use_cuda and torch.cuda.is_available()
-        self.seed = seed
-        self.activation = activation
-        self.transform_X = transform_X
+
+        self.criterion = nn.BCEWithLogitsLoss()
 
         self.network_initialized = False
         self.best_iter = None
 
     def initialize_network(self, input_size, **kwargs):
-        raise NotImplementedError
+        H = [self.hidden_dim for _ in range(self.hidden_layers)]
+        self.fc_input = nn_linear(input_size, H[0])
+
+        self.transforms = [nn.Dropout(p=self.dropout_p), nn.ReLU()]
+        if len(H) > 1:
+            for h0, h1 in zip(H[:-1], H[1:]):
+                self.transforms += [nn_linear(h0, h1), nn.Dropout(p=self.dropout_p), nn.ReLU()]
+
+        self.transforms = nn.ModuleList(self.transforms)
+        self.fc_final = nn_linear(H[-1], 1)
+
+        self.to_cuda()
+        self.network_initialized = True
 
     def to_cuda(self, torch_obj=None):
         if torch_obj is None:
             torch_obj = self
         return torch_obj.cuda() if self.use_cuda else torch_obj
 
-    def train(self, X, y, X_val=None, y_val=None):
-        """
-        Returns the trained model and a way to make predictions on the model
-        """
-        if X_val is None:
-            self.fit(X, y)
-        else:
-            self.fit(X, y, X_val, y_val)
-        return self
+    def forward(self, x):
+        if not self.network_initialized:
+            self.initialize_network(x.shape[1])
+
+        out = self.fc_input(x)
+        for transform in self.transforms:
+            out = transform(out)
+        out = self.fc_final(out)
+        return out
 
     def fit(self, X, y, X_val=None, y_val=None):
         if self.seed is not None:
@@ -71,7 +103,11 @@ class BaselineNN(nn.Module):
         if not self.network_initialized:
             self.initialize_network(X.shape[1])
 
-        optimizer = self.optimizer(self.parameters(), **self.optimizer_params)
+        self.train()
+        optimizer = torch.optim.Adam(self.parameters(),
+                                     lr=self.lr,
+                                     betas=(self.beta1, self.beta2),
+                                     weight_decay=self.weight_decay)
 
         for epoch in range(self.max_iter):
             training_loss = 0
@@ -119,57 +155,15 @@ class BaselineNN(nn.Module):
                 print("")
 
             if early_stop:
-                print(f'Best epoch {best_iter_checkpoint+1}: val loss %.4f' % val_loss_checkpoint)
+                if self.verbosity >= 0:
+                    print(f'Best epoch {best_iter_checkpoint+1}: val loss %.4f' % val_loss_checkpoint)
                 self.load_state_dict(state_dict_checkpoint)
                 self.best_iter = best_iter_checkpoint+1
                 break
 
     @torch.no_grad()
     def predict(self, X, to_numpy=True):
+        self.eval()
         X = self.to_cuda(torch.Tensor(X))
         prediction = torch.sigmoid(torch.flatten(self(X)))
         return prediction.cpu().numpy() if to_numpy else prediction
-
-    def get_model(self):
-        return self
-
-    def get_best_iter(self):
-        return self.best_iter
-
-
-class BinaryMLP(BaselineNN):
-    def __init__(self, hidden_sizes=[50,50,20], **kwargs):
-        super(BinaryMLP, self).__init__(**kwargs)
-        self.hidden_sizes = hidden_sizes
-
-    def initialize_network(self, input_size, **kwargs):
-        H = self.hidden_sizes
-        self.fc_input = nn_linear(input_size, H[0])
-
-        self.transforms = [self.activation()]
-        if len(H) > 1:
-            for h0, h1 in zip(H[:-1], H[1:]):
-                self.transforms += [nn_linear(h0, h1), self.activation()]
-
-        self.transforms = nn.ModuleList(self.transforms)
-        self.fc_final = nn_linear(H[-1], 1)
-
-        self.to_cuda()
-        self.network_initialized = True
-
-    def forward(self, x):
-        if not self.network_initialized:
-            self.initialize_network(x.shape[1])
-
-        out = self.fc_input(x)
-        for transform in self.transforms:
-            out = transform(out)
-        out = self.fc_final(out)
-        return out
-
-
-def nn_linear(in_sz, out_sz, w_init=nn.init.xavier_normal_, b_init=0, **kwargs):
-    m = nn.Linear(in_sz, out_sz, **kwargs)
-    w_init(m.weight)
-    m.bias.data.fill_(b_init)
-    return m
