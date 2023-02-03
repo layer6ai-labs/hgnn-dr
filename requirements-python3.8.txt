@@ -1,6 +1,6 @@
 Bio==1.4.0
 goatools==1.2.3
-jax<=0.3.17
+jax>=0.3.17
 jax_unirep==2.2.0
 lightgbm==3.3.2
 matplotlib==3.5.3
