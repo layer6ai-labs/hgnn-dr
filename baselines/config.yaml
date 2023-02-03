@@ -1,4 +1,5 @@
 data_directory: "{__dir__}/../data"
+random_state: &random_state 1234
 
 dataset:
   directory: baselines
@@ -8,7 +9,6 @@ dataset:
   zeros_threshold: 0.9
   neg_to_pos_ratio: 1
   clean_arrays: True
-  random_state: 1234
 
 models:
   # Organisms:  "all", [], or any subset of [5664, 5691, 5833]
@@ -16,35 +16,39 @@ models:
   retain_train_organisms: all     # organisms used in training splits; vary for comparison
 
   # Global model settings
-  max_iter: 500
-  early_stopping_rounds: 100
-  torch_64: False
-  random_state: 1234
-  verbose_eval: 100
+  constants:
+    verbosity: 100
+    early_stopping_rounds: 50     # disabled when getting test results
+    random_state: *random_state
 
   # Specific model settings and hypers
-  logistic_regression:
-    transform_X: True
-    hypers: {}
+  lr:
+    transform_X: true
+    max_iter: 200
+    C: 100
 
   xgb:
-    transform_X: False
-    hypers:
-      objective: binary:logistic
-      max_depth: 6
-      eval_metric: [logloss, aucpr]
+    transform_X: false
+    num_boost_round: 433
+    lambda: 10
+    alpha: 0
+    eta: 0.1
+    max_depth: 10
 
   lgb:
-    transform_X: False
-    hypers:
-      objective: binary
-      max_depth: -1
-      metric: [binary_logloss, average_precision]
+    transform_X: false
+    num_boost_round: 392
+    lambda_l1: 0.1
+    lambda_l2: 10
+    learning_rate: 0.5
+    max_depth: 10
 
   mlp:
-    transform_X: True
-    hypers:
-      optimizer_params:
-        lr: 1e-3
-      batch_size: null
-      hidden_sizes: [50, 50, 25]
+    transform_X: true
+    max_iter: 500
+    hidden_dim: 40
+    hidden_layers: 3
+    lr: 0.001
+    weight_decay: 0.01
+    dropout_p: 0
+    batch_size: null

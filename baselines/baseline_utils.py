@@ -4,27 +4,21 @@ import numpy as np
 import os
 import pandas as pd
 import sys
-from omegaconf import OmegaConf
 from sklearn.impute import SimpleImputer
 from sklearn.pipeline import Pipeline
 from sklearn.metrics import roc_auc_score, average_precision_score
 from scipy.sparse import csr_matrix
 
+from config import DATASET_CONF, RANDOM_STATE
 
-_BASE_DIR = os.path.dirname(os.path.realpath(__file__))
-
-_BASE_CONF = OmegaConf.load(f"{_BASE_DIR}/config.yaml")
-
-_DATASET_CONF = _BASE_CONF.dataset
-RANDOM_STATE = _DATASET_CONF.random_state
-MISSINGS_THRESHOLD = _DATASET_CONF.missings_threshold
-ZEROS_THRESHOLD = _DATASET_CONF.zeros_threshold
-PCA_N_COMPONENTS = _DATASET_CONF.pca_n_components
-NEG_TO_POS_RATIO = _DATASET_CONF.neg_to_pos_ratio
-CLEAN_ARRAYS = _DATASET_CONF.clean_arrays
+MISSINGS_THRESHOLD = DATASET_CONF.missings_threshold
+ZEROS_THRESHOLD = DATASET_CONF.zeros_threshold
+PCA_N_COMPONENTS = DATASET_CONF.pca_n_components
+NEG_TO_POS_RATIO = DATASET_CONF.neg_to_pos_ratio
+CLEAN_ARRAYS = DATASET_CONF.clean_arrays
 
 
-def loadGCNData(split_seed=_DATASET_CONF.network_split):
+def loadGCNData(split_seed=DATASET_CONF.network_split):
     sys.path.append(os.path.join(os.path.dirname(os.path.realpath(__file__)), ".."))
 
     from gcn.config import parser

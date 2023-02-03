@@ -78,7 +78,7 @@ def create_mordred_features_file(
     features = pd.DataFrame(features).set_index("chemical")
 
     if filter_file is not None:
-        with open(path.join(data_directory, filter_file), "r") as f:
+        with open(path.abspath(path.join(data_directory, filter_file)), "r") as f:
             keep_features = f.read().splitlines()
 
         features = features[keep_features]

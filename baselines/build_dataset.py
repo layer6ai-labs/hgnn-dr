@@ -1,24 +1,18 @@
-import argparse
 import baseline_utils as bu
 import numpy as np
 import os
 import pickle
-from omegaconf import OmegaConf
 
-__DIR__ = os.path.dirname(os.path.realpath(__file__))
+import argparse
+from config import DATASET_CONF, OUT_DIR, RANDOM_STATE
 
-_BASE_CONF = OmegaConf.load(os.path.join(__DIR__, "config.yaml"))
-_DATA_DIR = _BASE_CONF.data_directory.format(__dir__=__DIR__)
-
-_DATASET_CONF = _BASE_CONF.dataset
 parser = argparse.ArgumentParser()
-parser.add_argument('--network_split', default=_DATASET_CONF.network_split, type=int)
-parser.add_argument('--random_state', default=_DATASET_CONF.random_state, type=int)
+
+parser.add_argument('--network_split', default=DATASET_CONF.network_split, type=int)
+parser.add_argument('--random_state', default=RANDOM_STATE, type=int)
 args = parser.parse_args()
 NETWORK_SPLIT = args.network_split
 RANDOM_STATE = args.random_state
-
-OUTDIR = f"{_DATA_DIR}/{_DATASET_CONF.directory}"
 
 
 # Load multiorg data
@@ -26,7 +20,7 @@ print("Loading GCN multi-organism data")
 data = bu.loadGCNData(split_seed=NETWORK_SPLIT)
 
 # Load features
-with open(f"{OUTDIR}/features.pkl", 'rb') as f:
+with open(f"{OUT_DIR}/features.pkl", 'rb') as f:
     features = pickle.load(f)
 
 p_dim = features["protein"]['feature_matrix_pca'].shape[1]
@@ -35,7 +29,7 @@ m_dim = features["mordred"]['feature_matrix_pca'].shape[1]
 n_features = sum([p_dim, r_dim, m_dim])
 
 # Build ML-ready dataset
-print("Building dataset")
+print("\nBuilding dataset")
 
 ml = {
     "feature_names": (
@@ -53,6 +47,7 @@ for edgeset in ['other', 'warm', 'test']:
     edges = data.data[f"{edgeset}_edges"].numpy()
     edges_false = data.data[f"{edgeset}_edges_false"].numpy()
 
+    print(f"{edgeset.capitalize()} edges:", end="\t")
     X, y, E = bu.buildDataset(edges, edges_false, data.data, features, n_features,
                               shuffle=RANDOM_STATE)
 
@@ -65,6 +60,7 @@ for fold, (edges, edges_false) in enumerate(zip(data.data["fold_edges"],
     edgeset = f"fold_{fold}"
     edges, edges_false = edges.numpy(), edges_false.numpy()
 
+    print(f"Fold {fold}:", end="\t")
     X, y, E = bu.buildDataset(edges, edges_false, data.data, features, n_features,
                               shuffle=RANDOM_STATE)
 
@@ -75,6 +71,7 @@ for fold, (edges, edges_false) in enumerate(zip(data.data["fold_edges"],
 edges = data.data[f"test_edges"].numpy()
 edges_false = data.data[f"test_edges_false"].numpy()
 
+print(f"All test edges:", end="\t")
 X, y, E = bu.buildDataset(edges, edges_false, data.data, features, n_features,
                           shuffle=None, neg_to_pos_ratio=None)
 
@@ -83,9 +80,9 @@ ml[f"y_alltest"] = y
 ml[f"edges_alltest"] = E
 
 # Save features and dataset
-os.makedirs(OUTDIR, exist_ok=True)
+os.makedirs(OUT_DIR, exist_ok=True)
 
-output_filename = f'{OUTDIR}/dataset.npz'
+output_filename = f'{OUT_DIR}/dataset.npz'
 np.savez_compressed(output_filename, **ml)
 
-print("Finished building ML-ready baseline dataset with sucess!")
+print("\nFinished building ML-ready baseline dataset with sucess!")
